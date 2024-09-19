@@ -1,0 +1,98 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/edgedl/diffgen-puffin/hfnkpimlhhgieaddgfemjhofmfblmnib/1.7e228bd791edb3d32a3fe354437f51e47dfab"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@exercise 02 - @searcher/%resources%/recorded-artifacts/22a55755-c3fe-4c28-81e1-e754bc4ca452.zip"
+    slaProfileEnabled="false" thinkTime="2119"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="22a55755-c3fe-4c28-81e1-e754bc4ca452">
+    <embedded-action>914e529f-5f38-4b0c-8eda-005db9401cec</embedded-action>
+    <embedded-action>0c9a2f95-11bf-44e9-b9b9-4220c72eab60</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_22a55755-c3fe-4c28-81e1-e754bc4ca452.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/octet-stream"
+    eTag="&quot;31fe2e4&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 16 Sep 2024 02:05:10 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="HEAD"
+    name="/edgedl/diffgen-puffin/hfnkpimlhhgieaddgfemjhofmfblmnib/1.7e228bd791edb3d32a3fe354437f51e47dfab4124a94525b0912f89dd0587845/1.99e4f965787e9bf84db96ea1ee9a458133c15bb99de764be7ea37d1d3ca07f98/12014805c41d3be3779117945a8386ccc49d8a22c1162248acfff9f3d8ed5fb2"
+    path="/edgedl/diffgen-puffin/hfnkpimlhhgieaddgfemjhofmfblmnib/1.7e228bd791edb3d32a3fe354437f51e47dfab4124a94525b0912f89dd0587845/1.99e4f965787e9bf84db96ea1ee9a458133c15bb99de764be7ea37d1d3ca07f98/12014805c41d3be3779117945a8386ccc49d8a22c1162248acfff9f3d8ed5fb2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@exercise 02 - @searcher/%resources%/recorded-artifacts/22a55755-c3fe-4c28-81e1-e754bc4ca452.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="edgedl.me.gvt1.com" slaProfileEnabled="false"
+    uid="914e529f-5f38-4b0c-8eda-005db9401cec" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_914e529f-5f38-4b0c-8eda-005db9401cec</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_914e529f-5f38-4b0c-8eda-005db9401cec.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="identity"/>
+    <header name="Host" value="edgedl.me.gvt1.com"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="User-Agent" value="Microsoft BITS/7.8"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+accept-ranges:  none&#xd;
+content-disposition: attachment&#xd;
+content-length: 12740&#xd;
+content-security-policy: default-src 'none'&#xd;
+server: Google-Edge-Cache&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 0&#xd;
+x-request-id: e61357b9-b3d8-47c3-a5d8-82d8deab9c0a&#xd;
+date: Mon, 16 Sep 2024 02:11:27 GMT&#xd;
+age: 112&#xd;
+last-modified: Mon, 16 Sep 2024 02:05:10 GMT&#xd;
+etag: "31fe2e4"&#xd;
+content-type: application/octet-stream&#xd;
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000&#xd;
+cache-control: public,max-age=86400</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    eTag="&quot;31fe2e4&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 16 Sep 2024 02:05:10 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/edgedl/diffgen-puffin/hfnkpimlhhgieaddgfemjhofmfblmnib/1.7e228bd791edb3d32a3fe354437f51e47dfab4124a94525b0912f89dd0587845/1.99e4f965787e9bf84db96ea1ee9a458133c15bb99de764be7ea37d1d3ca07f98/12014805c41d3be3779117945a8386ccc49d8a22c1162248acfff9f3d8ed5fb2"
+    path="/edgedl/diffgen-puffin/hfnkpimlhhgieaddgfemjhofmfblmnib/1.7e228bd791edb3d32a3fe354437f51e47dfab4124a94525b0912f89dd0587845/1.99e4f965787e9bf84db96ea1ee9a458133c15bb99de764be7ea37d1d3ca07f98/12014805c41d3be3779117945a8386ccc49d8a22c1162248acfff9f3d8ed5fb2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@exercise 02 - @searcher/%resources%/recorded-artifacts/22a55755-c3fe-4c28-81e1-e754bc4ca452.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="edgedl.me.gvt1.com" slaProfileEnabled="false"
+    uid="0c9a2f95-11bf-44e9-b9b9-4220c72eab60" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0c9a2f95-11bf-44e9-b9b9-4220c72eab60</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0c9a2f95-11bf-44e9-b9b9-4220c72eab60.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="identity"/>
+    <header name="Host" value="edgedl.me.gvt1.com"/>
+    <header name="If-Unmodified-Since" value="Mon, 16 Sep 2024 02:05:10 GMT"/>
+    <header name="Proxy-Connection" value="Keep-Alive"/>
+    <header name="Range" value="bytes=0-1119"/>
+    <header name="User-Agent" value="Microsoft BITS/7.8"/>
+    <responseHeaders>HTTP/1.1 206 Partial Content&#xd;
+accept-ranges: bytes&#xd;
+content-disposition: attachment&#xd;
+content-length: 1120&#xd;
+content-security-policy: default-src 'none'&#xd;
+content-type: application/octet-stream&#xd;
+etag: "31fe2e4"&#xd;
+last-modified: Mon, 16 Sep 2024 02:05:10 GMT&#xd;
+server: Google-Edge-Cache&#xd;
+x-content-type-options: nosniff&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-xss-protection: 0&#xd;
+date: Mon, 16 Sep 2024 02:11:27 GMT&#xd;
+x-request-id: 691e88a4-d684-4414-9088-d806f445c6d6&#xd;
+age: 112&#xd;
+content-range: bytes 0-1119/12740&#xd;
+alt-svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000&#xd;
+cache-control: public,max-age=86400&#xd;
+coprocessor-response: download-server</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

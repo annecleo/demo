@@ -1,0 +1,19 @@
+# Project description file
+
+project.name=Training
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.2.1
+project.is-open-test-settings-after-upload=true
+project.id=0450f17e-d806-47b4-bd71-fe180a3de218
+project.config.path=config.zip
+project.config.storage=ZIP
+team.server.enabled=true
+project.workspace=5e3acde2e860a132744ca916
+project.test-settings=a4b49f44-a416-4b2f-9556-1b7d6e2319cf
+project.test-settings-name=AnnE-Training
+team.server.project=/annecleo/demo.git

@@ -1,0 +1,50 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/v1/leaks:lookupSingle" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@exercise 03 - @buyer/%resources%/recorded-artifacts/c6f2397c-c1f4-44cf-9659-bd15e8e84326.zip"
+    slaProfileEnabled="false" thinkTime="555"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c6f2397c-c1f4-44cf-9659-bd15e8e84326">
+    <embedded-action>13e357e0-1d1f-4822-8f2f-54ac377752b9</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c6f2397c-c1f4-44cf-9659-bd15e8e84326.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/v1/leaks:lookupSingle"
+    path="/v1/leaks:lookupSingle" postType="2"
+    recordedArtifactZipFileName="team/vus/@exercise 03 - @buyer/%resources%/recorded-artifacts/c6f2397c-c1f4-44cf-9659-bd15e8e84326.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="passwordsleakcheck-pa.googleapis.com"
+    slaProfileEnabled="false" uid="13e357e0-1d1f-4822-8f2f-54ac377752b9" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[CgT1v6yAEBoaIQMGvccHAqWMcEgRXob4qu9Hm3GVgU0xm7tNYRHMKCvCCyAF]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_13e357e0-1d1f-4822-8f2f-54ac377752b9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_13e357e0-1d1f-4822-8f2f-54ac377752b9.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="Bearer ya29.a0AcM612y9xIKHPx1qp-EBmrNPOarQ_25mNYnqc54V1LBwrjhJ6uMKtq2JgNhuyU5a4gxheih60b7eW1KVr0bFc9bMTo12H_cLIPx_L-nrH0FKfixy4l5hQT0K9zcJDMyFSy77eZ1hqXeSJoYPdbwTq2b1o1vUBMaX_EXb3Atc8uiaB0qsTzVHPnr-LV4id50LYCBnn7IDi63Pxqean5EKiNTJUY_8AtCnQZY-slyYB31r9sE7GiyJhD_b0g__U4ihfCkgidMXT_0vvAaCgYKAU0SARASFQHGX2Miy906xObWsgqSGvlpElOJog0277"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="content-type" value="application/x-protobuf"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/x-protobuf&#xd;
+content-disposition: attachment&#xd;
+vary: Origin&#xd;
+vary: X-Origin&#xd;
+vary: Referer&#xd;
+content-encoding: gzip&#xd;
+date: Mon, 16 Sep 2024 03:03:00 GMT&#xd;
+server: ESF&#xd;
+cache-control: private&#xd;
+content-length: 5347&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

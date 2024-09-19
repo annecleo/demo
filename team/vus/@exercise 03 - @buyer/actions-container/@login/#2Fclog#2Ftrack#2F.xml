@@ -1,0 +1,66 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/clog/track/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@exercise 03 - @buyer/%resources%/recorded-artifacts/25b49caa-fbc9-40bb-bf5e-b0333aa92923.zip"
+    slaProfileEnabled="false" thinkTime="2089"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="25b49caa-fbc9-40bb-bf5e-b0333aa92923">
+    <embedded-action>bd72cfed-61f5-4601-8c30-71f3cccb2da8</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_25b49caa-fbc9-40bb-bf5e-b0333aa92923.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/clog/track/" path="/clog/track/"
+    postCharset="iso-8859-1" postType="3"
+    recordedArtifactZipFileName="team/vus/@exercise 03 - @buyer/%resources%/recorded-artifacts/25b49caa-fbc9-40bb-bf5e-b0333aa92923.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="tricentis.slack.com" slaProfileEnabled="false"
+    uid="bd72cfed-61f5-4601-8c30-71f3cccb2da8" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[LS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5QWZuMjM4QWtZajBqYzVBaQ0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJsb2dzIg0KDQpbeyJ0c3RhbXAiOjE3MjY0NTU3NzUzODYsImV2ZW50IjoiU0VTU0lPTl9FTkQiLCJhcmdzIjp7ImNvbnRleHRzIjp7ImRlc2t0b3AiOnsiaW5zdGFuY2VVaWQiOiJjMDE1MzJjZi03ZDc5LTRhM2ItODc3NS03OTQwY2MyMTdkNjciLCJyZWxlYXNlQ2hhbm5lbCI6InByb2QifX19LCJ1c2VyX2lkIjoiVTA3Sk1CSFZBTjgiLCJ0ZWFtX2lkIjoiVDAzSzMxUTgzIiwiY2xpZW50X3Nlc3Npb24iOnsidWlkIjoiZFBTMHpwX3dnNGsiLCJ0aW1lc3RhbXBfc3RhcnQiOjE3MjY0NTU2OTAsInRpbWVzdGFtcF9yZWZyZXNoIjoxNzI2NDU1NzA5LCJzZWNvbmRzX29mZmxpbmUiOjAsInZlcnNpb24iOjB9LCJpMThuX2xvY2FsZSI6ImVuLVVTIiwic3ViX2FwcF9uYW1lIjoiY2xpZW50In1dDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlBZm4yMzhBa1lqMGpjNUFpDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Im8iDQoNCmNsaWVudA0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5QWZuMjM4QWtZajBqYzVBaS0tDQo=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_bd72cfed-61f5-4601-8c30-71f3cccb2da8.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bd72cfed-61f5-4601-8c30-71f3cccb2da8.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="origin" value="https://app.slack.com"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;24&quot;, &quot;Chromium&quot;;v=&quot;128&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="multipart/form-data; boundary=----WebKitFormBoundaryAfn238AkYj0jc5Ai"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0.22631; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Slack/4.40.126 Chrome/128.0.6613.84 Electron/32.0.2 Safari/537.36 OS_Product/Workstation Servicing_Channel/SAC MSQ Sonic Slack_SSB/4.40.126"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Mon, 16 Sep 2024 03:03:03 GMT&#xd;
+server: Apache&#xd;
+content-type: image/gif&#xd;
+cache-control: no-cache, no-store&#xd;
+access-control-allow-origin: *&#xd;
+report-to: {"max_age":86400,"include_subdomains":false,"endpoints":[{"url":"https://slackb.com/report-to"}]}&#xd;
+nel: {"max_age":86400,"report_to":"default","include_subdomains":false,"success_fraction":0,"failure_fraction":1}&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+referrer-policy: no-referrer&#xd;
+x-slack-unique-id: Zuef5yZrw8FH5IeJ7eEIAgABIAo&#xd;
+x-slack-backend: r&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+content-length: 29&#xd;
+via: 1.1 slack-prod.tinyspeck.com, envoy-www-iad-ujyppfda, envoy-edge-sin-rojpbdsz&#xd;
+x-envoy-attempt-count: 1&#xd;
+x-envoy-upstream-service-time: 878&#xd;
+x-backend: beacons_normal beacons_canary_with_overflow beacons_control_with_overflow&#xd;
+x-server: slack-www-hhvm-beacons-iad-iwrv&#xd;
+x-slack-shared-secret-outcome: no-match&#xd;
+x-edge-backend: envoy-www&#xd;
+x-slack-edge-shared-secret-outcome: no-match</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <multiparts>
+        <multipart-string name="logs" recordRawValue=""
+            value="[{&quot;tstamp&quot;:1726455775386,&quot;event&quot;:&quot;SESSION_END&quot;,&quot;args&quot;:{&quot;contexts&quot;:{&quot;desktop&quot;:{&quot;instanceUid&quot;:&quot;c01532cf-7d79-4a3b-8775-7940cc217d67&quot;,&quot;releaseChannel&quot;:&quot;prod&quot;}}},&quot;user_id&quot;:&quot;U07JMBHVAN8&quot;,&quot;team_id&quot;:&quot;T03K31Q83&quot;,&quot;client_session&quot;:{&quot;uid&quot;:&quot;dPS0zp_wg4k&quot;,&quot;timestamp_start&quot;:1726455690,&quot;timestamp_refresh&quot;:1726455709,&quot;seconds_offline&quot;:0,&quot;version&quot;:0},&quot;i18n_locale&quot;:&quot;en-US&quot;,&quot;sub_app_name&quot;:&quot;client&quot;}]" valueMode="USE_VALUE"/>
+        <multipart-string name="o" recordRawValue="" value="client" valueMode="USE_VALUE"/>
+    </multiparts>
+</http-action>

@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/v4/threatListUpdates:fetch" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@exercise 03 - @buyer/%resources%/recorded-artifacts/3004f2db-3021-420d-bed8-9992f42eacca.zip"
+    slaProfileEnabled="false" thinkTime="9256"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="3004f2db-3021-420d-bed8-9992f42eacca">
+    <embedded-action>f65424d6-1cec-4b4a-82f7-86f4a6a7a804</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_3004f2db-3021-420d-bed8-9992f42eacca.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/x-protobuf"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v4/threatListUpdates:fetch"
+    path="/v4/threatListUpdates:fetch" postType="6"
+    recordedArtifactZipFileName="team/vus/@exercise 03 - @buyer/%resources%/recorded-artifacts/3004f2db-3021-420d-bed8-9992f42eacca.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="safebrowsing.googleapis.com" slaProfileEnabled="false"
+    uid="f65424d6-1cec-4b4a-82f7-86f4a6a7a804" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f65424d6-1cec-4b4a-82f7-86f4a6a7a804</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f65424d6-1cec-4b4a-82f7-86f4a6a7a804.txt</requestContentFileDescription>
+    <parameter encodeName="false" encodeValue="false" name="$req"
+        recordRawValue="Ch4KDGdvb2dsZWNocm9tZRIOMTI4LjAuNjYxMy4xMzgaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARDu0xgaAhgK4bg1LSIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQ-o4PGgIYCtr7looiBCABIAIoARopCAMQARobCg0IAxAGGAEiAzAwMTABEKSGDxoCGAo_Dao1IgQgASACKAEaKQgOEAEaGwoNCA4QBhgBIgMwMDEwARCzywcaAhgKlx-EYSIEIAEgAigBGigIARAIGhoKDQgBEAgYASIDMDAxMAQQujoaAhgKQ2EwBSIEIAEgAigEGikIDxABGhsKDQgPEAYYASIDMDAxMAEQks4DGgIYCtHA_kwiBCABIAIoARonCAoQCBoZCg0IChAIGAEiAzAwMTABEAcaAhgKHtp7lSIEIAEgAigBGicICRABGhkKDQgJEAYYASIDMDAxMAEQIxoCGApf0ZZUIgQgASACKAEaKAgIEAEaGgoNCAgQBhgBIgMwMDEwARDZFhoCGAqYWxpAIgQgASACKAEaKQgNEAEaGwoNCA0QBhgBIgMwMDEwARCrqwIaAhgK7niNPSIEIAEgAigBGikIBxABGhsKDQgHEAYYASIDMDAxMAEQhtUPGgIYCsKLMn4iBCABIAIoARooCBAQARoaCg0IEBAGGAEiAzAwMTABELQnGgIYClkPb4EiBCABIAIoASICCAE="
+        separator="="
+        value="Ch4KDGdvb2dsZWNocm9tZRIOMTI4LjAuNjYxMy4xMzgaKQgFEAEaGwoNCAUQBhgBIgMwMDEwARDu0xgaAhgK4bg1LSIEIAEgAigBGikIARABGhsKDQgBEAYYASIDMDAxMAEQ-o4PGgIYCtr7looiBCABIAIoARopCAMQARobCg0IAxAGGAEiAzAwMTABEKSGDxoCGAo_Dao1IgQgASACKAEaKQgOEAEaGwoNCA4QBhgBIgMwMDEwARCzywcaAhgKlx-EYSIEIAEgAigBGigIARAIGhoKDQgBEAgYASIDMDAxMAQQujoaAhgKQ2EwBSIEIAEgAigEGikIDxABGhsKDQgPEAYYASIDMDAxMAEQks4DGgIYCtHA_kwiBCABIAIoARonCAoQCBoZCg0IChAIGAEiAzAwMTABEAcaAhgKHtp7lSIEIAEgAigBGicICRABGhkKDQgJEAYYASIDMDAxMAEQIxoCGApf0ZZUIgQgASACKAEaKAgIEAEaGgoNCAgQBhgBIgMwMDEwARDZFhoCGAqYWxpAIgQgASACKAEaKQgNEAEaGwoNCA0QBhgBIgMwMDEwARCrqwIaAhgK7niNPSIEIAEgAigBGikIBxABGhsKDQgHEAYYASIDMDAxMAEQhtUPGgIYCsKLMn4iBCABIAIoARooCBAQARoaCg0IEBAGGAEiAzAwMTABELQnGgIYClkPb4EiBCABIAIoASICCAE=" valueMode="USE_VALUE"/>
+    <parameter encodeName="false" encodeValue="false" name="$ct"
+        recordRawValue="application/x-protobuf" separator="="
+        value="application/x-protobuf" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="key"
+        recordRawValue="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"
+        separator="=" value="AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="x-http-method-override" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-disposition: attachment&#xd;
+server: scaffolding on HTTPServer2&#xd;
+content-length: 904&#xd;
+x-xss-protection: 0&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+x-content-type-options: nosniff&#xd;
+date: Mon, 16 Sep 2024 02:58:28 GMT&#xd;
+content-type: application/x-protobuf&#xd;
+vary: Accept-Encoding&#xd;
+age: 337&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

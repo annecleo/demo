@@ -1,0 +1,6 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Click Great Companion" pacingEnd="0"
+    pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+    slaProfileEnabled="false" uid="a56e9dba-3761-4b22-a7d0-5d4a18a204a2" weightsEnabled="false">
+    <weighted-embedded-action uid="afbd3be2-5ae0-42b5-b061-ca4a0e033d4d"/>
+</basic-logical-action-container>
