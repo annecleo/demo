@@ -1,0 +1,47 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="${neoload_api_base_path}/projects/${projectId}/run"
+    path="${neoload_api_base_path}/projects/${projectId}/run"
+    postType="4" recordedResponseCode="200"
+    serverUid="neoload_api_server" slaProfileEnabled="false"
+    uid="36388432-5527-4d6c-aabf-031657673117" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@neo@load @a@p@i/%resources%/recorded-responses/res_36388432-5527-4d6c-aabf-031657673117</responsePageFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="name"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="description" recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="asCode"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="scenarioName" recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="reservationId" recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="reservationDuration" recordRawValue="" separator="="
+        value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="reservationWebVUs" recordRawValue="" separator="="
+        value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="reservationSAPVUs" recordRawValue="" separator="="
+        value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="controllerZoneId" recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="lgZones" recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="publishTestResult" recordRawValue="" separator="="
+        value="" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="deleteProjectAfterTest" recordRawValue="" separator="="
+        value="" valueMode="USE_VALUE"/>
+    <header name="accountToken" value="${neoload_api_token}"/>
+    <responseHeaders>HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 27</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[]]></textPostContent>
+</http-action>

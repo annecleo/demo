@@ -1,0 +1,76 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/v1/livepersonacard/configuration_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/ab3f82a4-5935-47fb-b04b-da31b858112d.zip"
+    slaProfileEnabled="false" thinkTime="2"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="ab3f82a4-5935-47fb-b04b-da31b858112d">
+    <embedded-action>8b411246-23f0-4162-b1c1-f8e62144cc90</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_ab3f82a4-5935-47fb-b04b-da31b858112d.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/v1/livepersonacard/configuration"
+    path="/api/v1/livepersonacard/configuration" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/ab3f82a4-5935-47fb-b04b-da31b858112d.zip"
+    recordedResponseCode="200" responseSize="8493"
+    serverUid="loki.delve.office.com" slaProfileEnabled="false"
+    uid="8b411246-23f0-4162-b1c1-f8e62144cc90" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8b411246-23f0-4162-b1c1-f8e62144cc90</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8b411246-23f0-4162-b1c1-f8e62144cc90.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cultureName"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="x-clienttype" value="OneOutlook"/>
+    <header name="authorization" value="Bearer eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ4NXQiOiJtRXpHeF80OE9MOWcxdXh1QkFnRXVOdGJqcVEiLCJ6aXAiOiJERUYifQ.rY-42IxmU9yQI0dhSd19zXQAULUlHCeRTe_Bww5RhoeU4vWtJAfMsrAGbHaRakKRkKykS4T7wSZiBk_u_Wwq1uOb3UNVLekhdwpawvHpiMkzoK7jgPmLXGyGvKN4L7W6tSnlKi8xObnmu1n97gdP8kBXraMsB7zxJDWYsXuDnhwp22rQYxnq6efD-GhGGLN_XLHb_826PAU_Byj6usgdQcsfoCuZBV7-TiorYWnNQ8wsS8VHW3abjge3MFPLtNzXf88WRa9qahqaMm_tVUuiHWA0oUdsSjC6gT7vLzHenNfM5H5_x9tN4p4XmBhV_MNtdkTHBqS-4XIFlNEWLDhmGg.fqW0xzIXWOWKSAJ1zTEU0Q.0K3EO6NQtJIQPbxVI6AxLEaQ-xS3i4Emml1gMulJ_E_waYj6AYZKt6lW_iKS2CvthPOkryFS8xbEp0ecrHgJ88hyllrTXkHmeheyIzBecG1-meL8cAhP5QYoFWXXBYaHogvkkrAjiqZXQfiKjgR4rZ-0_hCOmGfd9WgVZIg4E2FMX-0bZxjHpBZVXexW27IonTRwBGqEUVCkd_OHCJxY5ospOoX5rS1EDE3edxq8MvjdSArxsI2cTdcgi1d1AZouyjvQV2mUz_WPU9mfEbPeVBNr_ca847mp5A1Ylf6GbP539KdCkAvMuYL16Dp5OVgOwrR-8YlnrKV4v2ocHMTIrxZI-tNxxcdM4sOJGp-sF47LY5YlA1nglSfFlav9CD4BCx_0HTNU0GbVi4QnvxMANa2VvCK3tvYqqFuxrn-wzjmYx80fxQJ7pHUHYKkj0SwelGFf_4jxvjVrZVaiYpBb0e3_Zeiz1tnDMu8Ce1ySooCho29JTDBFmr0FmeUnKlF6Ig-8EnLEH4bnkdMk83Sud6rXxz-c7vD5ToTSA-9Tl24ySAtbeiXcVZQWQVCEzIrujl1-0umwqUpDdWuc5Iai9TYt1KyJtndEgPoC9tFTZ-kqdpOSH1-SpuKwZQAztJM3GECYNsL_Wjb72KwRDJXXng3LxKEfbGUTeHzA69-3GVxAoV3GKLvfjdLn_lRXGqpw2QBKdyYiKDVVS53-37aJALMDo8pPxKer2-OgO42IQEYGieieI2PY8drCUMQqFyyyBZTOGV4wUYiTY2SQ8YApPjVqq_VF2QDOeCCqPFLQkyBoocEM0721wfc4HX73sELqbBadhdDPn1dDtg9eoItEInnKKnTmhE8vhV8i5HNH-jVcVOk3YkJ_6Gb4he9JVN2RqgNC6dZYg8vgF4dA_jQRicXoWhtK64WVHz9A3H9a0azWLe0HCqUocN3MRXZP5cSzkBHofm_gKWX_iN7V89DMXuCVFr7VTgFvRaCqf3cESva57QeVaRDrJTfuyY81OG01CO1iMX3SsxR9nG9MQ5dngzbiHUY85cz-OwCrv9pDPiywHOYVPQ58uTXP1oUERNv4efgU3-jDyAqth6SNbTJrh-LEpSCWX8PjsGXR-jl-CMewdqll5t4SRS_i0DrpwZ2OLBhONkzffT1ejwyZO16HzQ3nraUQi91iqFs-bQVZLluLLuUwhtY3_0YRK_C30eIB_YFmXAXxO9VbCTpns6HxQ79x4tJ-1KuDG-ZB2RU9csCx9ZKv_Gy7cNwVVXhoDNYvoUQ12h16V-Nz64hCrTCQBNguQrwLj1OeHf0VKMKxGcfkTaYulueb5vgKt18H-PWqAE6L4DMlxvGUFHJgOYo3ihhXW7Ol0AykxlD0BRlMtIbKlWty5DCUg4tMjYyhLFWRj68IgA8y9SMXlx_OGP_j19ZqfAWLs-PzzwSdp2lP9OUNA9gPAuUBz2SBa0obkbnUaazXMzeLuyf4uH111kzfNE41xNmGSG1USu15iXJcAlV85EKIzZES4DzX769zA_7crE6D4dQRJX_Bmiaptfhn_T151W2edhYJfDbp7PeJOgKPobXLvdaoVlfzGv8LPFALfMnZrf0lSvaoHFRMO-BJ4ic_NdVsO_1SBRnxtNgTeah5piMtxvRZGsCnl70_QLgvr6YCL87XXtVBycSOgqDZPeW6s8di7HEAOuvIufOuY5bUNG4U6e8MA-Z2okjaGBfB-mS7xhbJEtRLD93nm30v6w.6dooqnlEEn-CW8k_vfgdBA"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="x-rootcorrelationid" value="55e536c6-f346-49b3-a5ac-d88ba2cd2d58"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="x-hostappconfiguration" value="{}"/>
+    <header name="x-lpcversion" value="1.20240923.1.0"/>
+    <header name="x-clientarchitectureversion" value="v2"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-hostappapp" value="Mail"/>
+    <header name="x-clientcorrelationid" value="1e249e5e-535a-46a8-ba14-e1f78a47f4db"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="x-hostappring" value="WW"/>
+    <header name="x-hostappversion" value="20240920004.12"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="x-hostappplatform" value="Web"/>
+    <header name="x-correlationid" value="55e536c6-f346-49b3-a5ac-d88ba2cd2d58"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="x-clientfeature" value="LivePersonaCard"/>
+    <header name="x-clientscenario" value="GetConfiguration"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="x-hostappreactversion" value="18.2.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=UTF-8&#xd;
+date: Tue, 01 Oct 2024 21:49:18 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: X-ServerVersion,X-InboundDuration,X-BEServer,X-TokenTtl,Location,X-SocialDistance,X-CorrelationId,X-DataCenter,X-FD-Ref,Retry-After,WWW-Authenticate,X-ClientFlighting-Etag,X-ClientFlighting-Updated,request-id,X-PPSBeServer,X-ServiceRing,X-OutboundRequestDuration&#xd;
+cache-control: no-store&#xd;
+content-encoding: br&#xd;
+vary: Accept-Encoding&#xd;
+vary: Origin&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-beserver: _Loki3_4&#xd;
+x-datacenter: PROD_SOUTHEASTASIA&#xd;
+x-serverversion: 1.20240927.10.0&#xd;
+x-content-type-options: nosniff&#xd;
+x-tokenttl: 4081&#xd;
+x-connectionid: 0HN720GI97VPC&#xd;
+x-inboundduration: 4&#xd;
+x-correlationid: 5adc59c4-a529-4d46-9063-026723c99341</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

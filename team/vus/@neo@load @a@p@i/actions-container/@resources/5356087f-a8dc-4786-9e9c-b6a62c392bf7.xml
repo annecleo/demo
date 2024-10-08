@@ -1,0 +1,23 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="${neoload_api_base_path}/resources/reservations"
+    path="${neoload_api_base_path}/resources/reservations" postType="1"
+    recordedResponseCode="200" serverUid="neoload_api_server"
+    slaProfileEnabled="false" uid="5356087f-a8dc-4786-9e9c-b6a62c392bf7" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@neo@load @a@p@i/%resources%/recorded-responses/res_5356087f-a8dc-4786-9e9c-b6a62c392bf7</responsePageFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="fromDateTime"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="toDateTime"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="limit"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="offset"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <header name="accountToken" value="${neoload_api_token}"/>
+    <responseHeaders>HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 1260</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

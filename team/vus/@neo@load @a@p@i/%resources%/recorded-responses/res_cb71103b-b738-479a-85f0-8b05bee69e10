@@ -1,0 +1,5 @@
+{
+  "front_url" : "https://preprod-neoload.saas.neotys.com",
+  "filestorage_url" : "https://preprod-neoload-files.saas.neotys.com",
+  "version" : "SaaS"
+}

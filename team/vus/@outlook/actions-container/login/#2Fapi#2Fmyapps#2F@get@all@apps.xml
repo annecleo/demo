@@ -1,0 +1,432 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/myapps/GetAllApps" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="67d53cdf-b119-4795-b73b-a0aec175a9a4">
+    <embedded-action>aeb2005c-7879-438a-b8fa-ba626eaf2a7c</embedded-action>
+    <embedded-action>5444a761-e91b-4669-9f9f-c8d4e10bb402</embedded-action>
+    <embedded-action>127e41c1-d865-4c68-a6aa-6406e8465172</embedded-action>
+    <embedded-action>6d9a827b-a6e8-49cf-bcfa-22e854b367cb</embedded-action>
+    <embedded-action>ebefbddd-22d2-4b1a-a5ae-f1e14e7bde09</embedded-action>
+    <embedded-action>91ecc9d3-e0f4-4f58-9c65-7867b73dc8c2</embedded-action>
+    <embedded-action>0f2683ae-3104-4b43-8d61-2a16178183c1</embedded-action>
+    <embedded-action>8370bd5e-1a34-4096-94df-bd9f01debc44</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_67d53cdf-b119-4795-b73b-a0aec175a9a4.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/myapps/GetAllApps"
+    path="/api/myapps/GetAllApps" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="webshell.suite.office.com" slaProfileEnabled="false"
+    uid="aeb2005c-7879-438a-b8fa-ba626eaf2a7c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aeb2005c-7879-438a-b8fa-ba626eaf2a7c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aeb2005c-7879-438a-b8fa-ba626eaf2a7c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="culture"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="authorization" value="Bearer eyJ0eXAiOiJKV1QiLCJub25jZSI6IjUzbXE0UWhDZ3NteHdaX2EyM3dzcjdWQTFNWnF6R29GeE9sUnMzN1dBdGsiLCJhbGciOiJSUzI1NiIsIng1dCI6Ik1jN2wzSXo5M2c3dXdnTmVFbW13X1dZR1BrbyIsImtpZCI6Ik1jN2wzSXo5M2c3dXdnTmVFbW13X1dZR1BrbyJ9.eyJhdWQiOiJodHRwczovL3dlYnNoZWxsLnN1aXRlLm9mZmljZS5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC9hOTNjY2IwMi04ZTMzLTQ0MzktOGJkNS1lMTljMGFjMWZkMWIvIiwiaWF0IjoxNzI3ODE5MDU1LCJuYmYiOjE3Mjc4MTkwNTUsImV4cCI6MTcyNzgyMzQ3NiwiYWNyIjoiMSIsImFpbyI6IkFWUUFxLzhZQUFBQUFUV09CWnAxbElqU3FnSG8vSjVsTFZjN0RNSndTV25BQzM5cjQzSm5HQUs0bFhrUENOSkVQVGcyYzI2bzg3U0M3aUJDZHJ2ZFRaVGt6M2pNandvS21CalU0VDlmS1FSRE9lMEhqbGs5VjVFPSIsImFtciI6WyJwd2QiLCJyc2EiLCJtZmEiXSwiYXBwaWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJhcHBpZGFjciI6IjIiLCJhdXRoX3RpbWUiOjE3Mjc4MTg0MjQsImRldmljZWlkIjoiM2Q1M2Y5YTUtZGI1MS00YWJmLWIwY2QtN2UyYjRhYmE3MGQ0IiwiZmFtaWx5X25hbWUiOiJFY2xlbyIsImdpdmVuX25hbWUiOiJBbm4gSmVubmlmZXIiLCJpZHR5cCI6InVzZXIiLCJpcGFkZHIiOiIxMDMuMTQxLjIwMy4xNzAiLCJsb2dpbl9oaW50IjoiTy5DaVF3WVRjMU1tUTVOQzFtWVdGaExUUTVNMlV0T0RKbE5DMW1PR1V3WVRSaU1EUTJObUVTSkdFNU0yTmpZakF5TFRobE16TXRORFF6T1MwNFltUTFMV1V4T1dNd1lXTXhabVF4WWhvVllTNWxZMnhsYjBCMGNtbGpaVzUwYVhNdVkyOXRJSnNCIiwibmFtZSI6IkFubiBKZW5uaWZlciBFY2xlbyIsIm9pZCI6IjBhNzUyZDk0LWZhYWEtNDkzZS04MmU0LWY4ZTBhNGIwNDY2YSIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS0zNDg0NTgyNjc2LTEyMjE3NDI3LTM0NDczMTg2NjYtNTc2MDYiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJhLmVjbGVvQHRyaWNlbnRpcy5jb20iLCJwdWlkIjoiMTAwMzIwMDNCQ0I4RTczNCIsInJoIjoiMC5BVGtBQXNzOHFUT09PVVNMMWVHY0NzSDlHem96Q1Y4c2hOcEhvVmRYMmlmOHZLVTVBSEUuIiwic2NwIjoiU2hlbGxTZXR0aW5ncy5SZWFkIiwic3ViIjoiMm40MXJrNVMxOWt6cXpxdHdMbWpjRFc4bmhiZFMzbDgwd2xTcmtTaEMySSIsInRlbmFudF9yZWdpb25fc2NvcGUiOiJFVSIsInRpZCI6ImE5M2NjYjAyLThlMzMtNDQzOS04YmQ1LWUxOWMwYWMxZmQxYiIsInVuaXF1ZV9uYW1lIjoiYS5lY2xlb0B0cmljZW50aXMuY29tIiwidXBuIjoiYS5lY2xlb0B0cmljZW50aXMuY29tIiwidXRpIjoiRmhNd3hQYkpJa1Mxd2RXb3c4OVNBQSIsInZlciI6IjEuMCIsIndpZHMiOlsiYjc5ZmJmNGQtM2VmOS00Njg5LTgxNDMtNzZiMTk0ZTg1NTA5Il0sInhtc19pZHJlbCI6IjEgMTAiLCJ4bXNfdGRiciI6IkVVIn0.R9Avtn8YpYNEy6IP3T_hFgWyItxxM9NIeDpP1tn9Mzz_G5fJvPo6uCQAGZL6ulAq3fiwHSrLJqgN3eejmYAYvg78mdS1mxXFRbjT_6pEdpEeK9p8Eu6qCLXkRTIyw0aDIS75DwYHTLVQqmMAO55BKit_0Z_ue7pmWMEkQKPHTZDo_08LqiC5xAuTI2_PS5ImQJAS4979R0d1FSBkW_xh2l5bLAjIDlDJ2ntju10W_pEN1gVqmBr_fcJ0a0wpm8uBDHSvhIqn5vMxqz5EfrBEGldjHAe3b2-IbWjW88PBceCuw3hJm9lF0fuX-_OXCxU6reXTraZVlT3H5NHDIPm8lQ"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/json;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+date: Tue, 01 Oct 2024 21:49:19 GMT&#xd;
+server: Kestrel&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: no-store, no-cache&#xd;
+pragma: no-cache&#xd;
+set-cookie: ClientStorageCookie=EHwE5qvlbOJapP%2BDJhAaDBGRM%2By6cM1X8pDHXPT1csw%3D%26QOiDKzEiY9tlU%2BAqO6QBgg%3D%3D; path=/; secure; samesite=none&#xd;
+content-length: 2&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=2592000&#xd;
+mise-correlation-id: 9297f8e3-4582-4653-ac05-c6539a8314ae&#xd;
+x-o365suiteuxshell-correlationid: d7d29c74-102d-4024-b4f8-2a98376457cd</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="5444a761-e91b-4669-9f9f-c8d4e10bb402" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5444a761-e91b-4669-9f9f-c8d4e10bb402</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5444a761-e91b-4669-9f9f-c8d4e10bb402.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727818977.60.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/now/workspace/agent/record/sn_customerservice_case/2d5c404b833c5214f6cb9b65eeaad3ab"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 21:49:20 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"140","channel":"/meta/connect","connectionType":"long-polling","clientId":"hmv1ge69fpp4rtbmooznh7t4m2e1"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    recordedResponseCode="200" responseSize="24"
+    serverUid="eu-office.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="127e41c1-d865-4c68-a6aa-6406e8465172" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_127e41c1-d865-4c68-a6aa-6406e8465172</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_127e41c1-d865-4c68-a6aa-6406e8465172.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="upload-time" value="1727819356297"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="apikey" value="b0c82c6598ad49f3848b1d3dc0d8dd25-299cbfe9-b72e-4e9d-a5e3-20319efba5b5-7268"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="client-version" value="1DS-Web-JS-3.2.14"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="time-delta-to-apply-millis" value="use-collector-delta"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/x-json-stream"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="cache-control" value="no-cache, no-store"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 24&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 4185&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:19 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"Office.Taos.Shell.Impression.NavBarFull","time":"2024-10-01T21:49:14.285Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":1,"ver":"1DS-Web-JS-3.2.14"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4},"Data.Impression_ItemCount":{"t":6}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.14"}},"Event.Name":"Office.Taos.Shell.Impression.NavBarFull","Event.Source":"OTelJS","Event.Time":"2024-10-01T21:49:14.285Z","Event.Sequence":1,"Event.Id":"58329654-62e8-4127-b3e4-90a3455bb995.1","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"1.20240208.12.0","Session.Id":"bc260ca9-8524-419e-8178-c886497982ce","Release.AudienceGroup":"Production","User.PrimaryIdentityHash":"10032003BCB8E734","User.PrimaryIdentitySpace":"OrgIdPUID","User.TenantId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","User.TenantGroup":"Commercial","User.IsAnonymous":false,"Context_Env":"neuprod","Context_Site":"Exchange","Context_SiteSubId":"ShellMail","Context_WorkloadAppId":"Mail","Context_PID":"1727819354280_0.0688766194028061","Context_UID":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","Context_Language":"en-US","Context_Flights":"ShowVivaHomeApp,EnableWaffleRefresh,ShowVivaHomeAsDefaultAppOnWaffle,ShowPrePinnedApps,EnableTaskYield,UseCosmosDBForLicensingData,ShowVivaConnections,ShowVivaGlint,WriteLicenseDataToCosmosDBFromOP,UseGroupsCacheEnabled,UseLicenseNotificationData,UseNewLicenseRefreshTime,LicenseTime1h","Context_FlightRings":"WorldWide","Context_Segment":"OfficeProPlus,Clp,Teams,IW","Data.OTelJS.Version":"4.18.0","Data.Event_Type":"Impression","Data.Impression_Name":"NavBarFull","Data.Impression_Category":"NavBar","Data.Impression_Context":"TenantLogo:1;TenantThemeColors:0078D7,004C97,FFFFFF,FFFFFF;UserTheme:Tenant;ReactVersion:18.2.0;CustomLayout:1;IsNPM:1;ShellBootHost:https://res-1.cdn.office.net","Data.Impression_ItemCount":0}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    recordedResponseCode="200" responseSize="153"
+    serverUid="eu-office.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="6d9a827b-a6e8-49cf-bcfa-22e854b367cb" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6d9a827b-a6e8-49cf-bcfa-22e854b367cb</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6d9a827b-a6e8-49cf-bcfa-22e854b367cb.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="upload-time" value="1727819355682"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="apikey" value="56468f6991c348029c6bba403b444607-7f5d6cd1-7fbe-4ab1-be03-3b2b6aeb3eb4-7696"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="client-version" value="1DS-Web-JS-4.3.0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="time-delta-to-apply-millis" value="use-collector-delta"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/x-json-stream"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="cache-control" value="no-cache, no-store"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 153&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 4800&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:19 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"clientstartupsuccess","time":"2024-10-01T21:49:13.668Z","ver":"4.0","iKey":"o:56468f6991c348029c6bba403b444607","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0"},"metadata":{"f":{"RedirectCount":{"t":6},"StartTime":{"t":6},"LoadTime":{"t":6}}}},"data":{"baseData":{"properties":{"version":"PostChannel=4.3.0"}},"AppName":"Mail","UserAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","ExplicitLogon":false,"Puid":"10032003BCB8E734","TenantGuid":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","MBXGuid":"87390b02-baa2-48df-a975-6a3e94c5bec5","IsPremium":"0","ClientId":"B48350CA338146FE897268A45767AB29","RefUrl":"outlook.office.com%2Fmail%2F","ClientVersion":"20240920004.12","BEServer":"DB9PR07MB8728","FEServer":"DB9PR01CA0019, TYCP286CA0349","ThroughEdge":"0","ServiceVersion":"15.20.8005.26","Dag":"EURPR07DG539","Forest":"EURPRD07","DeployRing":"WW","Session.Id":"1e249e5e-535a-46a8-ba14-e1f78a47f4db","PhysicalRing":"SIP","VariantEnv":"Prod","BrowserName":"Edge Anaheim","Host":"(none)","BrowserVersion":"129,0,0,0","OsName":"Windows","OsVersion":"10","IsConsumer":false,"Layout":"Desktop","DeviceInfo":"{\"cores\":12,\"effectiveType\":\"4g\",\"downlink\":6.25,\"rtt\":150}","BootResult":"ok","BottleneckTiming":"{\"start\":\"fonts:0|js:117|sd:695|\",\"stf\":\"dnst:13|naa:13|th:31|apollo:40|\",\"ren\":\"bpos:19|rt:21|lcl:38|ist:40|\"}","Bottlenecks":"{\"lc_s\":\"ls\",\"start\":\"sd\",\"sd_pr\":\"1\",\"sdfp\":1,\"sdmp\":1,\"gcvp\":0,\"fcr\":\"s\",\"ffr\":\"s\",\"stf\":\"apollo\",\"ren\":\"ist\",\"DR\":\"R\"}","Layers":"{\"imprt\":2.5,\"rbsp\":0,\"mjs\":138,\"sd\":718,\"ti\":41,\"ff\":37,\"apollo\":57,\"sp\":78,\"ren\":293,\"btsp\":1062}","BootType":"SwCache","Diagnostics":"|ResizeObserver loop completed with undelivered notifications.:undefined","RedirectCount":1,"StartTime":1391,"LoadTime":1367,"MiscData":"&vm=true&sp=https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/&bf=localStorageOwaPrefix,fwk-analytics-addons,dev-offlineMultiAccountDB,fwk-skipnavbardataonhosted,cal-widgets-upn-validation,auth-cacheTokenForMetaOsHub,auth-msaljs-landingpage,bootflight1,shellmultiorigin,cal-perf-eventsinstartupdata,fwk-skipnavbardataonhosted,cal-perf-useassumeoffset,cal-perf-eventsinofflinestartupdata,acct-add-account-e1-improvement,auth-cachetokenformetaoshub,cal-perf-eventsinstartupdatabyviewtype,workerasyncload,auth-msaljs-findtime&nt=0&swVer=35&cdnProvider=Akamai&nextHopProtocol=h3&cacheResult=Valid&cacheAge=54603478&cacheVer=20240920004.12&cacheHost=undefined","Timings":"{\"rbsp_s\":158,\"imprt_e\":158,\"imprt_s\":155.5,\"rbsp_e\":158,\"sd_s\":158,\"mjs_s\":161,\"mjs_e\":299,\"btsp_s\":304,\"sd_e\":876,\"sp_s\":877,\"ti_s\":894,\"apollo_s\":894,\"ff_s\":899,\"ti_e\":935,\"ff_e\":936,\"apollo_e\":951,\"sp_e\":955,\"ren_s\":962,\"ls_e\":1228,\"ren_e\":1255,\"btsp_e\":1366,\"in_e\":10,\"mi_s\":106.5,\"mi_e\":123.29999995231628,\"auth\":{\"bootred\":1041.6000001430511}}","Memory":"{\"rbsp_s\":{\"size\":6143400},\"imprt_e\":{\"size\":6143400},\"imprt_s\":{\"size\":6143400},\"rbsp_e\":{\"size\":6143400},\"sd_s\":{\"size\":6143400},\"mjs_s\":{\"size\":6143400},\"mjs_e\":{\"size\":27160417},\"btsp_s\":{\"size\":27160417},\"sd_e\":{\"size\":24552932},\"sp_s\":{\"size\":24552932},\"ti_s\":{\"size\":24552932},\"apollo_s\":{\"size\":24552932},\"ff_s\":{\"size\":24552932},\"ti_e\":{\"size\":29660138},\"ff_e\":{\"size\":29660138},\"apollo_e\":{\"size\":29660138},\"sp_e\":{\"size\":29660138},\"ren_s\":{\"size\":29660138},\"ls_e\":{\"size\":43002057},\"ren_e\":{\"size\":43002057},\"btsp_e\":{\"size\":50514154}}"}}
+{"name":"bootevalerror","time":"2024-10-01T21:49:13.669Z","ver":"4.0","iKey":"o:56468f6991c348029c6bba403b444607","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0"}},"data":{"baseData":{"properties":{"version":"PostChannel=4.3.0"}},"AppName":"Mail","UserAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","ExplicitLogon":false,"Puid":"10032003BCB8E734","TenantGuid":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","MBXGuid":"87390b02-baa2-48df-a975-6a3e94c5bec5","IsPremium":"0","ClientId":"B48350CA338146FE897268A45767AB29","RefUrl":"outlook.office.com%2Fmail%2F","ClientVersion":"20240920004.12","BEServer":"DB9PR07MB8728","FEServer":"DB9PR01CA0019, TYCP286CA0349","ThroughEdge":"0","ServiceVersion":"15.20.8005.26","Dag":"EURPR07DG539","Forest":"EURPRD07","DeployRing":"WW","Session.Id":"1e249e5e-535a-46a8-ba14-e1f78a47f4db","PhysicalRing":"SIP","VariantEnv":"Prod","BrowserName":"Edge Anaheim","Host":"(none)","BrowserVersion":"129,0,0,0","OsName":"Windows","OsVersion":"10","IsConsumer":false,"Layout":"Desktop","DeviceInfo":"{\"cores\":12,\"effectiveType\":\"4g\",\"downlink\":6.25,\"rtt\":150}","BootResult":"ok","BottleneckTiming":"{\"start\":\"fonts:0|js:117|sd:695|\",\"stf\":\"dnst:13|naa:13|th:31|apollo:40|\",\"ren\":\"bpos:19|rt:21|lcl:38|ist:40|\"}","Bottlenecks":"{\"lc_s\":\"ls\",\"start\":\"sd\",\"sd_pr\":\"1\",\"sdfp\":1,\"sdmp\":1,\"gcvp\":0,\"fcr\":\"s\",\"ffr\":\"s\",\"stf\":\"apollo\",\"ren\":\"ist\",\"DR\":\"R\"}","Layers":"{\"imprt\":2.5,\"rbsp\":0,\"mjs\":138,\"sd\":718,\"ti\":41,\"ff\":37,\"apollo\":57,\"sp\":78,\"ren\":293,\"btsp\":1062}","BootType":"SwCache"}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="eu-mobile.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="ebefbddd-22d2-4b1a-a5ae-f1e14e7bde09" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_ebefbddd-22d2-4b1a-a5ae-f1e14e7bde09.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="content-type"
+        recordRawValue="application/x-json-stream" separator="="
+        value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="apikey,cache-control,client-id,client-version,content-type,time-delta-to-apply-millis,upload-time"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public, 3600&#xd;
+Content-Length: 0&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-headers: AuthMsaDeviceTicket,AuthXToken,Content-Encoding,Content-Type,Cache-Control,Client-Id,SDK-Name,sdk-version,apikey,x-apikey,client-version,upload-time,time-delta-to-apply-millis,client-time-epoch-millis,persistence-mode,reliability-mode,NoResponseBody&#xd;
+access-control-max-age: 3600&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+date: Tue, 01 Oct 2024 21:49:20 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    recordedResponseCode="200" responseSize="24"
+    serverUid="eu-office.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="91ecc9d3-e0f4-4f58-9c65-7867b73dc8c2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_91ecc9d3-e0f4-4f58-9c65-7867b73dc8c2</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_91ecc9d3-e0f4-4f58-9c65-7867b73dc8c2.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="upload-time" value="1727819360083"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="apikey" value="b0c82c6598ad49f3848b1d3dc0d8dd25-299cbfe9-b72e-4e9d-a5e3-20319efba5b5-7268"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="client-version" value="1DS-Web-JS-3.2.14"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="time-delta-to-apply-millis" value="4185"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/x-json-stream"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="cache-control" value="no-cache, no-store"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 24&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 993&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:20 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"Office.Taos.Shell.ServerRequest","time":"2024-10-01T21:49:16.931Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":2,"ver":"1DS-Web-JS-3.2.14"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4},"Data.ServerRequest_Status":{"t":6},"Data.ServerRequest_Latency":{"t":6},"Data.ServerRequest_Size":{"t":6}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.14"}},"Event.Name":"Office.Taos.Shell.ServerRequest","Event.Source":"OTelJS","Event.Time":"2024-10-01T21:49:16.931Z","Event.Sequence":2,"Event.Id":"58329654-62e8-4127-b3e4-90a3455bb995.2","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"1.20240208.12.0","Session.Id":"bc260ca9-8524-419e-8178-c886497982ce","Release.AudienceGroup":"Production","User.PrimaryIdentityHash":"10032003BCB8E734","User.PrimaryIdentitySpace":"OrgIdPUID","User.TenantId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","User.TenantGroup":"Commercial","User.IsAnonymous":false,"Context_Env":"neuprod","Context_Site":"Exchange","Context_SiteSubId":"ShellMail","Context_WorkloadAppId":"Mail","Context_PID":"1727819354280_0.0688766194028061","Context_UID":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","Context_Language":"en-US","Context_Flights":"ShowVivaHomeApp,EnableWaffleRefresh,ShowVivaHomeAsDefaultAppOnWaffle,ShowPrePinnedApps,EnableTaskYield,UseCosmosDBForLicensingData,ShowVivaConnections,ShowVivaGlint,WriteLicenseDataToCosmosDBFromOP,UseGroupsCacheEnabled,UseLicenseNotificationData,UseNewLicenseRefreshTime,LicenseTime1h","Context_FlightRings":"WorldWide","Context_Segment":"OfficeProPlus,Clp,Teams,IW","Data.OTelJS.Version":"4.18.0","Data.Event_Type":"ServerRequest","Data.ServerRequest_Name":"Query","Data.ServerRequest_Method":"GET","Data.ServerRequest_Url":"https://graph.microsoft.com/v1.0/users/email_removed/photo/$value","Data.ServerRequest_Status":404,"Data.ServerRequest_IsTokenGeneratedFromWorkload":true,"Data.ServerRequest_Latency":2009,"Data.ServerRequest_Size":294}}
+{"name":"Office.Taos.Shell.Monitoring","time":"2024-10-01T21:49:18.083Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":3,"ver":"1DS-Web-JS-3.2.14"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4},"Data.Monitoring_AdHoc0":{"t":6}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.14"}},"Event.Name":"Office.Taos.Shell.Monitoring","Event.Source":"OTelJS","Event.Time":"2024-10-01T21:49:18.083Z","Event.Sequence":3,"Event.Id":"58329654-62e8-4127-b3e4-90a3455bb995.3","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"1.20240208.12.0","Session.Id":"bc260ca9-8524-419e-8178-c886497982ce","Release.AudienceGroup":"Production","User.PrimaryIdentityHash":"10032003BCB8E734","User.PrimaryIdentitySpace":"OrgIdPUID","User.TenantId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","User.TenantGroup":"Commercial","User.IsAnonymous":false,"Context_Env":"neuprod","Context_Site":"Exchange","Context_SiteSubId":"ShellMail","Context_WorkloadAppId":"Mail","Context_PID":"1727819354280_0.0688766194028061","Context_UID":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","Context_Language":"en-US","Context_Flights":"ShowVivaHomeApp,EnableWaffleRefresh,ShowVivaHomeAsDefaultAppOnWaffle,ShowPrePinnedApps,EnableTaskYield,UseCosmosDBForLicensingData,ShowVivaConnections,ShowVivaGlint,WriteLicenseDataToCosmosDBFromOP,UseGroupsCacheEnabled,UseLicenseNotificationData,UseNewLicenseRefreshTime,LicenseTime1h","Context_FlightRings":"WorldWide","Context_Segment":"OfficeProPlus,Clp,Teams,IW","Data.OTelJS.Version":"4.18.0","Data.Event_Type":"TagID","Data.Monitoring_Name":"StorageApi_RequestError","Data.Monitoring_Severity":"Error","Data.Monitoring_AdHoc0":-2007}}
+{"name":"Office.Taos.Shell.ServerRequest","time":"2024-10-01T21:49:18.083Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":4,"ver":"1DS-Web-JS-3.2.14"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4},"Data.ServerRequest_Status":{"t":6},"Data.ServerRequest_Latency":{"t":6},"Data.ServerRequest_Size":{"t":6}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.14"}},"Event.Name":"Office.Taos.Shell.ServerRequest","Event.Source":"OTelJS","Event.Time":"2024-10-01T21:49:18.083Z","Event.Sequence":4,"Event.Id":"58329654-62e8-4127-b3e4-90a3455bb995.4","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"1.20240208.12.0","Session.Id":"bc260ca9-8524-419e-8178-c886497982ce","Release.AudienceGroup":"Production","User.PrimaryIdentityHash":"10032003BCB8E734","User.PrimaryIdentitySpace":"OrgIdPUID","User.TenantId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","User.TenantGroup":"Commercial","User.IsAnonymous":false,"Context_Env":"neuprod","Context_Site":"Exchange","Context_SiteSubId":"ShellMail","Context_WorkloadAppId":"Mail","Context_PID":"1727819354280_0.0688766194028061","Context_UID":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","Context_Language":"en-US","Context_Flights":"ShowVivaHomeApp,EnableWaffleRefresh,ShowVivaHomeAsDefaultAppOnWaffle,ShowPrePinnedApps,EnableTaskYield,UseCosmosDBForLicensingData,ShowVivaConnections,ShowVivaGlint,WriteLicenseDataToCosmosDBFromOP,UseGroupsCacheEnabled,UseLicenseNotificationData,UseNewLicenseRefreshTime,LicenseTime1h","Context_FlightRings":"WorldWide","Context_Segment":"OfficeProPlus,Clp,Teams,IW","Data.OTelJS.Version":"4.18.0","Data.Event_Type":"ServerRequest","Data.ServerRequest_Name":"Storage","Data.ServerRequest_IFrame":"3","Data.ServerRequest_Url":"https://webshell.suite.office.com","Data.ServerRequest_Status":-2007,"Data.ServerRequest_IsTokenGeneratedFromWorkload":false,"Data.ServerRequest_Latency":6,"Data.ServerRequest_Size":0}}
+{"name":"Office.Taos.Shell.Monitoring","time":"2024-10-01T21:49:18.084Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":5,"ver":"1DS-Web-JS-3.2.14"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4},"Data.Monitoring_AdHoc0":{"t":6}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.14"}},"Event.Name":"Office.Taos.Shell.Monitoring","Event.Source":"OTelJS","Event.Time":"2024-10-01T21:49:18.084Z","Event.Sequence":5,"Event.Id":"58329654-62e8-4127-b3e4-90a3455bb995.5","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"1.20240208.12.0","Session.Id":"bc260ca9-8524-419e-8178-c886497982ce","Release.AudienceGroup":"Production","User.PrimaryIdentityHash":"10032003BCB8E734","User.PrimaryIdentitySpace":"OrgIdPUID","User.TenantId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","User.TenantGroup":"Commercial","User.IsAnonymous":false,"Context_Env":"neuprod","Context_Site":"Exchange","Context_SiteSubId":"ShellMail","Context_WorkloadAppId":"Mail","Context_PID":"1727819354280_0.0688766194028061","Context_UID":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","Context_Language":"en-US","Context_Flights":"ShowVivaHomeApp,EnableWaffleRefresh,ShowVivaHomeAsDefaultAppOnWaffle,ShowPrePinnedApps,EnableTaskYield,UseCosmosDBForLicensingData,ShowVivaConnections,ShowVivaGlint,WriteLicenseDataToCosmosDBFromOP,UseGroupsCacheEnabled,UseLicenseNotificationData,UseNewLicenseRefreshTime,LicenseTime1h","Context_FlightRings":"WorldWide","Context_Segment":"OfficeProPlus,Clp,Teams,IW","Data.OTelJS.Version":"4.18.0","Data.Event_Type":"Exception","Data.Monitoring_Name":"AppsManager_ReadCacheAppsData_Failed","Data.Monitoring_Severity":"Error","Data.Monitoring_Exception":"ShellException Invalid Operation: undefined","Data.Monitoring_AdHoc0":-2002}}
+{"name":"Office.Taos.Shell.Monitoring","time":"2024-10-01T21:49:18.610Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":6,"ver":"1DS-Web-JS-3.2.14"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4},"Data.Monitoring_AdHoc0":{"t":6}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.14"}},"Event.Name":"Office.Taos.Shell.Monitoring","Event.Source":"OTelJS","Event.Time":"2024-10-01T21:49:18.610Z","Event.Sequence":6,"Event.Id":"58329654-62e8-4127-b3e4-90a3455bb995.6","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"1.20240208.12.0","Session.Id":"bc260ca9-8524-419e-8178-c886497982ce","Release.AudienceGroup":"Production","User.PrimaryIdentityHash":"10032003BCB8E734","User.PrimaryIdentitySpace":"OrgIdPUID","User.TenantId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","User.TenantGroup":"Commercial","User.IsAnonymous":false,"Context_Env":"neuprod","Context_Site":"Exchange","Context_SiteSubId":"ShellMail","Context_WorkloadAppId":"Mail","Context_PID":"1727819354280_0.0688766194028061","Context_UID":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","Context_Language":"en-US","Context_Flights":"ShowVivaHomeApp,EnableWaffleRefresh,ShowVivaHomeAsDefaultAppOnWaffle,ShowPrePinnedApps,EnableTaskYield,UseCosmosDBForLicensingData,ShowVivaConnections,ShowVivaGlint,WriteLicenseDataToCosmosDBFromOP,UseGroupsCacheEnabled,UseLicenseNotificationData,UseNewLicenseRefreshTime,LicenseTime1h","Context_FlightRings":"WorldWide","Context_Segment":"OfficeProPlus,Clp,Teams,IW","Data.OTelJS.Version":"4.18.0","Data.Event_Type":"TagID","Data.Monitoring_Name":"StorageApi_RequestError","Data.Monitoring_Severity":"Error","Data.Monitoring_AdHoc0":-2007}}
+{"name":"Office.Taos.Shell.ServerRequest","time":"2024-10-01T21:49:18.610Z","ver":"4.0","iKey":"o:b0c82c6598ad49f3848b1d3dc0d8dd25","ext":{"sdk":{"seq":7,"ver":"1DS-Web-JS-3.2.14"},"metadata":{"f":{"Event.Time":{"t":9},"Event.Sequence":{"t":4},"Data.ServerRequest_Status":{"t":6},"Data.ServerRequest_Latency":{"t":6},"Data.ServerRequest_Size":{"t":6}}}},"data":{"baseType":"custom","baseData":{"properties":{"version":"PostChannel=3.2.14"}},"Event.Name":"Office.Taos.Shell.ServerRequest","Event.Source":"OTelJS","Event.Time":"2024-10-01T21:49:18.610Z","Event.Sequence":7,"Event.Id":"58329654-62e8-4127-b3e4-90a3455bb995.7","App.Name":"OfficeTaosShell","App.Platform":"Web","App.Version":"1.20240208.12.0","Session.Id":"bc260ca9-8524-419e-8178-c886497982ce","Release.AudienceGroup":"Production","User.PrimaryIdentityHash":"10032003BCB8E734","User.PrimaryIdentitySpace":"OrgIdPUID","User.TenantId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","User.TenantGroup":"Commercial","User.IsAnonymous":false,"Context_Env":"neuprod","Context_Site":"Exchange","Context_SiteSubId":"ShellMail","Context_WorkloadAppId":"Mail","Context_PID":"1727819354280_0.0688766194028061","Context_UID":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","Context_Language":"en-US","Context_Flights":"ShowVivaHomeApp,EnableWaffleRefresh,ShowVivaHomeAsDefaultAppOnWaffle,ShowPrePinnedApps,EnableTaskYield,UseCosmosDBForLicensingData,ShowVivaConnections,ShowVivaGlint,WriteLicenseDataToCosmosDBFromOP,UseGroupsCacheEnabled,UseLicenseNotificationData,UseNewLicenseRefreshTime,LicenseTime1h","Context_FlightRings":"WorldWide","Context_Segment":"OfficeProPlus,Clp,Teams,IW","Data.OTelJS.Version":"4.18.0","Data.Event_Type":"ServerRequest","Data.ServerRequest_Name":"Storage","Data.ServerRequest_IFrame":"3","Data.ServerRequest_Url":"https://webshell.suite.office.com","Data.ServerRequest_Status":-2007,"Data.ServerRequest_IsTokenGeneratedFromWorkload":false,"Data.ServerRequest_Latency":1,"Data.ServerRequest_Size":0}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postContentUnzipped="true" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    recordedResponseCode="200" responseSize="153"
+    serverUid="eu-office.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="0f2683ae-3104-4b43-8d61-2a16178183c1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0f2683ae-3104-4b43-8d61-2a16178183c1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0f2683ae-3104-4b43-8d61-2a16178183c1.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="upload-time" value="1727819360128"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="apikey" value="56468f6991c348029c6bba403b444607-7f5d6cd1-7fbe-4ab1-be03-3b2b6aeb3eb4-7696"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="content-encoding" value="gzip"/>
+    <header name="client-version" value="1DS-Web-JS-4.3.0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="time-delta-to-apply-millis" value="use-collector-delta"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/x-json-stream"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="cache-control" value="no-cache, no-store"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 153&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 1010&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:20 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"session","time":"2024-10-01T21:49:14.119Z","ver":"4.0","iKey":"o:56468f6991c348029c6bba403b444607","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0","seq":1,"epoch":"460473875"},"app":{"ver":"20240920004.12","locale":"en","sesId":"1e249e5e-535a-46a8-ba14-e1f78a47f4db"},"user":{"locale":"en-US"},"web":{"screenRes":"1536X864","userConsent":false},"os":{"ver":"14.0"},"intweb":{},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"metadata":{"f":{"SessionElapseTime":{"t":6},"LoadTime":{"t":6},"HashEmail":{"t":321}}}},"data":{"baseType":"session","baseData":{"properties":{"version":"PostChannel=4.3.0;SystemPropertiesCollector=4.3.0"}},"Features":"[\"aa-testflight82319\",\"addin-autorun-composeevent\",\"addin-closeasync\",\"addin-emogooglemeetsupport\",\"addin-enablecopilotapps\",\"addin-enableintegratedspam\",\"addin-enablemarkdowndialogforsmartalerts\",\"addin-getadditionalprops\",\"addin-getasfileasync\",\"addin-msal\",\"addin-naa-enableauthcontext\",\"addin-notificationmessagegetallasyncapi\",\"addin-officetheme\",\"addin-processmultiplecommandsindequeinvoker\",\"addison-updaterecordswhenvalidatinguserstatus\",\"addison-uxrefresh-newsletter-view-in-addison\",\"addison-validateuserstatus\",\"an-log-usermetrics\",\"ana-client-error\",\"ana-client-eventcf\",\"auth-authzheadernocookies\",\"auth-mecontrol-accountswitcher\",\"auth-msaljs-clearmsalartifactsonlogoff\",\"auth-msaljs-reauthenticate-banner\",\"auth-naa-web\",\"auth-reportsignalrerror\",\"auth-retryauthusinggatfrcf\",\"auth-sharedactivitybasedtimeout\",\"auth-signalractivitytimer\",\"auth-tokenprovider-getpftabletoken\",\"bookings-agendaviewfilterforteammember\",\"bookings-askadminonboardingpage\",\"bookings-bannerdismisstopright\",\"bookings-c1b2migration\",\"bookings-followupemails\",\"bookings-hidepreview\",\"bookings-integrations\",\"bookings-irispoweredwhatsnew\",\"bookings-multihostservice\",\"bookings-npsfeedback\",\"bookings-premiumsms\",\"bookings-readbookingsettingsfix\",\"bookings-sanitizescripts\",\"bookings-sunsetv1\",\"bookings-web\",\"bookings-whatsnew\",\"bookwithme-accesscheckfromb2\",\"bookwithme-accessibilityfix\",\"bookwithme-c1b2migration\",\"bookwithme-c2b2migration\",\"bookwithme-exp-addtoemailsignature\",\"bookwithme-exp-mailnudge\",\"bookwithme-inboxreminders\",\"bookwithme-pbppollingtime\",\"bookwithme-readbookingsettingsfix\",\"bookwithme-teamstoggle\",\"cal-addcalendar-google\",\"cal-ask-target-audience\",\"cal-assumetzoffsetfromcalendaritem\",\"cal-bookings-slots\",\"cal-clear-all-categories\",\"cal-clplabel\",\"cal-clplabel-license-check\",\"cal-clplabel-respect-rml\",\"cal-cmp-showcollabspacefre\",\"cal-columnprovider-optimization\",\"cal-context-menu-override-rsvpredesign\",\"cal-delete-decline-dialog\",\"cal-event-merge-immutable-mailboxinfo\",\"cal-filteruxrefresh\",\"cal-find-meeting-time-b2\",\"cal-fluid-collabspaceread\",\"cal-forms-description-area-expansion\",\"cal-freebusy-cache-v2\",\"cal-holidaycalendars\",\"cal-hybrid-working-hours\",\"cal-init-meeting-locations\",\"cal-intelligent-recap\",\"cal-interestingcalendar\",\"cal-internal-sharing-disable\",\"cal-join-chat-visual-updates\",\"cal-mail-to-event-dnd\",\"cal-manual-sync-after-selection\",\"cal-meeting-follow\",\"cal-meeting-follow-filter\",\"cal-meeting-follow-read\",\"cal-meeting-inperson\",\"cal-meeting-only-label\",\"cal-meeting-recap\",\"cal-meeting-recap-deeplink\",\"cal-meeting-recapv3\",\"cal-meeting-templates-first-party-virtual-appointment\",\"cal-meeting-with-all\",\"cal-meetinginsights\",\"cal-mf-availabilityforrecurrence\",\"cal-mf-filterbusyrequiredattendees\",\"cal-mf-quickcomposemergedevent\",\"cal-mf-schedulingb2\",\"cal-mf-timesuggestions\",\"cal-mf-timesuggestionsv2\",\"cal-monthsplitview\",\"cal-multiaccounts\",\"cal-multiaccounts-disconnect-feedbackcf\",\"cal-myday-hidepastevents-cf\",\"cal-native-findtime\",\"cal-new-event-peek-headercf\",\"cal-options-sharedcalendars-alwaysshownotificationsettings\",\"cal-organizer-address-fix\",\"cal-pbp-addpsplinktosignature\",\"cal-personalbookingpage\",\"cal-preserve-declinedmeetings\",\"cal-preserve-declinedmeetings-callout\",\"cal-remove-unnecessary-calpicker\",\"cal-removeschoolcalendarsmodal\",\"cal-rsvpredesign\",\"cal-scheduling-assistant-visual-refresh\",\"cal-scheduling-distinguish-tentative\",\"cal-schedulingpoll-callback\",\"cal-settings-worklocationselector\",\"cal-single-line-date-picker\",\"cal-single-line-location-row\",\"cal-stickynotesfolder\",\"cal-surface-cancelleddeclineduxsimplification\",\"cal-surface-perf-memoize-event-utils\",\"cal-surface-perf-renderdateheaderaddon-improvementscf\",\"cal-surface-places-callout\",\"cal-surface-places-callout-launch-places-metaos\",\"cal-surface-places-callout-onboarding\",\"cal-surface-places-callout-peopleinoffice\",\"cal-surface-places-callout-suggestion-ipe\",\"cal-surface-places-callout-suggestion-quickbook\",\"cal-surface-places-callout-suggestions\",\"cal-surface-places-expanded-view\",\"cal-surface-places-planning-header\",\"cal-surface-places-suggestions-intensity\",\"cal-surface-useappthemecolorfordefaultcalendar\",\"cal-sync-liescf\",\"cal-truetime-disable-feedback\",\"cmp-clp-audit\",\"cmp-clp-audit-resp\",\"cmp-clp-augloop-auto-labeling\",\"cmp-clp-auto-labeling\",\"cmp-clp-disable-default-label-on-irm-encrypt\",\"cmp-clp-enableencryptonlylabel\",\"cmp-clp-fixlabelloading\",\"cmp-clp-irm-smime-sl\",\"cmp-clp-louder-labels\",\"cmp-clp-louder-labels-v9\",\"cmp-clp-outlookcustomfield\",\"cmp-clp-parent-label-filtering\",\"cmp-contentmodel-autoformatfc\",\"cmp-dictation\",\"cmp-dictation-ui\",\"cmp-dirtystateopxsendallcontent\",\"cmp-disallow-reactions\",\"cmp-dlp-check-encrypted\",\"cmp-fluid-appnameonunfurledloops\",\"cmp-fluid-chapterthree\",\"cmp-fluid-sensitivelabel\",\"cmp-fluid-test-one-drive\",\"cmp-fluid-useloopsforme\",\"cmp-galrecipientwellmodaldeferredchanges\",\"cmp-mail-merge\",\"cmp-message-recall\",\"cmp-message-recall-admin-setting\",\"cmp-message-resend\",\"cmp-multiwindows-selectedtab\",\"cmp-native-polls\",\"cmp-new-hyperlink-plugin\",\"cmp-objmodel-messageextension\",\"cmp-recipient-merge-to-cc-bcc\",\"cmp-roaming-signature\",\"cmp-roosterjs-contentmodel\",\"cmp-roosterjs-contentmodel-all\",\"cmp-safelinks-context-menu\",\"cmp-safelinks-extendurllimit\",\"cmp-safelinks-extractonhover\",\"cmp-safelinks-mail-compose\",\"cmp-updateitem-before-getpolicytips\",\"cmp-v9-dialogct\",\"cmp-v9-paste-floatie\",\"core-feedback\",\"csi-owa-auto-topic-highlights\",\"csi-owa-hvc-topic-picker\",\"csi-owa-topic-context-action\",\"csi-owa-topic-delay-topicpicker\",\"csi-owa-topic-multi-account-all-users\",\"csi-owa-topic-multi-account-hvc-setting\",\"csi-usesuggestionsforzeroterm\",\"doc-attachment-copyandpaste\",\"doc-donotuseserverfallback\",\"doc-initialize-download-token\",\"doc-odcconvergence\",\"doc-odcconvpermissionendpoint\",\"doc-odconvsearchthumbnail\",\"doc-parse-download-token\",\"doc-pdfprint-html\",\"doc-preredeem\",\"doc-sxs-usenewaccesstoken\",\"doc-use-new-download-token-lifetime\",\"edf2h660\",\"eventify-booking\",\"eventify-booking-calendar-button\",\"eventify-enablefollowgroupscf\",\"eventify-eventsgrouppage\",\"eventify-grouppagecalendar\",\"eventify-pagination\",\"feedback-petrol-endpoint\",\"feedback-rdx-pane\",\"fms-smartcompose\",\"fp-archive-storage\",\"fp-jump-folder\",\"fp-memo-favoriteslist\",\"fp-offline-folder-actions\",\"fp-offline-folder-actions-v2cf\",\"fp-offline-folder-query\",\"fp-start-account-data-idb\",\"fp-sync-offline-folders-default\",\"fp-treenode-v9\",\"fwk-an-worker-v2\",\"fwk-batch-postmessage-events\",\"fwk-bleed-through-themes\",\"fwk-bookingsactionitems\",\"fwk-bookingscreatecalendarlogofix\",\"fwk-bookingscreatecalendarrefresh\",\"fwk-bookingsenhancedonboarding\",\"fwk-bookingsservicelocale\",\"fwk-bookingsshareviafacebook\",\"fwk-bookingsshareviatwitter\",\"fwk-bookingsstaffavailabilitydaterangeoptimization\",\"fwk-bookingsv1campaignfeature\",\"fwk-bookingsv2app\",\"fwk-bookingsv2webrtconlineappointment\",\"fwk-bookingsvirtualvisit\",\"fwk-business\",\"fwk-critical-offline-corruption\",\"fwk-debounce-resize-cf\",\"fwk-disable-react-dangerously-set-inner-html\",\"fwk-editor-trusted-types\",\"fwk-fluent-v9-color-ramps\",\"fwk-fluent-v9-mail-theme-override-version2\",\"fwk-fluent-v9-remove-redundant-styletags-version2\",\"fwk-graphql-worker-link\",\"fwk-increasestacktracelimit\",\"fwk-lazyimport_setid-v2\",\"fwk-meetnowbuttonlabela\",\"fwk-nlqsfloodgatesurveycf\",\"fwk-no-plt-loaf\",\"fwk-notif-headerauth\",\"fwk-resetfocus-loaf-fix\",\"fwk-sanitize-document-write\",\"fwk-skypebusinessv2\",\"fwk-split-lazymodule-import\",\"fwk-suite-fetchpreauthtoken\",\"fwk-sw-preloadv2\",\"fwk-teamspolicies\",\"fwk-teamssdkpreauth\",\"fwk-teamssuite\",\"fwk-uberflag\",\"fwk-useoutlookgateway-getschedule\",\"fwk-worker-preload\",\"fwk-worker-scripts-prefetch\",\"gidwf_combo\",\"grp-3ssearch\",\"grp-cardreloadaftereditingsmtp\",\"grp-consumer-displaynamespecialcharacters\",\"grp-consumer-precreate-trigger\",\"grp-deprecateconnectors\",\"grp-disablecreategroup\",\"grp-echosuppressionoption\",\"grp-groupsapp-activity\",\"grp-groupsapp-groupswitcha\",\"grp-groupsapp-newtab\",\"grp-groupsapp-re\",\"grp-groupsapp-search\",\"grp-groupsappfloodgate\",\"grp-groupshomesearch\",\"grp-groupsiconchange-leftnav\",\"grp-loadfolders\",\"grp-preserve-groupsmtp-case\",\"grp-restapis-join\",\"grp-sendasonbehalfofgrp\",\"grp-shareable-crud\",\"grp-shareable-crud-membermanagement\",\"grp-shareable-crud-smtpedit\",\"grp-singlegroupuserlanding\",\"grp-storageandbulkdelete\",\"grp-transferownership\",\"grp-unreadcounttop5andfavorites\",\"grp-useeoidasidentityforgroupsapis\",\"grp-wespacedeprecation\",\"immersive-bizchat-license-check\",\"lightning-no-cache\",\"lite-font-scale\",\"lite-greenroom-treatment\",\"lite-offline-session-data\",\"lite-refer-friends-and-family\",\"lpc-ispersonainsightringenabled\",\"mail-junksenderemail\",\"mailto-group-forms\",\"mc-altextpredictionux\",\"mc-cmp-autocapitalization\",\"mc-cmp-autocorrect\",\"mc-editor-aggregate-logger\",\"mc-editor-multilingual-proofing\",\"mc-editor-oa\",\"mc-editor-oa-connectors\",\"mc-editor-oa-graph-predictions\",\"mc-editor-oa-polymer-intent\",\"mc-editor-oa-predictions\",\"mc-editorgeneralsurvey\",\"mc-graphintentdetection-workflow\",\"mc-officeeditordnngrammarenabled\",\"mc-officeeditorproofingmasterflight\",\"mc-officeeditortonalenabled\",\"mc-smartcomposefeedback\",\"mc-smartcomposeintent\",\"mc-smartreplywithcustommeeting\",\"mc-smartreplywithdoc-contextualmru\",\"mc-smartreplywithdoc-smartattachments\",\"mc-unified-text-prediction\",\"mc-unified-text-prediction-nas100-oa\",\"me-botinvoke-3scf\",\"me-card-enableopenurl\",\"me-card-jitinstall\",\"me-linkunfurl\",\"me-renderer-enabled\",\"me-search-global\",\"me-stage-view\",\"me-task-module\",\"me-use-safelink\",\"mini-ana-client-error\",\"mini-block-sender\",\"mini-feedback-link\",\"mini-mail-a2hs-customprompt\",\"mini-mail-a2hs-persistent\",\"mini-markasjunkmultiselect\",\"mini-nps-tips\",\"mini-push-notification-mail\",\"mini-push-notification-reminder\",\"mini-reactions\",\"mini-report-a-concern\",\"mini-suggested-replies\",\"mini-sw-enabled\",\"mini-sw-enabled-chrome\",\"mini-sw-enabled-safari\",\"mini-swipe-refresh\",\"mini-themes\",\"mini-unified-search\",\"mini-whats-new\",\"mini-wsb\",\"mon-cal-loadeventsviagql\",\"mon-cal-usedateindexforidbgcv\",\"mon-copilot-chat-avaloncf\",\"mon-copilot-chat-gpt-4o-cf\",\"mon-copilot-chat-gpt-turbo\",\"mon-copilot-chat-history-v2\",\"mon-copilot-chat-mail-odsl\",\"mon-copilot-chat-resolve-context\",\"mon-copilot-chat-webgrounding\",\"mon-copilot-elaborate-hidepregenadjust\",\"mon-copilot-elaborate-rewrite\",\"mon-copilot-mailfre\",\"mon-default-consumer-overflow-ribbon\",\"mon-diag-enableaggregatediagnsoticsfeatureflagcheck\",\"mon-diag-enforceentitlement\",\"mon-diag-feedbackjs\",\"mon-diag-helptab\",\"mon-diag-multiaccount\",\"mon-diag-sendhostorigin\",\"mon-diag-socmigration\",\"mon-diag-togglefeedback\",\"mon-diag-togglefeedbacklogcollection\",\"mon-diag-togglefeedbackrecovery\",\"mon-disable-secondaryaccountaddins\",\"mon-embed-chat-teaching-callout\",\"mon-file-projection\",\"mon-file-projection_and_nh-msgfileprotocolconverted\",\"mon-itemid-sort-key\",\"mon-new-illustrations\",\"mon-new-message-bars\",\"mon-presence-adf-service\",\"mon-recipient-collapse-onlyfocusedit\",\"mon-recipient-removeepp-folderpermissions\",\"mon-recipient-removeepp-fromwell\",\"mon-recipient-removeepp-openanothermailbox\",\"mon-recipient-search\",\"mon-ribbon-customization-multiaccount\",\"mon-ribbon-fluent-v9-customizercf\",\"mon-ribbon-light-icon-font\",\"mon-ribbon-telemetry\",\"mon-ribbon-win32-keytip-parity\",\"mon-rp-presence\",\"mon-tri-renamefolderscloudcache\",\"mos-appbar-settings-icon\",\"mos-appbardisplaymode-colorfuliconswithoutlabels\",\"mos-bookingsvnextapp\",\"mos-copilotbizchat\",\"mos-coreiconrefresh\",\"mos-defaultpinm365chat\",\"mos-disablecombinedaccesscheck\",\"mos-hidegetaddinscalendar\",\"mos-messageextensionpinning\",\"mos-mos3appservice\",\"mos-onedriveapp\",\"mos-orgexplorer\",\"mos-profileservice\",\"mos-titlelaunchinfo\",\"mos-todoapp\",\"mos-vivaengagerebrand\",\"ms-disable-intelligence-on-smime\",\"msplaces-building-v2\",\"msplaces-buildinganalytics-actualattendancebylocationsummary\",\"msplaces-buildinganalytics-actualattendancebylocationtrend\",\"msplaces-buildinganalytics-actualattendancebyvisitssummary\",\"msplaces-buildinganalytics-actualattendancebyvisitstrend\",\"msplaces-buildinganalytics-actualattendancesummary\",\"msplaces-buildinganalytics-actualattendancetrend\",\"msplaces-buildinganalytics-floorcount\",\"msplaces-buildinganalytics-headcount\",\"msplaces-buildinganalytics-workplanattendancesummary\",\"msplaces-buildinganalytics-workplanattendancetrend\",\"msplaces-buildinganalytics-workplanofficepreferencebyfrequency\",\"msplaces-buildinganalytics-workplanofficepreferencebyfrequencysummary\",\"msplaces-buildinganalytics-workplanpreferencebyworklocation\",\"msplaces-buildinganalytics-workplanworklocationsummary\",\"msplaces-calendarviewdataonlyformeetings\",\"msplaces-deskpoolreports-deskreservationandoccupancy\",\"msplaces-deskpoolreports-occupancy\",\"msplaces-deskpoolreports-reservationandoccupancyperdeskpool\",\"msplaces-disable-small-screen-map\",\"msplaces-enable-deskpoolreportv2\",\"msplaces-enable-exportreport\",\"msplaces-enable-getreportv2\",\"msplaces-enable-getreportv2-building\",\"msplaces-enable-highcharts\",\"msplaces-enabledrilldownview\",\"msplaces-enableleaderfilters\",\"msplaces-enablemostoccupiedroomreport\",\"msplaces-enablemostoccupiedroomreportv2\",\"msplaces-enableoccupancytablev2\",\"msplaces-enableroombusynessbyhourreportv2\",\"msplaces-enableroommeetingsreportv2\",\"msplaces-enableroomoccupancyreport\",\"msplaces-enableroomoccupancyreportv2\",\"msplaces-enableroomreservationandoccupancyreport\",\"msplaces-enableroomreservationandoccupancyreportv2\",\"msplaces-enableroomreservationreportv2\",\"msplaces-enableroomsbyamenitiesreportv2\",\"msplaces-enableroomsbycapacityreportv2\",\"msplaces-enableworkdaysfilters\",\"msplaces-enableworkdaysfilters-building\",\"msplaces-enableworkhoursfilters\",\"msplaces-explain-reportcf\",\"msplaces-explore-nearby-buildings-v2cf\",\"msplaces-explore-recurring-plan\",\"msplaces-explore-show-more-collaborators\",\"msplaces-explore-workspace-reservation\",\"msplaces-get-tag-feature-value-completions\",\"msplaces-home-page\",\"msplaces-init-meeting-locations\",\"msplaces-search-people\",\"msplaces-settings-hide-optionalsettings\",\"msplaces-show-timezone-dialog\",\"msplaces-showanalyticsenabledbuildings-enabled\",\"msplaces-showglobalactionbuttononnavheader\",\"msplaces-use-tenant-settings-for-opx\",\"nh-moncds\",\"nh-moncdslog\",\"nh-moncdsparallelputblockuploads\",\"nh-msgfileprotocolconverted\",\"notes-storage-enabled\",\"notes-useexternalnotifications\",\"notif-disablesecondaryaccounts\",\"notif-reconnectfornorowupdates\",\"ocps-expired-store-refresh\",\"office-suite-nps\",\"openbook-allowed-check\",\"people-capiv2toggle\",\"people-capiv3\",\"people-contactnsatoverall\",\"people-contactsnsatdedupe\",\"people-contactsnsatmanage\",\"people-contactsnsatsearch\",\"people-emptyfolder-bulk\",\"people-enable-groups\",\"people-monarch-capiv3\",\"people-option-displayby\",\"people-publicfolders\",\"people-rightclickmenu\",\"ph-isphariaprojectenabled\",\"places-web-app-enabled\",\"platform-redirecttocalendarservice\",\"ring-ww\",\"rp-3speoplesuggestions\",\"rp-actionablemessagesconsentflow\",\"rp-am-useaadtokenforimageproxy\",\"rp-am-usebase64forimageproxy\",\"rp-cachefirstpeopletriesize500\",\"rp-citicardv2\",\"rp-inlinetranslation\",\"rp-inlinetranslation-conversationviewoff\",\"rp-inlinetranslationforwardcontent2\",\"rp-itemactionsv2-debounce\",\"rp-optimizeautosearchdirectory\",\"rp-pretty-print\",\"rp-recordmanagement\",\"rp-splitlongtasks\",\"sea-fetchbookmarks2\",\"sea-fetchevents2\",\"sea-fetchfiles4\",\"sea-hybridsearchsupported\",\"sea-ignitecentered\",\"sea-metaosappsearchinowa\",\"sea-postsuggestionsapi\",\"sea-searchtabs-people\",\"sea-sharedmailboxallscope\",\"sea-single3squerycallforanswersandserp2\",\"settings-11x11\",\"timezoneoffsets-cache-serviceworker\",\"todo-plannedlist\",\"tra-migratesettingstoaccount\",\"tra-useaccountsettings\",\"tri-advancedflag\",\"tri-composecheckforstorylinepostbutton\",\"tri-favorites-roaming\",\"tri-featurecheckforstorylinepostbutton\",\"tri-junksettingsuirefresh\",\"tri-message-list-reactions\",\"tri-mlspoof-tag\",\"tri-newyammerpostbutton\",\"tri-newyammerpublisherguideonopx\",\"tri-quicksteps-useitemids\",\"tri-reportunsubscribeblock\",\"tri-reselect-checkbox-behavior\",\"tri-yammerperf\",\"usv-nps-categories\",\"usv-nps-ratingsheaderexperiment\",\"usv-nps-usesessioncount\"]","UserAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","App":"Mail","BootType":"SwCache","ServiceVersion":"15.20.8005.26","dag":"EURPR07DG539","SessionElapseTime":2,"Hardware":"{\"architecture\":\"x86\",\"bitness\":\"64\",\"brands\":[{\"brand\":\"Microsoft Edge\",\"version\":\"129\"},{\"brand\":\"Not=A?Brand\",\"version\":\"8\"},{\"brand\":\"Chromium\",\"version\":\"129\"}],\"mobile\":false,\"model\":\"\",\"platform\":\"Windows\",\"platformVersion\":\"15.0.0\",\"deviceMemory\":8,\"cores\":12,\"storageQuota\":303799937433,\"storageUsage\":44617226,\"details\":\"{\\\"caches\\\":44356864,\\\"indexedDB\\\":55187,\\\"serviceWorkerRegistrations\\\":205175}\"}","Capabilities":"{\"webdriver\":false,\"pdfViewerEnabled\":true}","Settings":"{\"ReadingPanePosition\":1,\"ListViewType\":\"0\",\"ConditionalAccess\":\"None\",\"FocusedEnabled\":true,\"FocusedInboxBits\":0,\"ListViewBits\":32,\"PreviewText\":true,\"SenderOnTop\":true,\"InlinePreviews\":true,\"HoverActions\":\"3,5,4,1\",\"Ponts\":\"2143289343\",\"Theme\":\"|false\",\"MasterCategories\":6,\"IsEdu\":false,\"NetworkInfo\":{\"effectiveType\":\"4g\",\"downlink\":6.25,\"rtt\":150,\"saveData\":false},\"Dimensions\":{\"WindowWidth\":1528,\"WindowHeight\":704,\"ScreenWidth\":1536,\"ScreenHeight\":816},\"DisplayDensity\":\"Full\",\"ConsumerAdsExperiment\":\"NoExperiment\",\"Domain\":\"tricentis.com\",\"ApplicationSettings\":{\"Type\":\"UCF\",\"Settings\":{\"Features\":{\"cmp-retain-x-header\":true,\"fwk-worker-synchronous\":true,\"cal-txp-optionsV2\":true,\"settings-replacing-iframe-in-distribution-groups\":true,\"mon-copilot-irm-support-draft\":true,\"mon-copilot-irm-support-summarize\":true,\"mon-copilot-chat-history\":true,\"notes-noteFeedWhatsNew\":true,\"notes-folder-view\":true,\"notes-noteFeedOneNotePages\":true,\"notes-noteFeedHtmlRenderingEnabled\":true,\"rp-3STelemetryEvents\":true,\"doc-fileProvider-gdrive\":true,\"notif-routingHint\":false,\"cmp-clp-aipparity-smime\":true,\"cal-multiAccounts-groupCalendars\":true,\"bookings-PowerAutomateIntegration\":true,\"auth-scheduleTimerForReminderWebPush\":true,\"fms-smartreply\":true,\"fms-dialog\":true,\"rp-inlineTranslation-feedbackRibbon\":true,\"cal-series-viewer-mco\":true,\"cal-mf-calendarWeatherDetails\":true,\"fwk-webPushNotification\":true,\"fwk-mailtoProtocolHandler\":true,\"rp-imageProxyOnCosmic\":true,\"cal-advancedRoomBooking\":true,\"ocps-policy-check\":true,\"mon-ribbon-teaching-callout\":true,\"cmp-clp\":true,\"cmp-prague\":true,\"iris-commercial-bizbar\":true,\"cmp-clp-label-scoping\":true,\"mon-show-addins\":true,\"rp-reactions\":true,\"cmp-ribbon-callout\":true,\"notes-noteFeedSidePanel\":true,\"usv-nps\":true,\"doc-fileProvider-wopiClient\":true,\"mon-copilot-elaborate-tonePersonalization\":true,\"mon-copilot-elaborate-rewrite\":true,\"fwk-nativeServiceWorker\":false,\"mon-altForKeytips\":false,\"auth-redirectOnSessionTimeout\":true,\"mon-friendlyKeyboarding\":false,\"notif-componentTokenProvider\":false,\"ads-hideDisplayAds\":false,\"auth-activityFeedScopePatch\":false,\"auth-promptRebootNativeHost\":false,\"cmp-nativeConversationOptions\":false,\"doc-copyLinkUsingClipboardApi\":false,\"doc-editInBrowserReuseSameWindow\":true,\"doc-hideFileProviders\":false,\"doc-smimeExtension\":true,\"fwk-freezeDry\":false,\"fwk-recordPerformanceTrace\":false,\"mail-openInNewWindow\":false,\"mail-updateHostAppIcon\":false,\"me-controlAccountSwitching\":true,\"mon-errorMessage\":false,\"mon-projectionCustomTitlebar\":false,\"notif-multipleAccountSignalR\":false,\"rp-addBlankTargetToLinks\":true,\"rp-messageBodyLocalPathHandler\":false,\"rp-renderActionableMessage\":true,\"sea-showOwaBranding\":true,\"tri-showArchiveUnreadCount\":false,\"usv-nps-outlookDialog\":false,\"fwk-appLauncher\":true,\"fwk-reboot\":false,\"fwk-hideAppBar\":false,\"acct-connected-settings\":true,\"cal-roomFinderFreeBusyStyles\":false,\"auth-msalTokenFetch\":true,\"cmp-postDraft-SavedMessageToHost\":false},\"DistributionGroups\":{\"exchangePortalUrl\":\"https://admin.exchange.microsoft.com/?page=groups&form=owa_groups\"},\"CopilotAIX00\":{\"prioritizeEnabled\":false},\"TipsTour\":{\"enabled\":false},\"PDV\":{\"peoOfflineTemplate\":false,\"peoOfflineDisablePrefetch\":false,\"peoOfflineLokiShadow\":false,\"peoOfflineInMemorySort\":false,\"peoOfflineIndexSort\":false,\"peoSubstrateSearch\":false,\"peoInvalidateLokiContactCache\":false},\"Jana\":{\"peopleNovaPeopleApp\":false,\"lpeNova\":false,\"nsatFeedback\":false},\"OnePersonView\":{\"enabled\":false,\"enabledForPeopleHub\":false},\"TeamsVirtualEvents\":{\"serviceBaseUrl\":\"\"},\"TeamsMiddleTier\":{\"serviceBaseUrl\":\"\"},\"LoopAudience\":{\"audience\":\"Production\"},\"MeetNow\":{\"useOwaMailHandler\":true,\"useTeamsSDKForJoinMeeting\":false},\"MeetingPrepSydney\":{\"variants\":\"3S.DisableEnableWholePageRankingPlugin,3S.DisableMIMIRConnectorWorkflow,3S.DisableTuringConnectorSearch,3S.DisableMIMIRForExperiment,3S.EnableSkipLexicalSearch,3S.DisableConnectorInterleaving,feature.EnableRecommendedItems\"},\"MessageRecall\":{\"resourceUrl\":\"https://outlook.office.com/messagerecallnetcore/\"},\"TeamsArtifactsService\":{\"serviceBaseUrl\":\"\"},\"VirtualEvents\":{\"serviceBaseUrl\":\"\"},\"SafelinksURLConfigs\":{\"SafelinksHostnames\":\"safelinks.protection.com,safelinks.protection.office365.us,safelinks.protection.outlook.com,safelinks.protection.outlook.cn,safelinks.protection.outlook.de,safelinks.o365filtering-int.com\",\"SpoLofHostnames\":\"sharepoint-df.com,sharepoint.com,sharepoint.de,sharepoint.cn,sharepoint-mil.us,sharepoint.us\",\"GetParams\":\"url\",\"DropParams\":\"data,sdata,reserved\",\"SpoLofDropParams\":\"xsdata,sdata,ovuser,clickParams\"},\"Upsell\":{\"adsFreeUpsellUrl\":\"https://go.microsoft.com/fwlink/?linkid=2222261\"},\"Addin\":{\"devicePermissionAllowList\":\"{\\\"geolocation\\\":[],\\\"camera\\\":[],\\\"microphone\\\":[]}\",\"isVerboseLogsEnabled\":false},\"SwCache\":{\"batchSize\":100,\"successRatio\":1},\"NewOutlookPromoDialog\":{\"storeUrl\":\"ms-windows-store://pdp/?ProductId=9NRX63209R7B&mode=mini&cid=owaPromotionDownload\"},\"PlacesOutage\":{\"hasOutage\":false,\"outageLinkUri\":\"\",\"outageEnumIdMessage\":0},\"Loki\":{\"complianceEnvironment\":\"Prod\",\"resourceUrl\":\"https://loki.delve.office.com/\"},\"GWSApi\":{\"resourceUrl\":\"https://graph.microsoft.com\"},\"Nps\":{\"npsSamplingOwaAppRate\":0.17,\"npsSamplingOwaSuiteRate\":0.8,\"npsSamplingMonarchAppRate\":4,\"npsSamplingMonarchSuiteRate\":1,\"npsSamplingMonarchCopilotRate\":4,\"npsSamplingOwaCopilotRate\":1},\"Copilot\":{\"disableAddins\":false,\"elaborateEnabled\":true,\"coachEnabled\":true,\"summarizeEnabled\":true,\"suggestedDraftsEnabled\":true,\"meetingPrepSummaryEnabled\":true,\"replyByMeetingEnabled\":true,\"disableInboxShopping\":true,\"enableMultiLanguage\":true,\"calendarElaborateEnabled\":true,\"calendarRewriteEnabled\":true,\"timeCopilotChatEnabled\":true},\"EventifyOutage\":{\"hasOutage\":false,\"outageLinkUri\":\"\"},\"MonarchLegacyToggle\":{\"delayInSecondsBeforeRenderingFeedback\":5},\"ForwardingWithPopImapOption\":{\"enabled\":true},\"SettingsUxOutboundLinks\":{\"showLinkPreviewLinks\":true,\"showMobileGetAppLink\":true,\"showPopImapSupportLink\":true,\"showRulesInfoLink\":true,\"showSmimeChromeExtensionLinks\":true},\"MsPlacesWebEnabled\":{\"enabled\":false},\"MsPlacesDevRing\":{\"enabled\":false},\"PlacesPrivateDev\":{\"enabled\":false},\"OutlookServiceUrl\":{\"outlookServiceDomain\":\"outlook.office.com\"},\"ToDo\":{\"isToDoFeaturesEnabled\":true},\"Analytics\":{\"disabledDatapoints\":[\"RelatedContentFilesAndEmailsRenderingLatency\",\"GetTokenApi\",\"GetTokenApiUsingHostApp_outlookdesktop\",\"GetTokenApiUsingHostApp_native\",\"GetTokenApiUsingHostApp_widget\",\"ItemActionsMenuV2\",\"MOS-SupportedAppServiceEnvironment\"],\"enableHighCountEventThrottle\":true,\"highCountEventThrottleWindow\":15,\"highCountEventThrottleThreshold\":250},\"ActionableMessage\":{\"resourceUrl\":\"https://outlook.office365.com/connectors\"},\"GdprAds\":{\"vendorListCdnUrl\":\"https://res.cdn.office.net/assets/ads/7dttl/vendor-list.json\"},\"UniversalMeControl\":{\"enabled\":true},\"PlacesPrivateDevRing\":{\"enabled\":false},\"PoisonedBuild\":{\"skipBuilds\":[\"20240510004.*\",\"20240517003.*\",\"20240524003.*\",\"20240531006.*\",\"20240607002.0.*\",\"20240607002.1.*\",\"20240614008.01\",\"20240614008.02\",\"20240614008.03\",\"20240614008.04\",\"20240614008.05\",\"20240614008.06\"]},\"Diagnostics\":{\"panel\":false},\"Graph\":{\"resourceUrl\":\"https://graph.microsoft.com\"},\"NativeReactions\":{\"deviceType\":\"Owa\"},\"SuggestedAttachmentsRecommendationServiceCall\":{\"ScenarioName\":\"OutlookWebMonarch\"},\"Chapter3AllowList\":{\"registrationIds\":[\"@ms/forms-loop\",\"@fluidx/video-playback\"],\"sourceContents\":\"\"},\"ReliabilityCheck\":{\"isPresent\":true},\"CLPAudit\":{\"resourceUrl\":\"https://graph.microsoft.com\"},\"MetaOSSettings\":{\"dataResidency\":\"eudb\"},\"Safelinks\":{\"staticPageBaseUrl\":\"https://outlook.office.com/mail/safelink.html\",\"getServiceLocatorHost\":\"https://na01.safelinks.protection.outlook.com\",\"isSupported\":true},\"MSALUrl\":{\"resourceBlockList\":[\"https://outlook-sdf.live.com\",\"https://outlook.live.com\",\"https://cortana.ai\",\"https://dataservice.o365filtering.com\",\"https://outlookimageproxy.azurewebsites.net\"],\"outlookgatewayUrl\":\"outlookgatewayb2/.*/graphql\",\"notificationChannelUrl\":\".*/notificationchannel\"},\"TeamsURL\":{\"resourceURL\":\"https://teams.microsoft.com\"},\"AppHealth\":{\"appHealthIntervalInMs\":1800000},\"OneNote\":{\"ariaIngestionKeyOverride\":\"85ff275685454a7b8d84714195a1e34d-babfd5cb-1a98-4f61-b506-d0722c62d54e-7394\"},\"ForceReboot\":{\"WebForceRebootEnabled\":true}},\"Filters\":\"Platform=Browser,ConsumerUserType=,BusinessUserType=Standard,ConsumerUserAgeGroup=Adult,Host=,HostedUX=False,ConsumerCountry=,IsCloudCache=False,CloudCacheAccountType=,\"},\"CerberusFlagMatch\":1,\"FlagsUserMatch\":1,\"EcsCheck\":1,\"KeyboardShortcutsMode\":\"4\",\"WebServerForest\":\"eurprd07\",\"Clique\":\"CLEURPRD07DUB02\",\"BootFlights\":\"acct-add-account-e1-improvement,auth-cacheTokenForMetaOsHub,auth-cachetokenformetaoshub,auth-msaljs-findtime,auth-msaljs-landingpage,bootflight1,cal-perf-eventsinofflinestartupdata,cal-perf-eventsinstartupdata,cal-perf-eventsinstartupdatabyviewtype,cal-perf-useassumeoffset,cal-widgets-upn-validation,dev-offlineMultiAccountDB,fwk-analytics-addons,fwk-skipnavbardataonhosted,fwk-skipnavbardataonhosted,localStorageOwaPrefix,shellmultiorigin,workerasyncload\",\"IsEUDBCollectorEndpoint\":true,\"IsEMEARegion\":true,\"IsAnaliticsInitialized\":true,\"XOwaForest\":\"EURPRD07\",\"accountInfo\":{\"accounts\":1,\"withPuid\":0,\"office365\":1,\"outlookDotCom\":0,\"google\":0,\"yahoo\":0,\"icloud\":0,\"imap\":0,\"pop3\":0,\"pst\":0},\"DefaultFolderNames\":257,\"DefaultFolderIds\":257,\"ShowReadingPaneOnFirstLoad\":false}","Dates":"{\"OwaLogon\":\"9/3/2024 2:24:33 AM\",\"MailLogon\":\"9/3/2024 2:24:33 AM\",\"CalendarLogon\":\"9/11/2024 3:06:51 AM\",\"MailboxCreate\":\"2024-08-26T16:05:43.0000000Z\"}","LoadTime":1367,"HashEmail":"d0ad23a39e9aa0efdf47b75abc68167761f70c5d593a731b426e805df571e93b","diagnostics":"{\"EndpointUrl\":\"https://eu-office.events.data.microsoft.com/OneCollector/1.0/\"}","BEServer":"DB9PR07MB8728","MBXGuid":"87390b02-baa2-48df-a975-6a3e94c5bec5","Forest":"EURPRD07","Puid":"10032003BCB8E734","ClientId":"B48350CA338146FE897268A45767AB29","Ring":"WW","UserType":"b_standard","Layout":"Desktop","TenantGuid":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","Session.Id":"1e249e5e-535a-46a8-ba14-e1f78a47f4db","PhysicalRing":"SIP","VariantEnv":"Prod","Host":"(none)","Thread":"MAIN_THREAD"}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postContentUnzipped="true" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/67d53cdf-b119-4795-b73b-a0aec175a9a4.zip"
+    recordedResponseCode="200" responseSize="153"
+    serverUid="eu-office.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="8370bd5e-1a34-4096-94df-bd9f01debc44" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8370bd5e-1a34-4096-94df-bd9f01debc44</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8370bd5e-1a34-4096-94df-bd9f01debc44.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="upload-time" value="1727819360323"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="apikey" value="85b810157191464187de4ee95efa25d7-d3237e7a-11f2-4c3c-a419-c85e4ace5285-6454"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="content-encoding" value="gzip"/>
+    <header name="client-version" value="1DS-Web-JS-4.3.0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="time-delta-to-apply-millis" value="use-collector-delta"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/x-json-stream"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="cache-control" value="no-cache, no-store"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 153&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 1081&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:20 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"UnifiedUserAction","time":"2024-10-01T21:49:13.035Z","ver":"4.0","iKey":"o:85b810157191464187de4ee95efa25d7","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0","seq":1,"epoch":"4133260467"},"app":{"ver":"20240920004.12","sesId":"1e249e5e-535a-46a8-ba14-e1f78a47f4db"},"user":{"locale":"en-US"},"web":{"screenRes":"0X0","userConsent":false},"os":{"ver":"14.0"},"intweb":{},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"metadata":{"f":{"SampleRate":{"t":6},"HashedEmail":{"t":321},"SequenceNumber":{"t":6},"SessionOccurences":{"t":6}}}},"data":{"baseData":{"properties":{"version":"PostChannel=4.3.0;SystemPropertiesCollector=4.3.0"}},"ActionName":"SwitchMailFolder","ActionDomain":"Mail","SampleRate":100,"IsHVAMetricMember":true,"ClientId":"B48350CA338146FE897268A45767AB29","Client":"OWA","SchemaVersion":"0.0.165","Audience":"Prod","ServiceDeploymentRing":"SIP","WebHost":"(none)","HashedEmail":"d0ad23a39e9aa0efdf47b75abc68167761f70c5d593a731b426e805df571e93b","EmailDomain":"tricentis.com","AccountCloud":"WorldWide","TenantGuid":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","UserType":"ComStandard","FolderName":"none","App":"Mail","EventName":"SwitchMailFolder","SequenceNumber":120,"SessionOccurences":1,"OriginalThread":"ANALYTICS_WORKER_THREAD","UserInfo.Id":"10032003BCB8E734","UserInfo.IdType":"OrgIdPuid","diagnostics":"{\"UpdateCachesFromMainThreadIsRegistered\":true,\"EndpointUrl\":\"https://eu-office.events.data.microsoft.com/OneCollector/1.0/\"}"}}]]></textPostContent>
+</http-action>

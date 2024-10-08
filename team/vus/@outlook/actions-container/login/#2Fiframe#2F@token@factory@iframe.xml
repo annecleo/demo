@@ -1,0 +1,102 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/iframe/TokenFactoryIframe" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c5201946-f628-4f61-933e-e1ef3a335ce3.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c5201946-f628-4f61-933e-e1ef3a335ce3">
+    <embedded-action>22cba6f2-5aa0-4a00-847f-06e12a6ba24a</embedded-action>
+    <embedded-action>d90a72b5-f405-4fdc-8676-e8ada9bf7222</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c5201946-f628-4f61-933e-e1ef3a335ce3.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/iframe/TokenFactoryIframe"
+    path="/iframe/TokenFactoryIframe" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c5201946-f628-4f61-933e-e1ef3a335ce3.zip"
+    recordedResponseCode="200" responseSize="2482"
+    serverUid="webshell.suite.office.com" slaProfileEnabled="false"
+    uid="22cba6f2-5aa0-4a00-847f-06e12a6ba24a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_22cba6f2-5aa0-4a00-847f-06e12a6ba24a.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_22cba6f2-5aa0-4a00-847f-06e12a6ba24a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="origin"
+        recordRawValue="https%3A%2F%2Foutlook.office.com" separator="="
+        value="https://outlook.office.com" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="shsid"
+        recordRawValue="bc260ca9-8524-419e-8178-c886497982ce"
+        separator="=" value="bc260ca9-8524-419e-8178-c886497982ce" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="apiver"
+        recordRawValue="oneshell" separator="=" value="oneshell" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="cshver"
+        recordRawValue="1.20240208.12.0" separator="="
+        value="1.20240208.12.0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="upn"
+        recordRawValue="a.ecleo%40tricentis.com" separator="="
+        value="a.ecleo@tricentis.com" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="navigate"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="cookie" value="MUID=17E57C38E0606ECD05D768D7E1FD6FDC"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="upgrade-insecure-requests" value="1"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="iframe"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: text/html; charset=utf-8&#xd;
+date: Tue, 01 Oct 2024 21:49:18 GMT&#xd;
+server: Kestrel&#xd;
+cache-control: private,max-age=3600&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=2592000&#xd;
+content-security-policy: default-src 'none'; frame-src *; script-src https://res-1.cdn.office.net https://shell.cdn.office.net 'nonce-drtXDy9O2gte8UhUrg4e0T1m+mn4el6/RFuYJY5iWrQ=' 'unsafe-inline'; connect-src *;&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+x-o365suiteuxshell-correlationid: 52e94baa-f232-40ee-8e41-eab99ddc9dcd</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/api/myapps/GetAppDataCache"
+    path="/api/myapps/GetAppDataCache" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c5201946-f628-4f61-933e-e1ef3a335ce3.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="webshell.suite.office.com" slaProfileEnabled="false"
+    uid="d90a72b5-f405-4fdc-8676-e8ada9bf7222" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d90a72b5-f405-4fdc-8676-e8ada9bf7222.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="hasMailboxInCloud" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="culture"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="authorization,content-type"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="GET"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Tue, 01 Oct 2024 21:49:18 GMT&#xd;
+server: Kestrel&#xd;
+access-control-allow-headers: authorization,content-type&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-origin: *&#xd;
+access-control-max-age: 7200&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,15 @@
+{
+  "id" : "id",
+  "name" : "name",
+  "description" : "description",
+  "author" : "author",
+  "terminationReason" : "POLICY",
+  "lgCount" : 4,
+  "project" : "project",
+  "scenario" : "scenario",
+  "status" : "INIT",
+  "qualityStatus" : "PASSED",
+  "startDate" : 7,
+  "endDate" : 1,
+  "duration" : 1
+}

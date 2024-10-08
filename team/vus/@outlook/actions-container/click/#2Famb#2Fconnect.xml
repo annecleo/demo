@@ -1,0 +1,254 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/amb/connect"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b072084b-d179-4926-ad36-4097512496de.zip"
+    slaProfileEnabled="false" thinkTime="615"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b072084b-d179-4926-ad36-4097512496de">
+    <embedded-action>4d6f05f0-465b-4df2-b9ea-addf6e6e4a22</embedded-action>
+    <embedded-action>37ec666c-11d9-41c1-bf6d-7f6fd1c5aa61</embedded-action>
+    <embedded-action>aa9b2540-edc7-449e-a6f7-341524848fcd</embedded-action>
+    <embedded-action>17fc85ff-051b-4a3d-a906-9398c8dac9ca</embedded-action>
+    <embedded-action>31664de5-86b5-4af8-a654-e071952f2f48</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b072084b-d179-4926-ad36-4097512496de.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b072084b-d179-4926-ad36-4097512496de.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="4d6f05f0-465b-4df2-b9ea-addf6e6e4a22" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_4d6f05f0-465b-4df2-b9ea-addf6e6e4a22</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_4d6f05f0-465b-4df2-b9ea-addf6e6e4a22.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727818977.60.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/now/workspace/agent/record/sn_customerservice_case/2d5c404b833c5214f6cb9b65eeaad3ab"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 21:49:22 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"141","channel":"/meta/connect","connectionType":"long-polling","clientId":"hmv1ge69fpp4rtbmooznh7t4m2e1"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b072084b-d179-4926-ad36-4097512496de.zip"
+    recordedResponseCode="200" responseSize="24"
+    serverUid="eu-mobile.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="37ec666c-11d9-41c1-bf6d-7f6fd1c5aa61" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_37ec666c-11d9-41c1-bf6d-7f6fd1c5aa61</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_37ec666c-11d9-41c1-bf6d-7f6fd1c5aa61.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="upload-time" value="1727819358533"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="apikey" value="e5ad760145754ffc9704e67c800087f2-994e0432-dd0e-4a24-9a3d-bb9d8a6b83f3-7303"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="client-version" value="1DS-Web-JS-4.3.0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="time-delta-to-apply-millis" value="use-collector-delta"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/x-json-stream"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="cache-control" value="no-cache, no-store"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 24&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 7232&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"initializeLivePersonaCard_success","time":"2024-10-01T21:49:18.531Z","ver":"4.0","iKey":"o:e5ad760145754ffc9704e67c800087f2","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0","seq":1,"epoch":"1322406455"},"app":{"locale":"en","sesId":"8319bbf2-5b1f-4a12-8150-fe3ffb0c50a0"},"user":{"locale":"en-US"},"web":{"domain":"outlook.office.com","browser":"Edge","browserVer":"129","screenRes":"1536X864","userConsent":false},"intweb":{"serviceName":"Mail"},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"metadata":{"f":{"Perf_GetAuthTokenDuration":{"t":6},"Perf_GetAuthTokenFromStartDuration":{"t":6},"Perf_GetLokiConfigDuration":{"t":6},"Perf_GetLokiConfigFromStartDuration":{"t":6},"Perf_GetLpcBundlesDuration":{"t":6},"Perf_GetLpcBundlesFromStartDuration":{"t":6},"Perf_StartLpcDuration":{"t":6},"Perf_StartLpcFromStartDuration":{"t":6}}}},"data":{"baseData":{"properties":{"version":"PostChannel=4.3.0;SystemPropertiesCollector=4.3.0"}},"Perf_GetAuthTokenDuration":1514,"Perf_GetAuthTokenFromStartDuration":1514,"Perf_GetLokiConfigDuration":2585,"Perf_GetLokiConfigFromStartDuration":4099,"Perf_GetLpcBundlesDuration":92,"Perf_GetLpcBundlesFromStartDuration":4192,"Perf_StartLpcDuration":20,"Perf_StartLpcFromStartDuration":4212,"RootCorrelationId":"e50e980e-9d2e-45ff-b354-92ab357ba8df","isConsumer":"false","lpcWindowId":"053b3418-80de-4b32-97ac-1f5b014797c4","culture":"en-US","clientType":"OneOutlook","clientContextType":"OrgId","bootstrapperVersion":"1.20230818.2.0","complianceEnvironment":"Prod","hostAppRing":"WW","hostAppVersion":"20240920004.12","app":"Mail","platform":"Web","clientCorrelationId":"1e249e5e-535a-46a8-ba14-e1f78a47f4db","lokiUrl":"https://eur.loki.delve.office.com/","flights":"contacteditorcansetphoto,decoratedapiwithsummaryenabled,disabledataactionlogging,disableghostcardworkaround,displaylinkedindataprebind,eapisnewyammeractivitiesenabled,eapistopicactivitiesenabled,ecsverification_livepeoplecards_shouldbeenabled,ecsverification_shouldbeenabled,emailsimmersive,enablecenteredexpandedview,enableinternalonedstelemetrysink,enablemailboxsettings,enableoverviewinexpandedview,enablepanelswithhighestinteractionontop,enablepeopleinsights,enablesettingsinconfiguration,evinsightsenabled,extendeduserinfo,gdprexportdatabuttonenabled,groupcardreactnative,groupmembersearch,groupmembersmanagements,grouppendingmembershiprequests,groupupdatedcard,immersiveprofile,inferredcontacts,iscardheaderv2enabled,iscollectorurloverrideenabled,isdeclinegrouppendingmemberenabled,isdotnetcoreendpointenabledintopiccard,isfeedbackforpeoplehighlightsenabled,isgroupstransferownershipenabled,ishorizontalorgpanelenabled,ishybridlocationenabled,ismultiplehighlightsenabled,isnewoofdesignenabled,ispeoplehighlightsenabled,ispersonaworkaroundenabled,ispreparepersonaoverwebsocketallowed,ispresenceincontactenabled,isrelatedtopicsenabled,istopicbrandingenabled,istopiccultureenabled,istopicdataasyncenabled,istopicdisambiguationenabled,istopicexpandedviewenabled,istopicexternallinkenabled,istopicfeedbackcontextidresponseenabled,istopicfeedbackiconenabled,istopicfeedbackpanelenabled,istopicjobtitlesenabled,istopiclabelv2enabled,istopictypesschemaenabled,isusinggettopicdataasync,linkedinbindingenabled,linkedinsalesnavigatorenabled,linkedinshortfenrircacheenabled,linkedinui,lpcconversationspanel,lpcdisablelokilogging,lpcenablearialogging,lpcfilepanel,lpcfilepanelmediumcard,lpcstikkontakt,navigatetotopicsevenabled,nextavailabilityenabled,openoverviewonclick,organizationpanelenabled,personprovider,prebindassociationsenabled,profilephotopicker,renewgroup,richavailabilitypanel,sendsignalsenabled,setphotoenabled,sharedmailboxenabled,showadditionallinkedindata,showlinkedindmaupsell,skypeconsumerintegration,theming,upsstatusnoteenabled,useaboutmefromtemplate,useeventdelegationfordomtargets,useforcerefreshlokitoken,useorgchartv2withfenrir,usev3personacards,usev3personacardsinlpcv2,useworkloadchatcallback,vivatopicsenabled,websocketserverping,workinghoursenabledlpcv2","userPuid":"10032003BCB8E734","userAadObjectId":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","tenantAadObjectId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","settings":"{\"LpcVersion\":\"1.20240923.1.0\",\"LpcV1Version\":\"1.20240819.1.0\",\"consumerOwaUrl\":\"https://outlook.live.com\",\"consumerTeamsUrl\":\"https://teams.live.com\",\"enterpriseOwaUrl\":\"https://outlook.office.com\",\"enterpriseTeamsUrl\":\"https://teams.microsoft.com\",\"ECSVerification_Setting\":\"setting value\",\"ECSVerification_LivePeopleCards_Setting\":\"setting value\",\"LpcCortanaVersion\":\"1.20220117.2.1\"}"}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b072084b-d179-4926-ad36-4097512496de.zip"
+    recordedResponseCode="200" responseSize="24"
+    serverUid="eu-mobile.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="aa9b2540-edc7-449e-a6f7-341524848fcd" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aa9b2540-edc7-449e-a6f7-341524848fcd</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aa9b2540-edc7-449e-a6f7-341524848fcd.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="upload-time" value="1727819360858"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="apikey" value="9156e11e549943e5970de3f1661df5b2-1c673737-125c-416c-9121-b8a0db2ec86a-6465"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="client-version" value="1DS-Web-JS-4.2.1"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="time-delta-to-apply-millis" value="use-collector-delta"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/x-json-stream"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="cache-control" value="no-cache, no-store"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 24&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 4907&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"Ms.Fast.Px.Fetch","time":"2024-10-01T21:49:18.844Z","ver":"4.0","iKey":"o:9156e11e549943e5970de3f1661df5b2","ext":{"sdk":{"ver":"1DS-Web-JS-4.2.1","seq":1,"epoch":"1577837245"},"app":{"name":"LivePersonaCard","locale":"en","sesId":"05bf51a8-f0f0-4600-80c8-f5fb96920b3d"},"user":{"locale":"en-US"},"web":{"domain":"outlook.office.com","browser":"Edge","browserVer":"129","screenRes":"1536X864","userConsent":false},"intweb":{"serviceName":"LivePersonaCard"},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"metadata":{"f":{"duration":{"t":6}}}},"data":{"baseData":{"properties":{"version":"PostChannel=4.2.1;SystemPropertiesCollector=4.2.1"}},"ver":"4.0","appVersion":"1.20240923.1.0","clientType":"OneOutlook","complianceEnvironment":"Prod","hostApp":"OneOutlook","hostAppPlatform":"Web","hostAppRing":"WW","hostAppSessionCorrelationId":"1e249e5e-535a-46a8-ba14-e1f78a47f4db","hostAppVersion":"20240920004.12","lokiUrl":"https://loki.delve.office.com","tenantId":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","userId":"0a752d94-faaa-493e-82e4-f8e0a4b0466a","duration":257,"path":"/","requestCorrelationId":"55e536c6-f346-49b3-a5ac-d88ba2cd2d58","result":"success","scenario":"GetConfiguration","source":"Loki"}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS"
+    name="/v1.0/a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b/subscribedskus"
+    path="/v1.0/a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b/subscribedskus"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b072084b-d179-4926-ad36-4097512496de.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="graph.microsoft.com" slaProfileEnabled="false"
+    uid="17fc85ff-051b-4a3d-a906-9398c8dac9ca" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_17fc85ff-051b-4a3d-a906-9398c8dac9ca.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="authorization,content-type"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="GET"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+strict-transport-security: max-age=31536000&#xd;
+request-id: 7bcb7cac-a23a-4838-8228-e12c4883a712&#xd;
+client-request-id: 7bcb7cac-a23a-4838-8228-e12c4883a712&#xd;
+x-ms-ags-diagnostic: {"ServerInfo":{"DataCenter":"Southeast Asia","Slice":"E","Ring":"5","ScaleUnit":"001","RoleInstance":"SI2PEPF00005711"}}&#xd;
+access-control-allow-origin: *&#xd;
+access-control-expose-headers: ETag, Location, Preference-Applied, Content-Range, request-id, client-request-id, ReadWriteConsistencyToken, Retry-After, SdkVersion, WWW-Authenticate, x-ms-client-gcc-tenant&#xd;
+access-control-allow-methods: DELETE, GET, MERGE, OPTIONS, POST, PUT, PATCH&#xd;
+access-control-allow-headers: authorization,content-type&#xd;
+access-control-max-age: 86400&#xd;
+date: Tue, 01 Oct 2024 21:49:24 GMT&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/v1.0/a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b/subscribedskus"
+    path="/v1.0/a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b/subscribedskus"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b072084b-d179-4926-ad36-4097512496de.zip"
+    recordedResponseCode="200" responseSize="75265"
+    serverUid="graph.microsoft.com" slaProfileEnabled="false"
+    uid="31664de5-86b5-4af8-a654-e071952f2f48" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_31664de5-86b5-4af8-a654-e071952f2f48</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_31664de5-86b5-4af8-a654-e071952f2f48.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="authorization" value="Bearer eyJ0eXAiOiJKV1QiLCJub25jZSI6Ijg0SEtwV1ZTOFJFVDl0MzVfOWhwT2ZUSUVIQzBFa0pheHprcU44MktMcmsiLCJhbGciOiJSUzI1NiIsIng1dCI6Ik1jN2wzSXo5M2c3dXdnTmVFbW13X1dZR1BrbyIsImtpZCI6Ik1jN2wzSXo5M2c3dXdnTmVFbW13X1dZR1BrbyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC9hOTNjY2IwMi04ZTMzLTQ0MzktOGJkNS1lMTljMGFjMWZkMWIvIiwiaWF0IjoxNzI3ODE5MDU1LCJuYmYiOjE3Mjc4MTkwNTUsImV4cCI6MTcyNzgyNDczOSwiYWNjdCI6MCwiYWNyIjoiMSIsImFjcnMiOlsidXJuOnVzZXI6cmVnaXN0ZXJzZWN1cml0eWluZm8iXSwiYWlvIjoiQVVRQXUvOFlBQUFBQVRXT0JacDFsSWpTcWdIby9KNWxMVnRySktkZFB1SEZkQS9mQ0FZQ3NBVFBhaGE0OE01OGpUOXQyTGsvTVZWS3hIYnpHQ1A2SGNuR21kSWpzcVRQb1E9PSIsImFtciI6WyJwd2QiLCJyc2EiLCJtZmEiXSwiYXBwX2Rpc3BsYXluYW1lIjoiT2ZmaWNlIDM2NSBFeGNoYW5nZSBPbmxpbmUiLCJhcHBpZCI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsImFwcGlkYWNyIjoiMiIsImF1dGhfdGltZSI6MTcyNzgxODQyNCwiZGV2aWNlaWQiOiIzZDUzZjlhNS1kYjUxLTRhYmYtYjBjZC03ZTJiNGFiYTcwZDQiLCJmYW1pbHlfbmFtZSI6IkVjbGVvIiwiZ2l2ZW5fbmFtZSI6IkFubiBKZW5uaWZlciIsImlkdHlwIjoidXNlciIsImlwYWRkciI6IjEwMy4xNDEuMjAzLjE3MCIsIm5hbWUiOiJBbm4gSmVubmlmZXIgRWNsZW8iLCJvaWQiOiIwYTc1MmQ5NC1mYWFhLTQ5M2UtODJlNC1mOGUwYTRiMDQ2NmEiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMzQ4NDU4MjY3Ni0xMjIxNzQyNy0zNDQ3MzE4NjY2LTU3NjA2IiwicGxhdGYiOiIzIiwicHVpZCI6IjEwMDMyMDAzQkNCOEU3MzQiLCJyaCI6IjAuQVRrQUFzczhxVE9PT1VTTDFlR2NDc0g5R3dNQUFBQUFBQUFBd0FBQUFBQUFBQUE1QUhFLiIsInNjcCI6IkF1ZGl0TG9nLkNyZWF0ZSBDaGFubmVsLkNyZWF0ZSBDaGFubmVsLlJlYWRCYXNpYy5BbGwgQ2hhbm5lbE1lbWJlci5SZWFkV3JpdGUuQWxsIENoYW5uZWxNZXNzYWdlLlJlYWQuQWxsIENoYW5uZWxNZXNzYWdlLlNlbmQgQ2hhdC5SZWFkIENoYXQuUmVhZFdyaXRlIERhdGFMb3NzUHJldmVudGlvblBvbGljeS5FdmFsdWF0ZSBEaXJlY3RvcnkuUmVhZC5BbGwgRWR1Um9zdGVyLlJlYWRCYXNpYyBGaWxlcy5SZWFkV3JpdGUuQWxsIEdyb3VwLlJlYWRXcml0ZS5BbGwgSW5mb3JtYXRpb25Qcm90ZWN0aW9uUG9saWN5LlJlYWQgTm90ZXMuQ3JlYXRlIE9ubGluZU1lZXRpbmdzLlJlYWQgT25saW5lTWVldGluZ3MuUmVhZFdyaXRlIE9yZ2FuaXphdGlvbi5SZWFkV3JpdGUuQWxsIFBlb3BsZS5SZWFkIFBvbGljeS5SZWFkV3JpdGUuQXV0aGVudGljYXRpb25NZXRob2QgU2Vuc2l0aXZlSW5mb1R5cGUuRGV0ZWN0IFNlbnNpdGl2ZUluZm9UeXBlLlJlYWQuQWxsIFNlbnNpdGl2aXR5TGFiZWwuRXZhbHVhdGUgVGVhbS5SZWFkQmFzaWMuQWxsIFVzZXIuSW52aXRlLkFsbCBVc2VyLlJlYWQgVXNlci5SZWFkQmFzaWMuQWxsIFVzZXIuUmVhZFdyaXRlIiwic2lnbmluX3N0YXRlIjpbImttc2kiXSwic3ViIjoiaER6NWdBLXV2MktaMkZJcnNrTzZtNm1aa18xZkc5V0V2bFB6cGxOdE9EOCIsInRlbmFudF9yZWdpb25fc2NvcGUiOiJFVSIsInRpZCI6ImE5M2NjYjAyLThlMzMtNDQzOS04YmQ1LWUxOWMwYWMxZmQxYiIsInVuaXF1ZV9uYW1lIjoiYS5lY2xlb0B0cmljZW50aXMuY29tIiwidXBuIjoiYS5lY2xlb0B0cmljZW50aXMuY29tIiwidXRpIjoiSmxxNDYzMi1mMDJPMTlBWEcyQUlBQSIsInZlciI6IjEuMCIsIndpZHMiOlsiYjc5ZmJmNGQtM2VmOS00Njg5LTgxNDMtNzZiMTk0ZTg1NTA5Il0sInhtc19pZHJlbCI6IjE4IDEiLCJ4bXNfdGNkdCI6MTQzNDQzNjc3MCwieG1zX3RkYnIiOiJFVSJ9.HYaX8XEOK1EH-HLbtlY5qsWLoe4buCjhyQH6fQS5mRETYuezdTWeRLDIArd9aXgcvHqXQy8F06Jo51mF23LVoGCjU9Em-eZaJmTbTNN-Ue3Pg8OM3oFD_3sGX4y6d4a4KE7LDJYIV8i4ZgWCVK-MEUmGetA5gEX-yGJDl5qv1WPy5RZjFPEHDTzUYVYqmBjDhL6O4QvLn8oEGNKxbgoqNY6E3JAiEe6EjtOfgVZ06JxttoNEblSTNTPjPe2Cjaf93gz4LzLGUNfph8UmmkgyZXTph1uncS3o-UJjdW0uJpusxSlpwahK8IrXyltNb_LPFxoug9JkMropJSXmhlE1ew"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: no-cache&#xd;
+content-type: application/json;odata.metadata=minimal;odata.streaming=true;IEEE754Compatible=false;charset=utf-8&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+strict-transport-security: max-age=31536000&#xd;
+request-id: e27ab733-a219-47c3-8926-3c8993bd0944&#xd;
+client-request-id: e27ab733-a219-47c3-8926-3c8993bd0944&#xd;
+x-ms-ags-diagnostic: {"ServerInfo":{"DataCenter":"Southeast Asia","Slice":"E","Ring":"5","ScaleUnit":"001","RoleInstance":"SI2PEPF00005711"}}&#xd;
+access-control-allow-origin: *&#xd;
+access-control-expose-headers: ETag, Location, Preference-Applied, Content-Range, request-id, client-request-id, ReadWriteConsistencyToken, Retry-After, SdkVersion, WWW-Authenticate, x-ms-client-gcc-tenant&#xd;
+x-ms-resource-unit: 3&#xd;
+odata-version: 4.0&#xd;
+date: Tue, 01 Oct 2024 21:49:25 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

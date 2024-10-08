@@ -1,0 +1,13 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="DELETE" name="${neoload_api_base_path}/tests/${testId}"
+    path="${neoload_api_base_path}/tests/${testId}" postType="4"
+    serverUid="neoload_api_server" slaProfileEnabled="false"
+    uid="90fdf053-7826-4a1a-bee1-6be704a9d550" useKeepAlive="false">
+    <header name="accountToken" value="${neoload_api_token}"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[]]></textPostContent>
+</http-action>

@@ -1,0 +1,18 @@
+{
+  "totalRequestCountSuccess" : 7,
+  "totalRequestCountFailure" : 1,
+  "totalRequestDurationAverage" : 4.9652185,
+  "totalRequestCountPerSecond" : 5.025005,
+  "totalTransactionCountSuccess" : 9,
+  "totalTransactionCountFailure" : 9,
+  "totalTransactionDurationAverage" : 6.6835623,
+  "totalTransactionCountPerSecond" : 8.762042,
+  "totalIterationCountSuccess" : 9,
+  "totalIterationCountFailure" : 6,
+  "totalGlobalDownloadedBytes" : 3,
+  "totalGlobalDownloadedBytesPerSecond" : 6.965118,
+  "totalGlobalCountFailure" : 1,
+  "lastRequestCountPerSecond" : 2.8841622,
+  "lastTransactionDurationAverage" : 6.778325,
+  "lastVirtualUserCount" : 6
+}

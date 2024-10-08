@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Resources" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="97e43314-7a71-42c3-9b85-e1b883d8939f" weightsEnabled="false">
+    <weighted-embedded-action uid="e9a622d9-b418-45be-8228-86bb65878ebc"/>
+    <weighted-embedded-action uid="5356087f-a8dc-4786-9e9c-b6a62c392bf7"/>
+</basic-logical-action-container>

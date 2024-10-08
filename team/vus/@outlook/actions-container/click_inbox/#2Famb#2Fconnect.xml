@@ -1,0 +1,55 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/amb/connect"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/574c3927-3183-46a4-a4bd-bfb402d23d1c.zip"
+    slaProfileEnabled="false" thinkTime="1350"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="574c3927-3183-46a4-a4bd-bfb402d23d1c">
+    <embedded-action>0419abee-d5f9-4648-9709-08b68379572e</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_574c3927-3183-46a4-a4bd-bfb402d23d1c.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/574c3927-3183-46a4-a4bd-bfb402d23d1c.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="0419abee-d5f9-4648-9709-08b68379572e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0419abee-d5f9-4648-9709-08b68379572e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0419abee-d5f9-4648-9709-08b68379572e.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727818977.60.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/open?id=csm_ticket&amp;view=sp&amp;table=sn_customerservice_case&amp;sys_id=cc062a6cc3c9da105b76771d7a01311d"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="X-Transaction-Source" value="Interface=Web,Interface-Name=OPEN,Interface-Type=Service Portal,Interface-SysID=dbeb3fef1be42810cf6210a1b24bcb5e"/>
+    <header name="X-Use-Polaris" value="false"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 21:49:27 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"104","channel":"/meta/connect","connectionType":"long-polling","clientId":"hnm623vh2jyx6dfmmk0dzf4ls6w"}]]]></textPostContent>
+</http-action>

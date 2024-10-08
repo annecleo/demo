@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="click drafts" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="e30cc4da-a53d-46d2-b32d-666ca0026c85" weightsEnabled="false">
+    <weighted-embedded-action uid="d9701702-f794-4946-91a1-e0ed0bad3a18"/>
+    <weighted-embedded-action uid="28b67b1e-60ab-4e3b-8889-7c122e6b5f7a"/>
+    <weighted-embedded-action uid="4877ee0e-a107-4858-9213-e64dd66ff17d"/>
+    <weighted-embedded-action uid="db5cebca-e4c8-460c-9257-22e2a7237739"/>
+    <weighted-embedded-action uid="acc2cde2-4791-4140-bf45-21e67591001c"/>
+</basic-logical-action-container>

@@ -1,0 +1,141 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/amb/connect"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/e810f6e5-d198-407e-8cfe-4f37ebefe408.zip"
+    slaProfileEnabled="false" thinkTime="1525"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e810f6e5-d198-407e-8cfe-4f37ebefe408">
+    <embedded-action>90de2246-710d-48b2-bcac-15978d4489d6</embedded-action>
+    <embedded-action>5f9b47ec-2352-4728-bcd8-ed3dd45ce234</embedded-action>
+    <embedded-action>e624c868-ea4e-4aff-aba1-a88230425320</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_e810f6e5-d198-407e-8cfe-4f37ebefe408.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/e810f6e5-d198-407e-8cfe-4f37ebefe408.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="90de2246-710d-48b2-bcac-15978d4489d6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_90de2246-710d-48b2-bcac-15978d4489d6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_90de2246-710d-48b2-bcac-15978d4489d6.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727820493.56.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/open?id=search&amp;spa=1&amp;q=unable%20to%20connect%20to%20agent&amp;disableAllSuggestions=false&amp;disableSpellCheck=false"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="X-Transaction-Source" value="Interface=Web,Interface-Name=OPEN,Interface-Type=Service Portal,Interface-SysID=dbeb3fef1be42810cf6210a1b24bcb5e"/>
+    <header name="X-Use-Polaris" value="false"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 22:17:27 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"300","channel":"/meta/connect","connectionType":"long-polling","clientId":"hnitp7whtlec26ql97tzi1gair3"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/e810f6e5-d198-407e-8cfe-4f37ebefe408.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="5f9b47ec-2352-4728-bcd8-ed3dd45ce234" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5f9b47ec-2352-4728-bcd8-ed3dd45ce234</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5f9b47ec-2352-4728-bcd8-ed3dd45ce234.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727820493.56.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/open?id=csm_ticket&amp;view=sp&amp;table=sn_customerservice_case&amp;sys_id=9e8ceb931beebd10dfb72fcde54bcb34"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="X-Transaction-Source" value="Interface=Web,Interface-Name=OPEN,Interface-Type=Service Portal,Interface-SysID=dbeb3fef1be42810cf6210a1b24bcb5e"/>
+    <header name="X-Use-Polaris" value="false"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 22:17:28 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"104","channel":"/meta/connect","connectionType":"long-polling","clientId":"hpd1q2k6cntkwpfx1ewhynj366lbe"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postContentUnzipped="true" postType="2"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/e810f6e5-d198-407e-8cfe-4f37ebefe408.zip"
+    recordedResponseCode="200" responseSize="9"
+    serverUid="server.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="e624c868-ea4e-4aff-aba1-a88230425320" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[KQMzLjBJKE9mZmljZS5DbGlja1RvUnVuLlhQRC5UZWxlbWV0cnkuQ3JpdGljYWxxgrDdwdqZ8dwRiAAAAAAAAAAAqSJvOjBkYTE5MTdhYTU2MDQwZDNhMDExYzM4MTNjYTM2MTA30QYCyxYKAYkFZW4tVVMAyxcKAQDLGAoBiQdXaW5kb3dzqR1NaWNyb3NvZnQgV2luZG93cyAxMC4wLjIyNjMxIADLGQoByQcFZW4tVVMAyx8KASkHVU5LTk9XTkkHVU5LTk9XTmkHVU5LTk9XTgDLIAoBKR1BU1Qtd2luZG93cy1DIy1uby0wLjk0LjEuMi1ub0kkN2VlODAyNDctZGQyNi00NjY2LThmY2EtY2Q5MzIwNzViMTdkcTYAy0YKAS0JChkJRGF0YS5Nb2RlaQ9DaGVja0ZvclVwZGF0ZXMAEERhdGEuUHJvY2Vzc05hbWVpCHhwZEFnZW50AA9EYXRhLlhQRFZlcnNpb25pCDAuNC41NS4wAA9EYXRhLkNvbW1pdEhhc2hpKDIxZTIxZGExMWQxZTg5ZDgzZDhmZjNmMmY2NDYzMzc3Yjk2YzJjZmMADkRhdGEuQ29weXJpZ2h0aSxDb3B5cmlnaHQgKEMpIDIwMjIgYnkgTWljcm9zb2Z0IENvcnBvcmF0aW9uLgAPRGF0YS5Jc1BhY2thZ2VkaQRUcnVlABtEYXRhLkN1cnJlbnRQYWNrYWdlRnVsbE5hbWVpPU1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c18xLjIwMjQuODIxLjIwMF94NjRfXzh3ZWt5YjNkOGJid2UAFkRhdGEuUGFja2FnZUZhbWlseU5hbWVpKU1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c184d2VreWIzZDhiYndlABBEYXRhLlN1c0NsaWVudElkaSRmN2E4ZGRjOC1iNWQ3LTRhZmItOWU2Yi1kNzhjNjlkN2E1OTIAEURhdGEuU3FtTWFjaGluZUlEaSRjODE3NDQzNy02NTc2LTRhZjktOWYwYi0zYzMwMzZkZTVkMjYAC0RhdGEuTWV0aG9kaRFBcHB4RGVwbG95bWVudExvZwAORGF0YS5UaW1lc3RhbXBpFDEwLzIvMjAyNCA2OjE3OjI1IEFNAApEYXRhLkxldmVsaQtJbmZvcm1hdGlvbgAMRGF0YS5TdWNjZXNzaQRUcnVlAApFdmVudC5OYW1laShPZmZpY2UuQ2xpY2tUb1J1bi5YUEQuVGVsZW1ldHJ5LkNyaXRpY2FsAAhFdmVudC5JZGknMzY3YTEyNjEtMDBkMi00MmQ3LWJkMTQtODE5NWU2YjQ1NzIyLjI4AAxFdmVudC5Tb3VyY2VpBk9UZWxDUwATRGF0YS5PVGVsQ1MuVmVyc2lvbmkHMy40LjAuMAAQUmVsZWFzZS5BdWRpZW5jZWkKUHJvZHVjdGlvbgAWQ2xpZW50Q29udGV4dC5BcHAuTmFtZWkIeHBkQWdlbnQAGkNsaWVudENvbnRleHQuQXBwLlBsYXRmb3JtaQVXaW4zMgAYQ2xpZW50Q29udGV4dC5TZXNzaW9uLklkaSQ5NzYzOThjNC0wODQ3LTQ1ZDYtYWNiZS1mMGQ5MGZiZmU2YWMADkV2ZW50LlNlcXVlbmNlMACROAALRXZlbnQuRmxhZ3MwAJGCiI6QoICAeAAKRXZlbnQuVGltZTAOkYKw3cHamfHcEQAAACkDMy4wSShPZmZpY2UuQ2xpY2tUb1J1bi5YUEQuVGVsZW1ldHJ5LkNyaXRpY2FscY7x38HamfHcEYgAAAAAAAAAAKkibzowZGExOTE3YWE1NjA0MGQzYTAxMWMzODEzY2EzNjEwN9EGAssWCgGJBWVuLVVTAMsXCgEAyxgKAYkHV2luZG93c6kdTWljcm9zb2Z0IFdpbmRvd3MgMTAuMC4yMjYzMSAAyxkKAckHBWVuLVVTAMsfCgEpB1VOS05PV05JB1VOS05PV05pB1VOS05PV04AyyAKASkdQVNULXdpbmRvd3MtQyMtbm8tMC45NC4xLjItbm9JJDdlZTgwMjQ3LWRkMjYtNDY2Ni04ZmNhLWNkOTMyMDc1YjE3ZHE4AMtGCgEtCQodCURhdGEuTW9kZWkPQ2hlY2tGb3JVcGRhdGVzABBEYXRhLlByb2Nlc3NOYW1laQh4cGRBZ2VudAAPRGF0YS5YUERWZXJzaW9uaQgwLjQuNTUuMAAPRGF0YS5Db21taXRIYXNoaSgyMWUyMWRhMTFkMWU4OWQ4M2Q4ZmYzZjJmNjQ2MzM3N2I5NmMyY2ZjAA5EYXRhLkNvcHlyaWdodGksQ29weXJpZ2h0IChDKSAyMDIyIGJ5IE1pY3Jvc29mdCBDb3Jwb3JhdGlvbi4AD0RhdGEuSXNQYWNrYWdlZGkEVHJ1ZQAbRGF0YS5DdXJyZW50UGFja2FnZUZ1bGxOYW1laT1NaWNyb3NvZnQuT3V0bG9va0ZvcldpbmRvd3NfMS4yMDI0LjgyMS4yMDBfeDY0X184d2VreWIzZDhiYndlABZEYXRhLlBhY2thZ2VGYW1pbHlOYW1laSlNaWNyb3NvZnQuT3V0bG9va0ZvcldpbmRvd3NfOHdla3liM2Q4YmJ3ZQAQRGF0YS5TdXNDbGllbnRJZGkkZjdhOGRkYzgtYjVkNy00YWZiLTllNmItZDc4YzY5ZDdhNTkyABFEYXRhLlNxbU1hY2hpbmVJRGkkYzgxNzQ0MzctNjU3Ni00YWY5LTlmMGItM2MzMDM2ZGU1ZDI2AAtEYXRhLk1ldGhvZGkKRG9Eb3dubG9hZAAORGF0YS5UaW1lc3RhbXBpFDEwLzIvMjAyNCA2OjE3OjI1IEFNAApEYXRhLkxldmVsaQtJbmZvcm1hdGlvbgAMRGF0YS5TdWNjZXNzaQRUcnVlAAxEYXRhLklzUmV0cnlpBUZhbHNlAAhEYXRhLlVSSWlsaHR0cHM6Ly9yZXMuY2RuLm9mZmljZS5uZXQvbmF0aXZlaG9zdC81bXR0bC9pbnN0YWxsZXIvdjIvMS4yMDI0LjkyNS4yMDAvTWljcm9zb2Z0Lk91dGxvb2tGb3JXaW5kb3dzX3g2NC5tc2l4ABhEYXRhLlBhY2thZ2VJZFRvVmFsaWRhdGVpPU1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c18xLjIwMjQuOTI1LjIwMF94NjRfXzh3ZWt5YjNkOGJid2UAHERhdGEuUGFja2FnZVRvVmFsaWRhdGVFeGlzdHNpBFRydWUACkV2ZW50Lk5hbWVpKE9mZmljZS5DbGlja1RvUnVuLlhQRC5UZWxlbWV0cnkuQ3JpdGljYWwACEV2ZW50LklkaSczNjdhMTI2MS0wMGQyLTQyZDctYmQxNC04MTk1ZTZiNDU3MjIuMjkADEV2ZW50LlNvdXJjZWkGT1RlbENTABNEYXRhLk9UZWxDUy5WZXJzaW9uaQczLjQuMC4wABBSZWxlYXNlLkF1ZGllbmNlaQpQcm9kdWN0aW9uABZDbGllbnRDb250ZXh0LkFwcC5OYW1laQh4cGRBZ2VudAAaQ2xpZW50Q29udGV4dC5BcHAuUGxhdGZvcm1pBVdpbjMyABhDbGllbnRDb250ZXh0LlNlc3Npb24uSWRpJDk3NjM5OGM0LTA4NDctNDVkNi1hY2JlLWYwZDkwZmJmZTZhYwAORXZlbnQuU2VxdWVuY2UwAJE6AAtFdmVudC5GbGFnczAAkYKIjpCggIB4AApFdmVudC5UaW1lMA6RjvHfwdqZ8dwRAAAAKQMzLjBJJ09mZmljZS5DbGlja1RvUnVuLlhQRC5UZWxlbWV0cnkuU2FtcGxlZHGO8d/B2pnx3BGIAAAAAAAAAACpIm86MGRhMTkxN2FhNTYwNDBkM2EwMTFjMzgxM2NhMzYxMDfRBgLLFgoBiQVlbi1VUwDLFwoBAMsYCgGJB1dpbmRvd3OpHU1pY3Jvc29mdCBXaW5kb3dzIDEwLjAuMjI2MzEgAMsZCgHJBwVlbi1VUwDLHwoBKQdVTktOT1dOSQdVTktOT1dOaQdVTktOT1dOAMsgCgEpHUFTVC13aW5kb3dzLUMjLW5vLTAuOTQuMS4yLW5vSSQ3ZWU4MDI0Ny1kZDI2LTQ2NjYtOGZjYS1jZDkzMjA3NWIxN2RxOgDLRgoBLQkKFwlEYXRhLk1vZGVpD0NoZWNrRm9yVXBkYXRlcwAQRGF0YS5Qcm9jZXNzTmFtZWkIeHBkQWdlbnQAD0RhdGEuWFBEVmVyc2lvbmkIMC40LjU1LjAAD0RhdGEuQ29tbWl0SGFzaGkoMjFlMjFkYTExZDFlODlkODNkOGZmM2YyZjY0NjMzNzdiOTZjMmNmYwAORGF0YS5Db3B5cmlnaHRpLENvcHlyaWdodCAoQykgMjAyMiBieSBNaWNyb3NvZnQgQ29ycG9yYXRpb24uAA9EYXRhLklzUGFja2FnZWRpBFRydWUAG0RhdGEuQ3VycmVudFBhY2thZ2VGdWxsTmFtZWk9TWljcm9zb2Z0Lk91dGxvb2tGb3JXaW5kb3dzXzEuMjAyNC44MjEuMjAwX3g2NF9fOHdla3liM2Q4YmJ3ZQAWRGF0YS5QYWNrYWdlRmFtaWx5TmFtZWkpTWljcm9zb2Z0Lk91dGxvb2tGb3JXaW5kb3dzXzh3ZWt5YjNkOGJid2UAEERhdGEuU3VzQ2xpZW50SWRpJGY3YThkZGM4LWI1ZDctNGFmYi05ZTZiLWQ3OGM2OWQ3YTU5MgARRGF0YS5TcW1NYWNoaW5lSURpJGM4MTc0NDM3LTY1NzYtNGFmOS05ZjBiLTNjMzAzNmRlNWQyNgALRGF0YS5NZXRob2RpCkRvRG93bmxvYWQAFkRhdGEuQXBweERlcGxveW1lbnRMb2dp4hBJZCxUaW1lQ3JlYXRlZCxEZXNjcmlwdGlvbixFdmVudFByb3BlcnR5XzEsRXZlbnRQcm9wZXJ0eV8yLEV2ZW50UHJvcGVydHlfMyxFdmVudFByb3BlcnR5XzQsRXZlbnRQcm9wZXJ0eV81LEV2ZW50UHJvcGVydHlfNg0KNjAzLDEwLzIvMjAyNCA2OjE3OjEzIEFNLFN0YXJ0ZWQgZGVwbG95bWVudCBTdGFnZSBvcGVyYXRpb24gb24gYSBwYWNrYWdlIHdpdGggbWFpbiBwYXJhbWV0ZXIgTWljcm9zb2Z0Lk91dGxvb2tGb3JXaW5kb3dzX3g2NC5tc2l4IGFuZCBPcHRpb25zIDAgYW5kIDAuIFNlZSBodHRwOi8vZ28ubWljcm9zb2Z0LmNvbS9md2xpbmsvP0xpbmtJZD0yMzUxNjAgZm9yIGhlbHAgZGlhZ25vc2luZyBhLi4uLDQsTWljcm9zb2Z0Lk91dGxvb2tGb3JXaW5kb3dzX3g2NC5tc2l4LDAsMCx4cGRBZ2VudC5leGUsLCwsLCwsLCwsLCwsLCwsLCwsDQoxMDAwMiwxMC8yLzIwMjQgNjoxNzoxNSBBTSxDcmVhdGluZyBSZXNpbGllbmN5IEZpbGUgW3JlZGFjdGVkXVxkZmRlZDAwNy1lZDE1LTQ2M2QtOGZiNC04YTA5NzdlZDhkMDlfUy0xLTUtMjEtMzAyODgyMDA3NC0yNTU0MjcwNzA3LTkwODg2NjI3NS0xMDAzXzEucnNsYyBmb3IgU3RhZ2UgT3BlcmF0aW9uIG9uIFBhY2thZ2UgTWljcm9zb2Z0Lk91dGxvb2tGb3JXaW5kb3dzXzEuMjAyNC45MjUuMi4uLiw0LE1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c18xLjIwMjQuOTI1LjIwMF94NjRfXzh3ZWt5YjNkOGJid2UsW3JlZGFjdGVkXVxkZmRlZDAwNy1lZDE1LTQ2M2QtOGZiNC04YTA5NzdlZDhkMDlfUy0xLTUtMjEtMzAyODgyMDA3NC0yNTU0MjcwNzA3LTkwODg2NjI3NS0xMDAzXzEucnNsYywsLCwsLCwsLCwsLCwsLCwsLCwsLA0KNjA3LDEwLzIvMjAyNCA2OjE3OjE1IEFNLERlcGxveW1lbnQgU3RhZ2Ugb3BlcmF0aW9uIG9uIHBhY2thZ2UgTWljcm9zb2Z0Lk91dGxvb2tGb3JXaW5kb3dzXzEuMjAyNC45MjUuMjAwX3g2NF9fOHdla3liM2Q4YmJ3ZSBoYXMgYmVlbiBkZS1xdWV1ZWQgYW5kIGlzIHJ1bm5pbmcgZm9yIHVzZXIgU0lEIFMtMS01LTIxLTMwMjg4MjAwNzQtMjU1NDI3MDcwNy05MDg4NjYyNzUtMTAwMy4sNCxNaWNyb3NvZnQuT3V0bG9va0ZvcldpbmRvd3NfMS4yMDI0LjkyNS4yMDBfeDY0X184d2VreWIzZDhiYndlLFMtMS01LTIxLTMwMjg4MjAwNzQtMjU1NDI3MDcwNy05MDg4NjYyNzUtMTAwMyx4cGRBZ2VudC5leGUsLCwsLCwsLCwsLCwsLCwsLCwsLA0KODU0LDEwLzIvMjAyNCA2OjE3OjE1IEFNLFN1Y2Nlc3NmdWxseSBhZGRlZCB0aGUgZm9sbG93aW5nIHVyaShzKSB0byBiZSBwcm9jZXNzZWQ6ICBodHRwczovW3JlZGFjdGVkXVxNaWNyb3NvZnQuT3V0bG9va0ZvcldpbmRvd3NfeDY0Lm1zaXguLCBodHRwczovW3JlZGFjdGVkXVxNaWNyb3NvZnQuT3V0bG9va0ZvcldpbmRvd3NfeDY0Lm1zaXgsLCwsLCwsLCwsLCwsLCwsLCwsLCwsLA0KNDAwLDEwLzIvMjAyNCA2OjE3OjIzIEFNLERlcGxveW1lbnQgU3RhZ2Ugb3BlcmF0aW9uIHdpdGggdGFyZ2V0IHZvbHVtZSBDOiBvbiBQYWNrYWdlIE1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c18xLjIwMjQuOTI1LjIwMF94NjRfXzh3ZWt5YjNkOGJid2UgZnJvbTogIChNaWNyb3NvZnQuT3V0bG9va0ZvcldpbmRvd3NfeDY0Lm1zaXgpICBmaW5pc2hlZCBzdWNjZXNzZnVsbHkuLDQsTWljcm9zb2Z0Lk91dGxvb2tGb3JXaW5kb3dzXzEuMjAyNC45MjUuMjAwX3g2NF9fOHdla3liM2Q4YmJ3ZSwgKE1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c194NjQubXNpeCkgLEM6LDMsVHJ1ZSxcXD9cVm9sdW1lezQwNWQ2OGZlLTEzNGMtNGI3MS05Y2UxLTAzYmEzZGI0YzY2ZX0sVHJ1ZSwxLEZhbHNlLDE4MDE0Mzk4NTA5NDgxOTg0LEZhbHNlLEZhbHNlLEZhbHNlLE5VTEwseHBkQWdlbnQuZXhlLEZhbHNlLDg0Mzc4MzYsODE5MixGYWxzZSxUcnVlLCxodHRwczovW3JlZGFjdGVkXVxNaWNyb3NvZnQuT3V0bG9va0ZvcldpbmRvd3NfeDY0Lm1zaXgsT3V0bG9vayBmb3IgV2luZG93cw0KNDkzLDEwLzIvMjAyNCA2OjE3OjIzIEFNLFRoZXJlIHdlcmUgMiBhZGRpdGlvbmFsIGZpbGVzIHRoYXQgZmFpbGVkIHRvIGJlIGRlbGV0ZWQgdW5kZXIgdGhlIGZvbGRlciBcXD9cW3JlZGFjdGVkXVxEZWxldGVkLixcXD9cW3JlZGFjdGVkXVxEZWxldGVkLDIsLCwsLCwsLCwsLCwsLCwsLCwsLCwsAApFdmVudC5OYW1laSdPZmZpY2UuQ2xpY2tUb1J1bi5YUEQuVGVsZW1ldHJ5LlNhbXBsZWQACEV2ZW50LklkaSczNjdhMTI2MS0wMGQyLTQyZDctYmQxNC04MTk1ZTZiNDU3MjIuMzAADEV2ZW50LlNvdXJjZWkGT1RlbENTABNEYXRhLk9UZWxDUy5WZXJzaW9uaQczLjQuMC4wABBSZWxlYXNlLkF1ZGllbmNlaQpQcm9kdWN0aW9uABZDbGllbnRDb250ZXh0LkFwcC5OYW1laQh4cGRBZ2VudAAaQ2xpZW50Q29udGV4dC5BcHAuUGxhdGZvcm1pBVdpbjMyABhDbGllbnRDb250ZXh0LlNlc3Npb24uSWRpJDk3NjM5OGM0LTA4NDctNDVkNi1hY2JlLWYwZDkwZmJmZTZhYwAORXZlbnQuU2VxdWVuY2UwAJE8AAtFdmVudC5GbGFnczAAkYKEiJCggIB4AApFdmVudC5UaW1lMA6RjvHfwdqZ8dwRAAAAKQMzLjBJKE9mZmljZS5DbGlja1RvUnVuLlhQRC5UZWxlbWV0cnkuQ3JpdGljYWxxjvHfwdqZ8dwRiAAAAAAAAAAAqSJvOjBkYTE5MTdhYTU2MDQwZDNhMDExYzM4MTNjYTM2MTA30QYCyxYKAYkFZW4tVVMAyxcKAQDLGAoBiQdXaW5kb3dzqR1NaWNyb3NvZnQgV2luZG93cyAxMC4wLjIyNjMxIADLGQoByQcFZW4tVVMAyx8KASkHVU5LTk9XTkkHVU5LTk9XTmkHVU5LTk9XTgDLIAoBKR1BU1Qtd2luZG93cy1DIy1uby0wLjk0LjEuMi1ub0kkN2VlODAyNDctZGQyNi00NjY2LThmY2EtY2Q5MzIwNzViMTdkcTwAy0YKAS0JChkJRGF0YS5Nb2RlaQ9DaGVja0ZvclVwZGF0ZXMAEERhdGEuUHJvY2Vzc05hbWVpCHhwZEFnZW50AA9EYXRhLlhQRFZlcnNpb25pCDAuNC41NS4wAA9EYXRhLkNvbW1pdEhhc2hpKDIxZTIxZGExMWQxZTg5ZDgzZDhmZjNmMmY2NDYzMzc3Yjk2YzJjZmMADkRhdGEuQ29weXJpZ2h0aSxDb3B5cmlnaHQgKEMpIDIwMjIgYnkgTWljcm9zb2Z0IENvcnBvcmF0aW9uLgAPRGF0YS5Jc1BhY2thZ2VkaQRUcnVlABtEYXRhLkN1cnJlbnRQYWNrYWdlRnVsbE5hbWVpPU1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c18xLjIwMjQuODIxLjIwMF94NjRfXzh3ZWt5YjNkOGJid2UAFkRhdGEuUGFja2FnZUZhbWlseU5hbWVpKU1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c184d2VreWIzZDhiYndlABBEYXRhLlN1c0NsaWVudElkaSRmN2E4ZGRjOC1iNWQ3LTRhZmItOWU2Yi1kNzhjNjlkN2E1OTIAEURhdGEuU3FtTWFjaGluZUlEaSRjODE3NDQzNy02NTc2LTRhZjktOWYwYi0zYzMwMzZkZTVkMjYAC0RhdGEuTWV0aG9kaQdEb0NoZWNrAA5EYXRhLlRpbWVzdGFtcGkUMTAvMi8yMDI0IDY6MTc6MjUgQU0ACkRhdGEuTGV2ZWxpC0luZm9ybWF0aW9uAAxEYXRhLlN1Y2Nlc3NpBFRydWUACkV2ZW50Lk5hbWVpKE9mZmljZS5DbGlja1RvUnVuLlhQRC5UZWxlbWV0cnkuQ3JpdGljYWwACEV2ZW50LklkaSczNjdhMTI2MS0wMGQyLTQyZDctYmQxNC04MTk1ZTZiNDU3MjIuMzEADEV2ZW50LlNvdXJjZWkGT1RlbENTABNEYXRhLk9UZWxDUy5WZXJzaW9uaQczLjQuMC4wABBSZWxlYXNlLkF1ZGllbmNlaQpQcm9kdWN0aW9uABZDbGllbnRDb250ZXh0LkFwcC5OYW1laQh4cGRBZ2VudAAaQ2xpZW50Q29udGV4dC5BcHAuUGxhdGZvcm1pBVdpbjMyABhDbGllbnRDb250ZXh0LlNlc3Npb24uSWRpJDk3NjM5OGM0LTA4NDctNDVkNi1hY2JlLWYwZDkwZmJmZTZhYwAORXZlbnQuU2VxdWVuY2UwAJE+AAtFdmVudC5GbGFnczAAkYKIjpCggIB4AApFdmVudC5UaW1lMA6RjvHfwdqZ8dwRAAAAKQMzLjBJKE9mZmljZS5DbGlja1RvUnVuLlhQRC5UZWxlbWV0cnkuQ3JpdGljYWxxjvHfwdqZ8dwRiAAAAAAAAAAAqSJvOjBkYTE5MTdhYTU2MDQwZDNhMDExYzM4MTNjYTM2MTA30QYCyxYKAYkFZW4tVVMAyxcKAQDLGAoBiQdXaW5kb3dzqR1NaWNyb3NvZnQgV2luZG93cyAxMC4wLjIyNjMxIADLGQoByQcFZW4tVVMAyx8KASkHVU5LTk9XTkkHVU5LTk9XTmkHVU5LTk9XTgDLIAoBKR1BU1Qtd2luZG93cy1DIy1uby0wLjk0LjEuMi1ub0kkN2VlODAyNDctZGQyNi00NjY2LThmY2EtY2Q5MzIwNzViMTdkcT4Ay0YKAS0JChkJRGF0YS5Nb2RlaQ9DaGVja0ZvclVwZGF0ZXMAEERhdGEuUHJvY2Vzc05hbWVpCHhwZEFnZW50AA9EYXRhLlhQRFZlcnNpb25pCDAuNC41NS4wAA9EYXRhLkNvbW1pdEhhc2hpKDIxZTIxZGExMWQxZTg5ZDgzZDhmZjNmMmY2NDYzMzc3Yjk2YzJjZmMADkRhdGEuQ29weXJpZ2h0aSxDb3B5cmlnaHQgKEMpIDIwMjIgYnkgTWljcm9zb2Z0IENvcnBvcmF0aW9uLgAPRGF0YS5Jc1BhY2thZ2VkaQRUcnVlABtEYXRhLkN1cnJlbnRQYWNrYWdlRnVsbE5hbWVpPU1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c18xLjIwMjQuODIxLjIwMF94NjRfXzh3ZWt5YjNkOGJid2UAFkRhdGEuUGFja2FnZUZhbWlseU5hbWVpKU1pY3Jvc29mdC5PdXRsb29rRm9yV2luZG93c184d2VreWIzZDhiYndlABBEYXRhLlN1c0NsaWVudElkaSRmN2E4ZGRjOC1iNWQ3LTRhZmItOWU2Yi1kNzhjNjlkN2E1OTIAEURhdGEuU3FtTWFjaGluZUlEaSRjODE3NDQzNy02NTc2LTRhZjktOWYwYi0zYzMwMzZkZTVkMjYAC0RhdGEuTWV0aG9kaQRNYWluAA5EYXRhLlRpbWVzdGFtcGkUMTAvMi8yMDI0IDY6MTc6MjUgQU0ACkRhdGEuTGV2ZWxpC0luZm9ybWF0aW9uAAxEYXRhLlN1Y2Nlc3NpBFRydWUACkV2ZW50Lk5hbWVpKE9mZmljZS5DbGlja1RvUnVuLlhQRC5UZWxlbWV0cnkuQ3JpdGljYWwACEV2ZW50LklkaSczNjdhMTI2MS0wMGQyLTQyZDctYmQxNC04MTk1ZTZiNDU3MjIuMzIADEV2ZW50LlNvdXJjZWkGT1RlbENTABNEYXRhLk9UZWxDUy5WZXJzaW9uaQczLjQuMC4wABBSZWxlYXNlLkF1ZGllbmNlaQpQcm9kdWN0aW9uABZDbGllbnRDb250ZXh0LkFwcC5OYW1laQh4cGRBZ2VudAAaQ2xpZW50Q29udGV4dC5BcHAuUGxhdGZvcm1pBVdpbjMyABhDbGllbnRDb250ZXh0LlNlc3Npb24uSWRpJDk3NjM5OGM0LTA4NDctNDVkNi1hY2JlLWYwZDkwZmJmZTZhYwAORXZlbnQuU2VxdWVuY2UwAJFAAAtFdmVudC5GbGFnczAAkYKIjpCggIB4AApFdmVudC5UaW1lMA6RjvHfwdqZ8dwRAAAAKQMzLjBJJE9mZmljZS5UZWxlbWV0cnkuT1RlbENTLlNpbmtTaHV0ZG93bnHMn7jD2pnx3BGIAAAAAAAAAACpIm86Zjk5OGNjNWJhNGQ0NDhkNmExZThlOTEzZmYxOGJlOTTRBgLLFgoBiQVlbi1VUwDLFwoBAMsYCgGJB1dpbmRvd3OpHU1pY3Jvc29mdCBXaW5kb3dzIDEwLjAuMjI2MzEgAMsZCgHJBwVlbi1VUwDLHwoBKQdVTktOT1dOSQdVTktOT1dOaQdVTktOT1dOAMsgCgEpHUFTVC13aW5kb3dzLUMjLW5vLTAuOTQuMS4yLW5vSSQzNDNmZWE4MC1mODJhLTQ4ZTMtOGEzOC1iZGU2NzM2NzE4ZjJxAgDLRgoBLQkKCgpFdmVudC5OYW1laSRPZmZpY2UuVGVsZW1ldHJ5Lk9UZWxDUy5TaW5rU2h1dGRvd24ADEV2ZW50LlNvdXJjZWkGT1RlbENTAA5EYXRhLlNpbmsuTmFtZWkMT25lQ29sbGVjdG9yAAxEYXRhLlNpbmsuSWRpJDA3NmFkZjRhLWY4ZjktNGFjOC04ODcwLWZhMGZkZWVhZTJmZAAQUmVsZWFzZS5BdWRpZW5jZWkKUHJvZHVjdGlvbgAWQ2xpZW50Q29udGV4dC5BcHAuTmFtZWkIeHBkQWdlbnQAGkNsaWVudENvbnRleHQuQXBwLlBsYXRmb3JtaQVXaW4zMgAYQ2xpZW50Q29udGV4dC5TZXNzaW9uLklkaSQ5NzYzOThjNC0wODQ3LTQ1ZDYtYWNiZS1mMGQ5MGZiZmU2YWMAC0V2ZW50LkZsYWdzMACRgICAgICAgG4ACkV2ZW50LlRpbWUwDpHMn7jD2pnx3BEAAAA=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_e624c868-ea4e-4aff-aba1-a88230425320</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e624c868-ea4e-4aff-aba1-a88230425320.txt</requestContentFileDescription>
+    <header name="apiKey" value="0da1917aa56040d3a011c3813ca36107-76f080d8-b37f-4635-8054-5c133fcd04c4-6587, f998cc5ba4d448d6a1e8e913ff18be94-dd122e0a-fcf8-4dc5-9dbb-6afac5325183-7405"/>
+    <header name="Client-Id" value="NO_AUTH"/>
+    <header name="client-time-epoch-millis" value="1727821045498"/>
+    <header name="Client-Version" value="AST-windows-C#-no-0.94.1.2-no"/>
+    <header name="Connection" value="Keep-Alive"/>
+    <header name="Content-Encoding" value="gzip"/>
+    <header name="Content-Type" value="application/bond-compact-binary"/>
+    <header name="Expect" value="100-continue"/>
+    <header name="Host" value="server.events.data.microsoft.com"/>
+    <header name="Upload-Time" value="1727821045498"/>
+    <header name="User-Agent" value="OneCollectorSDK server"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Length: 9&#xd;
+Content-Type: application/json&#xd;
+Server: Microsoft-HTTPAPI/2.0&#xd;
+Strict-Transport-Security: max-age=31536000&#xd;
+time-delta-millis: 2582&#xd;
+Access-Control-Allow-Headers: time-delta-millis&#xd;
+Access-Control-Allow-Methods: POST&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Expose-Headers: time-delta-millis&#xd;
+Date: Tue, 01 Oct 2024 22:17:27 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

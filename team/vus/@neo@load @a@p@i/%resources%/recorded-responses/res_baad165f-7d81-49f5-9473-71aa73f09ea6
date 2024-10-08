@@ -1,0 +1,25 @@
+[ {
+  "kpi" : "AVERAGE_REQUEST_RESPONSE_TIME",
+  "status" : "PASSED",
+  "value" : 2.3800902,
+  "warningThreshold" : {
+    "operator" : ">=",
+    "value" : 3.8041127
+  },
+  "failedThreshold" : {
+    "operator" : ">=",
+    "value" : 8.675064
+  }
+}, {
+  "kpi" : "AVERAGE_REQUEST_RESPONSE_TIME",
+  "status" : "PASSED",
+  "value" : 2.3800902,
+  "warningThreshold" : {
+    "operator" : ">=",
+    "value" : 3.8041127
+  },
+  "failedThreshold" : {
+    "operator" : ">=",
+    "value" : 8.675064
+  }
+} ]

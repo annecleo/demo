@@ -1,0 +1,108 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/v7/saves/edge/collections_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/9c33674a-a3b0-4d7a-9448-43f2d8c16a39.zip"
+    slaProfileEnabled="false" thinkTime="17"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9c33674a-a3b0-4d7a-9448-43f2d8c16a39">
+    <embedded-action>d37096b3-4d40-4f27-bbc4-2b138cb41450</embedded-action>
+    <embedded-action>bb7ebba3-74e2-4ce0-8b8d-5a16f4b9a747</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/v7/saves/edge/collections"
+    path="/api/v7/saves/edge/collections" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/9c33674a-a3b0-4d7a-9448-43f2d8c16a39.zip"
+    recordedResponseCode="200" responseSize="75"
+    serverUid="www.bingapis.com" slaProfileEnabled="false"
+    uid="d37096b3-4d40-4f27-bbc4-2b138cb41450" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d37096b3-4d40-4f27-bbc4-2b138cb41450</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d37096b3-4d40-4f27-bbc4-2b138cb41450.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="appid"
+        recordRawValue="44A72CAAA7B8B99CBEF405BFAD4E9B24370F2853"
+        separator="=" value="44A72CAAA7B8B99CBEF405BFAD4E9B24370F2853" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="x-msedge-userid" value="10FDA497EADBA674526E732BFFFFFFFF"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-msedge-clientid" value="17E57C38E0606ECD05D768D7E1FD6FDC"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: private, max-age=0&#xd;
+content-length: 75&#xd;
+content-type: application/json&#xd;
+expires: Tue, 01 Oct 2024 21:48:11 GMT&#xd;
+p3p: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"&#xd;
+set-cookie: MUID=17E57C38E0606ECD05D768D7E1FD6FDC; domain=.bingapis.com; expires=Sun, 26-Oct-2025 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: MUIDB=17E57C38E0606ECD05D768D7E1FD6FDC; expires=Sun, 26-Oct-2025 21:49:11 GMT; path=/; HttpOnly&#xd;
+set-cookie: _EDGE_S=F=1&amp;SID=2B9C56870DCF69F40745438C0CC068E7; domain=.bingapis.com; path=/; HttpOnly&#xd;
+set-cookie: _EDGE_V=1; domain=.bingapis.com; expires=Sun, 26-Oct-2025 21:49:11 GMT; path=/; HttpOnly&#xd;
+set-cookie: USRLOC=HS=1; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; HttpOnly; SameSite=None&#xd;
+set-cookie: SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: SRCHUID=V=2&amp;GUID=33E976688C8A4FDEA578AF6C4C205FBA&amp;dmnchg=1; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: SRCHUSR=DOB=20241001; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: SRCHHPGUSR=SRCHLANG=en; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: _SS=SID=2B9C56870DCF69F40745438C0CC068E7; domain=.bingapis.com; path=/; secure; SameSite=None&#xd;
+x-eventid: 66fc6e57a00d403782c9dd6603a0f8a5&#xd;
+useragentreductionoptout: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=&#xd;
+content-security-policy: script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-FzLbZAfKSuIlJKITgnOfOr/AAyguILgdivWVvxnApXI='; base-uri 'self';report-to csp-endpoint&#xd;
+report-to: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}&#xd;
+bingapis-traceid: 66fc6e57a00d403782c9dd6603a0f8a5&#xd;
+bingapis-sessionid: 33E976688C8A4FDEA578AF6C4C205FBA&#xd;
+x-search-responseinfo: InternalResponseTime=16,MSDatacenter=PUSE01&#xd;
+x-cache: CONFIG_NOCACHE&#xd;
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version&#xd;
+x-msedge-ref: Ref A: 43779B48AFF445818B5AB382EC5DAF47 Ref B: TYO01EDGE1716 Ref C: 2024-10-01T21:49:11Z&#xd;
+date: Tue, 01 Oct 2024 21:49:11 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/9c33674a-a3b0-4d7a-9448-43f2d8c16a39.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="bb7ebba3-74e2-4ce0-8b8d-5a16f4b9a747" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_bb7ebba3-74e2-4ce0-8b8d-5a16f4b9a747</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bb7ebba3-74e2-4ce0-8b8d-5a16f4b9a747.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727818977.60.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/now/workspace/agent/record/sn_customerservice_case/2d5c404b833c5214f6cb9b65eeaad3ab"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 21:49:12 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"137","channel":"/meta/connect","connectionType":"long-polling","clientId":"hmv1ge69fpp4rtbmooznh7t4m2e1"}]]]></textPostContent>
+</http-action>

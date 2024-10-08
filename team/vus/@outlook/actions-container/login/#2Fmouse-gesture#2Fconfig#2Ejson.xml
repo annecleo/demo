@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/mouse-gesture/config.json" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/8dd10c6a-b4a9-4919-bbc0-833629c0f34e.zip"
+    slaProfileEnabled="false" thinkTime="705"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8dd10c6a-b4a9-4919-bbc0-833629c0f34e">
+    <embedded-action>5656b841-bab7-4ac2-bd40-b6a4aa62adb1</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_8dd10c6a-b4a9-4919-bbc0-833629c0f34e.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/mouse-gesture/config.json"
+    path="/mouse-gesture/config.json" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/8dd10c6a-b4a9-4919-bbc0-833629c0f34e.zip"
+    recordedResponseCode="200" responseSize="101"
+    serverUid="edge-consumer-static.azureedge.net"
+    slaProfileEnabled="false" uid="5656b841-bab7-4ac2-bd40-b6a4aa62adb1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5656b841-bab7-4ac2-bd40-b6a4aa62adb1</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5656b841-bab7-4ac2-bd40-b6a4aa62adb1.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Tue, 01 Oct 2024 21:49:10 GMT&#xd;
+content-type: application/json&#xd;
+content-length: 101&#xd;
+last-modified: Tue, 24 Oct 2023 08:27:00 GMT&#xd;
+etag: 0x8DBD46AFE482320&#xd;
+x-ms-request-id: c4f9b52c-301e-0064-2835-0c43ef000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-azure-ref: 20241001T214910Z-16d6d947fcd9jvstbmcmpn7z9w0000000aq000000000fw2z&#xd;
+x-fd-int-roxy-purgeid: 76776038&#xd;
+x-cache: TCP_HIT&#xd;
+cache-control: public, max-age=432000&#xd;
+accept-ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

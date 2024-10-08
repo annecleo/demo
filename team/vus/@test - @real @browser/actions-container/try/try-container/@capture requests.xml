@@ -14,8 +14,4 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="resourceType" type="TEXT" value="stylesheet"/>
     <custom-action-parameter name="resourceType" type="TEXT" value="document"/>
     <responsePageFileDescription>recorded-responses/res_7d4ab668-f72d-4e43-8664-469394921c1f</responsePageFileDescription>
-    <embedded-action>b32bbe36-3d6c-47ed-84c5-9ada9a01398d</embedded-action>
-    <embedded-action>86cac322-3691-4f67-862f-c9bb2e7956cb</embedded-action>
-    <embedded-action>d95269ac-a30e-49fd-8afa-988a66b78bdd</embedded-action>
-    <embedded-action>670af177-5dae-4dea-b3f7-facefe0c6078</embedded-action>
 </browser-action>

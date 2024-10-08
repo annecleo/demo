@@ -1,0 +1,17 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="${neoload_api_base_path}/tests/graph"
+    path="${neoload_api_base_path}/tests/graph" postType="4"
+    recordedResponseCode="200" serverUid="neoload_api_server"
+    slaProfileEnabled="false" uid="16a19445-5163-42eb-ad1d-2d7c7eb32d26" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@neo@load @a@p@i/%resources%/recorded-responses/res_16a19445-5163-42eb-ad1d-2d7c7eb32d26</responsePageFileDescription>
+    <header name="accountToken" value="${neoload_api_token}"/>
+    <header name="Content-Type" value="application/json"/>
+    <responseHeaders>HTTP/1.1 200 OK
+Content-Type: image/png
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[Encoded(Base64):ew0KICAid2lkdGgiIDogNjAwLA0KICAiaGVpZ2h0IiA6IDIwMCwNCiAgInRpdGxlIiA6ICJNeSBUZXN0IiwNCiAgInJhc3RlclR5cGUiIDogIlBORyIsDQogICJ4QXhpc0xhYmVsIiA6ICJYIEF4aXMiLA0KICAieUF4aXNMYWJlbCIgOiAiWSBBeGlzIiwNCiAgImxlZ2VuZCIgOiB0cnVlLA0KICAibXVsdGlZQXhpcyIgOiB0cnVlLA0KICAidGhlbWUiIDogIkRBUksiLA0KICAidGVzdElkcyIgOiB7DQogICAgImQzMGZkY2MyLTMxOWUtNGJlNS04MThlLWYxOTc4OTA3YTNjZSIgOiB7DQogICAgICAiZWxlbWVudElkcyIgOiBbIHsNCiAgICAgICAgImlkIiA6ICJhbGwtcmVxdWVzdHMiLA0KICAgICAgICAic3RhdGlzdGljcyIgOiBbICJBVkdfRFVSQVRJT04iIF0NCiAgICAgIH0sIHsNCiAgICAgICAgImlkIiA6ICJiOGJmYzQ4ZS1iN2VkLTQ4ZjgtYjVlYS00MDRkM2ZhZjE1Y2IiLA0KICAgICAgICAic3RhdGlzdGljcyIgOiBbICJBVkdfRFVSQVRJT04iLCAiRUxFTUVOVFNfUEVSX1NFQ09ORCIgXQ0KICAgICAgfSBdDQogICAgfSwNCiAgICAiZGJlNTg5ZDQtYTEwYy00OGQxLTk5OWUtZGExZmFmYTVkZjI4IiA6IHsNCiAgICAgICJlbGVtZW50SWRzIiA6IFsgew0KICAgICAgICAiaWQiIDogImFsbC1yZXF1ZXN0cyIsDQogICAgICAgICJzdGF0aXN0aWNzIiA6IFsgIkFWR19EVVJBVElPTiIgXQ0KICAgICAgfSBdLA0KICAgICAgImNvdW50ZXJJZHMiIDogWyAiYTRiZWQ0NWEtMDZiMi00OGUxLTk0ZmQtM2VhOTc5ZTRmMzYwIiwgImI1YmU4MmZmLTM1NjMtNDgxMi05M2E1LTRlYTg4OGU0ZTI1NCIgXQ0KICAgIH0NCiAgfQ0KfQ==]]></textPostContent>
+</http-action>

@@ -1,0 +1,42 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/browser/edge/navigate/3_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/f3d95b4d-1bec-45a6-8166-32d608a32607.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f3d95b4d-1bec-45a6-8166-32d608a32607">
+    <embedded-action>77b707c6-a81d-48a1-aab3-d0a8784f9f2e</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/browser/edge/navigate/3"
+    path="/api/browser/edge/navigate/3" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/f3d95b4d-1bec-45a6-8166-32d608a32607.zip"
+    recordedResponseCode="200" responseSize="877"
+    serverUid="nav-edge.smartscreen.microsoft.com"
+    slaProfileEnabled="false" uid="77b707c6-a81d-48a1-aab3-d0a8784f9f2e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_77b707c6-a81d-48a1-aab3-d0a8784f9f2e</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_77b707c6-a81d-48a1-aab3-d0a8784f9f2e.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="SmartScreenHash eyJhdXRoSWQiOiI0MWE0MzhiYy0xMjQ5LTQzZDMtYTI2ZC02OWNkNjJjMDgzMTciLCAia2V5IjoiczhKRWJHRUl4RFhVTkZQYk5jUE4yQT09IiwgImhhc2giOiJRenpRN29lalJjUT0ifQ=="/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Tue, 01 Oct 2024 21:49:04 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-length: 877&#xd;
+server: Kestrel&#xd;
+cache-control: max-age=0, private&#xd;
+request-context: appId=cid-v1:17267ca4-1148-488a-a10e-be14ee0592ab</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","redirectChain":[{"uri":"http://www.neotys.com/redirect/redirect.php?target=recorder","type":0}],"identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":"e193d065-a875-41a1-ab42-7151b2c89faa","onlineIdTicket":"t=GwAWAd9tBAAUanPXNspPGlCQJmFge+TK6U86WWUOZgAAENju77mzujgDuSElWMW3ilXgAEO8VnWFyHZRPW+/5K05cLp9XTwl7gJ9AT7p+CoXKqDzbLM3ghnJ5TZYLyWw6lxCvVFO9zOU4mSUAaHHYQxfRRuli3d68ghM1w8yUhnt9t3So14EJ9P7dapSUBxQ60ychTI5usrPykypN4jjm3Lu5yDTEWMG+y8IItkmLJW2eISPRY1OY4B3zNPPGJCeNk05oQd9t3CT6zYHWncKrlKjjHi/DPS3UePxp2vPqBux0hJ6hkw/BrJFaq8UWy1O6AtNDHAAqCiHTml9qYoIvM2vCljjQQFobmSjzRM/+/cx9MhgHwE=&p=","family":3,"locale":"en-US","osVersion":"10.0.22631.4169.ni_release","browser":{"internetExplorer":"9.11.22621.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"","version":"129.0.2792.65 (Official build) "},"client":{"version":"281483724390400","data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1","customSettings":"F95BA787499AB4FA9EFFF472CE383A14"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"https://www.neotys.com/redirect/redirect.php?target=recorder","ip":null},"type":"top","forceServiceDetermination":false,"correlationId":"8dadf2f7-0050-4184-b95f-25853531c93e","synchronous":false}]]></textPostContent>
+</http-action>

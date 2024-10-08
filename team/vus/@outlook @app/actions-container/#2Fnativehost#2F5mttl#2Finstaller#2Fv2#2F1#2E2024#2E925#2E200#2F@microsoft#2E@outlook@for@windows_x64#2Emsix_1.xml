@@ -1,0 +1,1565 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4a67adac-7e00-4bb1-9512-ef7ca760706d">
+    <embedded-action>a5ebc062-a091-4c97-bb1f-b4cbefa13b81</embedded-action>
+    <embedded-action>97f26918-e326-48ad-9678-1331cd426d08</embedded-action>
+    <embedded-action>6ebabe25-8ede-4f90-b7d6-c991c9e1cb2a</embedded-action>
+    <embedded-action>5bee4597-98b9-469d-b35e-99620ac15482</embedded-action>
+    <embedded-action>e1e6895c-a567-4af6-ad95-39e50acb1a2e</embedded-action>
+    <embedded-action>f19a9f08-ab4e-49e3-b2c3-3bdbb143f733</embedded-action>
+    <embedded-action>206ac36d-b86e-4bcb-91b7-f3108e0ec168</embedded-action>
+    <embedded-action>04d85b6f-2677-4903-9797-9e7bf9450884</embedded-action>
+    <embedded-action>4aefc3bc-ca62-4d1e-9fa3-e43f26c3e06c</embedded-action>
+    <embedded-action>80fc889a-fd14-4dcf-bae8-bb045a60dad1</embedded-action>
+    <embedded-action>125265b1-2506-4245-b72c-6e48d05ef162</embedded-action>
+    <embedded-action>afc31224-c54f-40ca-a9c1-374590d4423e</embedded-action>
+    <embedded-action>47881834-8130-4e6b-8580-685a21cd0e38</embedded-action>
+    <embedded-action>7ecadbb3-b4f2-4773-967a-00d3840fa437</embedded-action>
+    <embedded-action>473b68a3-cea6-407e-91c6-abbe6b58db29</embedded-action>
+    <embedded-action>e46e015e-cf5b-45d9-801a-5bf2b9169e62</embedded-action>
+    <embedded-action>4788c136-c005-4913-b304-31ad96b2e86d</embedded-action>
+    <embedded-action>bfce9d89-6636-4614-97ea-8cfd728fe8ec</embedded-action>
+    <embedded-action>1b945f24-f768-4b36-a25a-9bf943055fe1</embedded-action>
+    <embedded-action>a2d914b5-0b6c-48d9-9f70-4f37c5227df7</embedded-action>
+    <embedded-action>0baf3c0f-6fc5-4f3d-a612-8f6cf25382e4</embedded-action>
+    <embedded-action>1b219ed0-3dbd-4cd3-9a82-1b8ce0606070</embedded-action>
+    <embedded-action>cbc80219-2dc3-4f11-a3dc-71eea9fde50e</embedded-action>
+    <embedded-action>73edb488-9daf-41e3-95e9-0f6e802ecc40</embedded-action>
+    <embedded-action>8d02090a-fd8f-44ec-ac59-c395177a566c</embedded-action>
+    <embedded-action>bb26d692-edf1-4c30-bf38-ac85d22b01b6</embedded-action>
+    <embedded-action>ef6aa49a-b794-46a7-9b1c-e5c4c8c41299</embedded-action>
+    <embedded-action>d1fbc0c8-8144-4c16-8daf-af676bab2dfe</embedded-action>
+    <embedded-action>01af4f55-095f-4426-8584-e9d685f32f67</embedded-action>
+    <embedded-action>e9307e8c-5a40-42d3-a278-e1546dc5003d</embedded-action>
+    <embedded-action>b4d1472f-a905-45cf-9939-69e71b76e020</embedded-action>
+    <embedded-action>ecedfe33-9af5-4e78-beaa-d50ae3c8c8ea</embedded-action>
+    <embedded-action>64348087-6a5d-4956-bd6b-b377123c1bfe</embedded-action>
+    <embedded-action>7fbc8653-5ee0-41b9-9833-0cd9af79851d</embedded-action>
+    <embedded-action>1ab4f4c4-4aeb-43fe-bb51-2664a61c00d5</embedded-action>
+    <embedded-action>0ecf8e5e-49f7-48ad-bf4b-84a28dc28b5c</embedded-action>
+    <embedded-action>119b276e-dda8-4ef6-a0a7-edbe763e38bc</embedded-action>
+    <embedded-action>166fdb5a-4103-4edd-b59c-d29f91356d49</embedded-action>
+    <embedded-action>23cc830f-f232-488b-9b95-2e985c65c888</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="a5ebc062-a091-4c97-bb1f-b4cbefa13b81" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_a5ebc062-a091-4c97-bb1f-b4cbefa13b81.txt</requestContentFileDescription>
+    <header name="range" value="bytes=14635344-15527313"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.12"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 14635344-15527313/15717707&#xd;
+content-length: 891970&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544334,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821041.5c1264e&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="97f26918-e326-48ad-9678-1331cd426d08" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_97f26918-e326-48ad-9678-1331cd426d08.txt</requestContentFileDescription>
+    <header name="range" value="bytes=14364388-14635244"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.10"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 14364388-14635244/15717707&#xd;
+content-length: 270857&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850113,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821041.594401&amp;TotalRTCDNTime=50&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=50, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="6ebabe25-8ede-4f90-b7d6-c991c9e1cb2a" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_6ebabe25-8ede-4f90-b7d6-c991c9e1cb2a.txt</requestContentFileDescription>
+    <header name="range" value="bytes=1920831-1951362"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.11"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 1920831-1951362/15717707&#xd;
+content-length: 30532&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850280,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821041.5944a8&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="5bee4597-98b9-469d-b35e-99620ac15482" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_5bee4597-98b9-469d-b35e-99620ac15482.txt</requestContentFileDescription>
+    <header name="range" value="bytes=2089032-2115006"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.12"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 2089032-2115006/15717707&#xd;
+content-length: 25975&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850301,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821041.5944bd&amp;TotalRTCDNTime=48&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=48, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="e1e6895c-a567-4af6-ad95-39e50acb1a2e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e1e6895c-a567-4af6-ad95-39e50acb1a2e.txt</requestContentFileDescription>
+    <header name="range" value="bytes=2115077-2136762"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.13"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 2115077-2136762/15717707&#xd;
+content-length: 21686&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850329,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821041.5944d9&amp;TotalRTCDNTime=48&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=48, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="f19a9f08-ab4e-49e3-b2c3-3bdbb143f733" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f19a9f08-ab4e-49e3-b2c3-3bdbb143f733.txt</requestContentFileDescription>
+    <header name="range" value="bytes=2136833-2161400"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.13"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 2136833-2161400/15717707&#xd;
+content-length: 24568&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544508,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821041.5c126fc&amp;TotalRTCDNTime=48&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=48, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="206ac36d-b86e-4bcb-91b7-f3108e0ec168" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_206ac36d-b86e-4bcb-91b7-f3108e0ec168.txt</requestContentFileDescription>
+    <header name="range" value="bytes=2209897-2252975"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.14"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 2209897-2252975/15717707&#xd;
+content-length: 43079&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850353,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821041.5944f1&amp;TotalRTCDNTime=48&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=48, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="04d85b6f-2677-4903-9797-9e7bf9450884" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_04d85b6f-2677-4903-9797-9e7bf9450884.txt</requestContentFileDescription>
+    <header name="range" value="bytes=2253056-2282461"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.15"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 2253056-2282461/15717707&#xd;
+content-length: 29406&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850380,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821041.59450c&amp;TotalRTCDNTime=48&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=48, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="4aefc3bc-ca62-4d1e-9fa3-e43f26c3e06c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_4aefc3bc-ca62-4d1e-9fa3-e43f26c3e06c.txt</requestContentFileDescription>
+    <header name="range" value="bytes=2282542-2302884"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.14"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:21 GMT&#xd;
+content-range: bytes 2282542-2302884/15717707&#xd;
+content-length: 20343&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544570,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821041.5c1273a&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="80fc889a-fd14-4dcf-bae8-bb045a60dad1" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_80fc889a-fd14-4dcf-bae8-bb045a60dad1.txt</requestContentFileDescription>
+    <header name="range" value="bytes=2302947-3351522"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.15"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 2302947-3351522/15717707&#xd;
+content-length: 1048576&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544590,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c1274e&amp;TotalRTCDNTime=50&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=50, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="125265b1-2506-4245-b72c-6e48d05ef162" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_125265b1-2506-4245-b72c-6e48d05ef162.txt</requestContentFileDescription>
+    <header name="range" value="bytes=3351523-3630854"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.16"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 3351523-3630854/15717707&#xd;
+content-length: 279332&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850405,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.594525&amp;TotalRTCDNTime=48&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=48, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="afc31224-c54f-40ca-a9c1-374590d4423e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_afc31224-c54f-40ca-a9c1-374590d4423e.txt</requestContentFileDescription>
+    <header name="range" value="bytes=3630917-3701802"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.16"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 3630917-3701802/15717707&#xd;
+content-length: 70886&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544611,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c12763&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="47881834-8130-4e6b-8580-685a21cd0e38" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_47881834-8130-4e6b-8580-685a21cd0e38.txt</requestContentFileDescription>
+    <header name="range" value="bytes=3701866-4554835"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.17"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 3701866-4554835/15717707&#xd;
+content-length: 852970&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850438,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.594546&amp;TotalRTCDNTime=48&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=48, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="7ecadbb3-b4f2-4773-967a-00d3840fa437" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7ecadbb3-b4f2-4773-967a-00d3840fa437</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7ecadbb3-b4f2-4773-967a-00d3840fa437.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727820493.56.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/open?id=search&amp;spa=1&amp;q=unable%20to%20connect%20to%20agent&amp;disableAllSuggestions=false&amp;disableSpellCheck=false"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="X-Transaction-Source" value="Interface=Web,Interface-Name=OPEN,Interface-Type=Service Portal,Interface-SysID=dbeb3fef1be42810cf6210a1b24bcb5e"/>
+    <header name="X-Use-Polaris" value="false"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"298","channel":"/meta/connect","connectionType":"long-polling","clientId":"hnitp7whtlec26ql97tzi1gair3"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="473b68a3-cea6-407e-91c6-abbe6b58db29" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_473b68a3-cea6-407e-91c6-abbe6b58db29.txt</requestContentFileDescription>
+    <header name="range" value="bytes=4554901-5495092"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.18"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 4554901-5495092/15717707&#xd;
+content-length: 940192&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850455,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.594557&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="e46e015e-cf5b-45d9-801a-5bf2b9169e62" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e46e015e-cf5b-45d9-801a-5bf2b9169e62.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5495158-5508831"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.17"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5495158-5508831/15717707&#xd;
+content-length: 13674&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544740,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c127e4&amp;TotalRTCDNTime=52&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=52, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="4788c136-c005-4913-b304-31ad96b2e86d" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_4788c136-c005-4913-b304-31ad96b2e86d.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5508925-5684339"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.18"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5508925-5684339/15717707&#xd;
+content-length: 175415&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544757,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c127f5&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="bfce9d89-6636-4614-97ea-8cfd728fe8ec" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_bfce9d89-6636-4614-97ea-8cfd728fe8ec.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5730129-5786966"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.19"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5730129-5786966/15717707&#xd;
+content-length: 56838&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544782,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c1280e&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="1b945f24-f768-4b36-a25a-9bf943055fe1" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1b945f24-f768-4b36-a25a-9bf943055fe1.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5787036-5793623"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.19"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5787036-5793623/15717707&#xd;
+content-length: 6588&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850522,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.59459a&amp;TotalRTCDNTime=52&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=52, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="a2d914b5-0b6c-48d9-9f70-4f37c5227df7" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_a2d914b5-0b6c-48d9-9f70-4f37c5227df7.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5793703-5796314"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.20"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5793703-5796314/15717707&#xd;
+content-length: 2612&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544809,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c12829&amp;TotalRTCDNTime=51&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=51, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="0baf3c0f-6fc5-4f3d-a612-8f6cf25382e4" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_0baf3c0f-6fc5-4f3d-a612-8f6cf25382e4.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5796394-5799003"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.21"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5796394-5799003/15717707&#xd;
+content-length: 2610&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544842,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c1284a&amp;TotalRTCDNTime=51&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=51, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="1b219ed0-3dbd-4cd3-9a82-1b8ce0606070" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1b219ed0-3dbd-4cd3-9a82-1b8ce0606070.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5799083-5801695"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.22"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5799083-5801695/15717707&#xd;
+content-length: 2613&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544880,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c12870&amp;TotalRTCDNTime=50&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=50, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="cbc80219-2dc3-4f11-a3dc-71eea9fde50e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_cbc80219-2dc3-4f11-a3dc-71eea9fde50e.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5801775-5804385"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.20"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5801775-5804385/15717707&#xd;
+content-length: 2611&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850608,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.5945f0&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="73edb488-9daf-41e3-95e9-0f6e802ecc40" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_73edb488-9daf-41e3-95e9-0f6e802ecc40.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5804460-5850990"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.23"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5804460-5850990/15717707&#xd;
+content-length: 46531&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544899,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c12883&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="8d02090a-fd8f-44ec-ac59-c395177a566c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_8d02090a-fd8f-44ec-ac59-c395177a566c.txt</requestContentFileDescription>
+    <header name="range" value="bytes=15527383-15527611"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.21"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 15527383-15527611/15717707&#xd;
+content-length: 229&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850620,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.5945fc&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="bb26d692-edf1-4c30-bf38-ac85d22b01b6" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_bb26d692-edf1-4c30-bf38-ac85d22b01b6.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5851723-5913846"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.24"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5851723-5913846/15717707&#xd;
+content-length: 62124&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544916,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c12894&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="ef6aa49a-b794-46a7-9b1c-e5c4c8c41299" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_ef6aa49a-b794-46a7-9b1c-e5c4c8c41299.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5913921-5943651"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.22"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5913921-5943651/15717707&#xd;
+content-length: 29731&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850641,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.594611&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="d1fbc0c8-8144-4c16-8daf-af676bab2dfe" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_d1fbc0c8-8144-4c16-8daf-af676bab2dfe.txt</requestContentFileDescription>
+    <header name="range" value="bytes=5943726-5980920"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.23"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 5943726-5980920/15717707&#xd;
+content-length: 37195&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850665,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.594629&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="01af4f55-095f-4426-8584-e9d685f32f67" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_01af4f55-095f-4426-8584-e9d685f32f67.txt</requestContentFileDescription>
+    <header name="range" value="bytes=6010103-6031097"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.25"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 6010103-6031097/15717707&#xd;
+content-length: 20995&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544948,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c128b4&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="e9307e8c-5a40-42d3-a278-e1546dc5003d" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e9307e8c-5a40-42d3-a278-e1546dc5003d.txt</requestContentFileDescription>
+    <header name="range" value="bytes=6031166-7079741"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.26"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 6031166-7079741/15717707&#xd;
+content-length: 1048576&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544970,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c128ca&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="b4d1472f-a905-45cf-9939-69e71b76e020" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b4d1472f-a905-45cf-9939-69e71b76e020</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b4d1472f-a905-45cf-9939-69e71b76e020.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727820493.56.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/open?id=csm_ticket&amp;view=sp&amp;table=sn_customerservice_case&amp;sys_id=9e8ceb931beebd10dfb72fcde54bcb34"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="X-Transaction-Source" value="Interface=Web,Interface-Name=OPEN,Interface-Type=Service Portal,Interface-SysID=dbeb3fef1be42810cf6210a1b24bcb5e"/>
+    <header name="X-Use-Polaris" value="false"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 22:17:23 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"102","channel":"/meta/connect","connectionType":"long-polling","clientId":"hpd1q2k6cntkwpfx1ewhynj366lbe"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="ecedfe33-9af5-4e78-beaa-d50ae3c8c8ea" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_ecedfe33-9af5-4e78-beaa-d50ae3c8c8ea.txt</requestContentFileDescription>
+    <header name="range" value="bytes=7079742-7983009"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.24"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 7079742-7983009/15717707&#xd;
+content-length: 903268&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850685,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.59463d&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="64348087-6a5d-4956-bd6b-b377123c1bfe" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_64348087-6a5d-4956-bd6b-b377123c1bfe.txt</requestContentFileDescription>
+    <header name="range" value="bytes=7983078-8011036"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.27"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 7983078-8011036/15717707&#xd;
+content-length: 27959&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96544994,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821042.5c128e2&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="7fbc8653-5ee0-41b9-9833-0cd9af79851d" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_7fbc8653-5ee0-41b9-9833-0cd9af79851d.txt</requestContentFileDescription>
+    <header name="range" value="bytes=8044612-8091514"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.25"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 8044612-8091514/15717707&#xd;
+content-length: 46903&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850702,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.59464e&amp;TotalRTCDNTime=49&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=49, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/now/ui/presence"
+    path="/api/now/ui/presence" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="201" responseSize="5817"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="1ab4f4c4-4aeb-43fe-bb51-2664a61c00d5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1ab4f4c4-4aeb-43fe-bb51-2664a61c00d5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1ab4f4c4-4aeb-43fe-bb51-2664a61c00d5.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="sysparm_auto_request" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cd"
+        recordRawValue="1727821041170" separator="="
+        value="1727821041170" valueMode="USE_VALUE"/>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727820493.56.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/open?id=csm_ticket&amp;view=sp&amp;table=sn_customerservice_case&amp;sys_id=9e8ceb931beebd10dfb72fcde54bcb34"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="X-Transaction-Source" value="Interface=Web,Interface-Name=OPEN,Interface-Type=Service Portal,Interface-SysID=dbeb3fef1be42810cf6210a1b24bcb5e"/>
+    <header name="X-Use-Polaris" value="false"/>
+    <header name="X-UserToken" value="7998c728c3411e105b76771d7a0131f3894bc75a213dc376df367b7a4ec3e7b6fabe65aa"/>
+    <responseHeaders>HTTP/1.1 201 Created&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 22:17:23 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Server-Timing: sem_wait;dur=0, sesh_wait;dur=0&#xd;
+Content-Encoding: gzip&#xd;
+Set-Cookie: glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; Path=/; secure; SameSite=None&#xd;
+X-Is-Logged-In: true&#xd;
+X-Transaction-ID: 3a42976c1e2c&#xd;
+Set-Cookie: glide_session_store=3998C728C3411E105B76771D7A0131F3; Max-Age=7200; Expires=Wed, 02-Oct-2024 00:17:23 GMT; Path=/; HttpOnly; secure; SameSite=None&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36","ua_time":"2024-10-01T22:17:21.170Z","href":"https://tricentiscsm.service-now.com/open?id=csm_ticket&view=sp&table=sn_customerservice_case&sys_id=9e8ceb931beebd10dfb72fcde54bcb34","pathname":"/open","search":"?id=csm_ticket&view=sp&table=sn_customerservice_case&sys_id=9e8ceb931beebd10dfb72fcde54bcb34","path":"/open?id=csm_ticket&view=sp&table=sn_customerservice_case&sys_id=9e8ceb931beebd10dfb72fcde54bcb34"}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="0ecf8e5e-49f7-48ad-bf4b-84a28dc28b5c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_0ecf8e5e-49f7-48ad-bf4b-84a28dc28b5c.txt</requestContentFileDescription>
+    <header name="range" value="bytes=8348487-8365547"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.26"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:22 GMT&#xd;
+content-range: bytes 8348487-8365547/15717707&#xd;
+content-length: 17061&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850779,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821042.59469b&amp;TotalRTCDNTime=52&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=52, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="119b276e-dda8-4ef6-a0a7-edbe763e38bc" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_119b276e-dda8-4ef6-a0a7-edbe763e38bc.txt</requestContentFileDescription>
+    <header name="range" value="bytes=8444323-8509018"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.28"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:23 GMT&#xd;
+content-range: bytes 8444323-8509018/15717707&#xd;
+content-length: 64696&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96545099,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821043.5c1294b&amp;TotalRTCDNTime=53&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=53, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="166fdb5a-4103-4edd-b59c-d29f91356d49" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_166fdb5a-4103-4edd-b59c-d29f91356d49.txt</requestContentFileDescription>
+    <header name="range" value="bytes=8365614-8444259"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.1.1.27"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:23 GMT&#xd;
+content-range: bytes 8365614-8444259/15717707&#xd;
+content-length: 78646&#xd;
+akamai-request-bc: [a=202.138.177.20,b=5850807,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.14b18aca.1727821043.5946b7&amp;TotalRTCDNTime=52&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=52, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    path="/nativehost/5mttl/installer/v2/1.2024.925.200/Microsoft.OutlookForWindows_x64.msix"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook @app/%resources%/recorded-artifacts/4a67adac-7e00-4bb1-9512-ef7ca760706d.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="res.cdn.office.net" slaProfileEnabled="false"
+    uid="23cc830f-f232-488b-9b95-2e985c65c888" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_23cc830f-f232-488b-9b95-2e985c65c888.txt</requestContentFileDescription>
+    <header name="range" value="bytes=8509084-8566670"/>
+    <header name="ms-cv" value="eQWLTKdPOEqaLMhr.1.1.2.2.1.29"/>
+    <header name="user-agent" value="Microsoft-Delivery-Optimization/10.1"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 206&#xd;
+content-type: application/octet-stream&#xd;
+last-modified: Wed, 25 Sep 2024 21:47:03 GMT&#xd;
+x-ms-request-id: bec8460f-e01e-0068-2e94-0fe68b000000&#xd;
+cache-control: max-age=300&#xd;
+date: Tue, 01 Oct 2024 22:17:23 GMT&#xd;
+content-range: bytes 8509084-8566670/15717707&#xd;
+content-length: 57587&#xd;
+akamai-request-bc: [a=202.138.181.175,b=96545120,c=g,n=PH_00_MAKATI,o=9299]&#xd;
+report-to: {"group":"NelM365CDNUpload1","max_age":604800,"endpoints":[{"url":"https://M365CDN.nel.measure.office.net/api/report?FrontEnd=AkamaiCDNWorldWide&amp;DestinationEndpoint=MAKATI&amp;ASN=9299&amp;Country=PH&amp;Region=00&amp;RequestIdentifier=0.afb58aca.1727821043.5c12960&amp;TotalRTCDNTime=52&amp;CompressionType=&amp;FileSize=15717707"}],"include_subdomains ":true}&#xd;
+nel: {"report_to":"NelM365CDNUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}&#xd;
+server-timing: clientrtt; dur=52, clienttt; dur=, origin; dur=0 , cdntime; dur=0&#xd;
+akamai-cache-status: Hit from child&#xd;
+timing-allow-origin: *&#xd;
+access-control-expose-headers: date,Akamai-Request-BC,X-Cdn-Provider,X-Ms-Request-Id&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+x-cdn-provider: Akamai</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

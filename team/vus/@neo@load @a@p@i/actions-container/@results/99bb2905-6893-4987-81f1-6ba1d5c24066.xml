@@ -1,0 +1,17 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="${neoload_api_base_path}/tests/${testId}/graph"
+    path="${neoload_api_base_path}/tests/${testId}/graph" postType="4"
+    recordedResponseCode="200" serverUid="neoload_api_server"
+    slaProfileEnabled="false" uid="99bb2905-6893-4987-81f1-6ba1d5c24066" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@neo@load @a@p@i/%resources%/recorded-responses/res_99bb2905-6893-4987-81f1-6ba1d5c24066</responsePageFileDescription>
+    <header name="accountToken" value="${neoload_api_token}"/>
+    <header name="Content-Type" value="application/json"/>
+    <responseHeaders>HTTP/1.1 200 OK
+Content-Type: image/png
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[Encoded(Base64):ew0KICAid2lkdGgiIDogNjAwLA0KICAiaGVpZ2h0IiA6IDIwMCwNCiAgInRpdGxlIiA6ICJNeSBUZXN0IiwNCiAgInJhc3RlclR5cGUiIDogIlBORyIsDQogICJ4QXhpc0xhYmVsIiA6ICJYIEF4aXMiLA0KICAieUF4aXNMYWJlbCIgOiAiWSBBeGlzIiwNCiAgImxlZ2VuZCIgOiB0cnVlLA0KICAibXVsdGlZQXhpcyIgOiB0cnVlLA0KICAidGhlbWUiIDogIkRBUksiLA0KICAiZWxlbWVudElkcyIgOiBbIHsNCiAgICAiaWQiIDogImFsbC1yZXF1ZXN0cyIsDQogICAgInN0YXRpc3RpY3MiIDogWyAiQVZHX0RVUkFUSU9OIiBdDQogIH0gXSwNCiAgImNvdW50ZXJJZHMiIDogWyAiYTRiZWQ0NWEtMDZiMi00OGUxLTk0ZmQtM2VhOTc5ZTRmMzYwIiwgImI1YmU4MmZmLTM1NjMtNDgxMi05M2E1LTRlYTg4OGU0ZTI1NCIgXQ0KfQ==]]></textPostContent>
+</http-action>

@@ -1,0 +1,43 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/report/OutlookWeb-Mail-PROD" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/8e41158a-a6b8-42f4-9b43-125b0e353451.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8e41158a-a6b8-42f4-9b43-125b0e353451">
+    <embedded-action>0193657a-8834-4c60-bfaf-71f65c7b5592</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_8e41158a-a6b8-42f4-9b43-125b0e353451.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/report/OutlookWeb-Mail-PROD"
+    path="/report/OutlookWeb-Mail-PROD" postType="2"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/8e41158a-a6b8-42f4-9b43-125b0e353451.zip"
+    recordedResponseCode="403" responseSize="0"
+    serverUid="csp.microsoft.com" slaProfileEnabled="false"
+    uid="0193657a-8834-4c60-bfaf-71f65c7b5592" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[eyJjc3AtcmVwb3J0Ijp7ImRvY3VtZW50LXVyaSI6ImJsb2IiLCJyZWZlcnJlciI6IiIsInZpb2xhdGVkLWRpcmVjdGl2ZSI6InJlcXVpcmUtdHJ1c3RlZC10eXBlcy1mb3IiLCJlZmZlY3RpdmUtZGlyZWN0aXZlIjoicmVxdWlyZS10cnVzdGVkLXR5cGVzLWZvciIsIm9yaWdpbmFsLXBvbGljeSI6InJlcXVpcmUtdHJ1c3RlZC10eXBlcy1mb3IgJ3NjcmlwdCc7IHJlcG9ydC11cmkgaHR0cHM6Ly9jc3AubWljcm9zb2Z0LmNvbS9yZXBvcnQvT3V0bG9va1dlYi1NYWlsLVBST0Q7IiwiZGlzcG9zaXRpb24iOiJyZXBvcnQiLCJibG9ja2VkLXVyaSI6InRydXN0ZWQtdHlwZXMtc2luayIsImxpbmUtbnVtYmVyIjoxLCJjb2x1bW4tbnVtYmVyIjo0ODUsInNvdXJjZS1maWxlIjoiYmxvYiIsInN0YXR1cy1jb2RlIjowLCJzY3JpcHQtc2FtcGxlIjoiV29ya2VyR2xvYmFsU2NvcGUgaW1wb3J0U2NyaXB0c3xodHRwczovL3Jlcy5wdWJsaWMub25lY2RuLnN0YXRpYy5taWNyb3NvIn19]]></binaryPostContentBase64>
+    <requestContentFileDescription>recorded-requests/req_0193657a-8834-4c60-bfaf-71f65c7b5592.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/csp-report"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="report"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 403&#xd;
+date: Tue, 01 Oct 2024 21:49:13 GMT&#xd;
+content-type: text/html&#xd;
+content-length: 1261&#xd;
+cache-control: no-store&#xd;
+x-azure-ref: 20241001T214913Z-16d6d947fcd55qbdzcc57vqh0g00000005wg00000000ur1z&#xd;
+x-cache: CONFIG_NOCACHE</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

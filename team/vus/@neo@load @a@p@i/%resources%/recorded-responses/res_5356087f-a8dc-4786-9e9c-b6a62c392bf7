@@ -1,0 +1,49 @@
+[ {
+  "id" : "115c25af-f499-423f-a71e-63312601919e",
+  "status" : "WAITING",
+  "startDateTime" : 0.58919091925136,
+  "endDateTime" : 2.535258963197524,
+  "reservationWebVUs" : 6.173804034172511,
+  "reservationSAPVUs" : 4.8789878742268815,
+  "controllerZoneId" : "hIugt",
+  "neoloadVersion" : "7.0.2-20191110-1",
+  "lgZonesResourcesReservation" : [ {
+    "zoneId" : "hIugt",
+    "value" : 10
+  }, {
+    "zoneId" : "hIugt",
+    "value" : 10
+  } ],
+  "author" : "author",
+  "owner" : {
+    "type" : "USER",
+    "name" : "name"
+  },
+  "name" : "name",
+  "description" : "description",
+  "type" : "SCHEDULED"
+}, {
+  "id" : "115c25af-f499-423f-a71e-63312601919e",
+  "status" : "WAITING",
+  "startDateTime" : 0.58919091925136,
+  "endDateTime" : 2.535258963197524,
+  "reservationWebVUs" : 6.173804034172511,
+  "reservationSAPVUs" : 4.8789878742268815,
+  "controllerZoneId" : "hIugt",
+  "neoloadVersion" : "7.0.2-20191110-1",
+  "lgZonesResourcesReservation" : [ {
+    "zoneId" : "hIugt",
+    "value" : 10
+  }, {
+    "zoneId" : "hIugt",
+    "value" : 10
+  } ],
+  "author" : "author",
+  "owner" : {
+    "type" : "USER",
+    "name" : "name"
+  },
+  "name" : "name",
+  "description" : "description",
+  "type" : "SCHEDULED"
+} ]

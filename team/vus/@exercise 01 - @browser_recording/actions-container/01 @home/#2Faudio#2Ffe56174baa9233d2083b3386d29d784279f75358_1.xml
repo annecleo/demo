@@ -1,0 +1,59 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/audio/fe56174baa9233d2083b3386d29d784279f75358_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@exercise 01 - @browser_recording/%resources%/recorded-artifacts/f9c39b2c-26a6-407a-9ed5-074b6c114106.zip"
+    slaProfileEnabled="false" thinkTime="7124"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f9c39b2c-26a6-407a-9ed5-074b6c114106">
+    <embedded-action>46061239-06c7-4f4a-9b2e-9e2a77201ffb</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/octet-stream"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/audio/fe56174baa9233d2083b3386d29d784279f75358"
+    path="/audio/fe56174baa9233d2083b3386d29d784279f75358" postType="6"
+    recordedArtifactZipFileName="team/vus/@exercise 01 - @browser_recording/%resources%/recorded-artifacts/f9c39b2c-26a6-407a-9ed5-074b6c114106.zip"
+    recordedResponseCode="206" responseSize="0"
+    serverUid="audio-ak-spotify-com.akamaized.net"
+    slaProfileEnabled="false" uid="46061239-06c7-4f4a-9b2e-9e2a77201ffb" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_46061239-06c7-4f4a-9b2e-9e2a77201ffb.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="__token__"
+        recordRawValue="exp=1728030330~hmac=da228a00316d1dfbf394ebc1250e1841aed42b074b8872f5bf02cdd26a5e2019"
+        separator="="
+        value="exp=1728030330~hmac=da228a00316d1dfbf394ebc1250e1841aed42b074b8872f5bf02cdd26a5e2019" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="identity"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="audio-ak-spotify-com.akamaized.net"/>
+    <header name="If-Range" value="&quot;e4d0c5869c5ec41e06d6265521b7d9fc&quot;"/>
+    <header name="Origin" value="https://open.spotify.com"/>
+    <header name="Range" value="bytes=975393-1301082"/>
+    <header name="Referer" value="https://open.spotify.com/"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 206 Partial Content&#xd;
+Last-Modified: Wed, 12 Jun 2019 13:37:05 GMT&#xd;
+ETag: "e4d0c5869c5ec41e06d6265521b7d9fc"&#xd;
+Content-Type: application/octet-stream&#xd;
+Accept-Ranges: bytes&#xd;
+Date: Thu, 03 Oct 2024 08:25:58 GMT&#xd;
+Content-Range: bytes 975393-1301082/6654365&#xd;
+Content-Length: 325690&#xd;
+Connection: keep-alive&#xd;
+Access-Control-Max-Age: 86400&#xd;
+Access-Control-Allow-Headers: range, pragma, cache-control&#xd;
+Access-Control-Allow-Methods: GET&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Expires: Sun, 01 Oct 2034 08:25:58 GMT&#xd;
+Cache-Control: max-age=315360000, no-transform</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

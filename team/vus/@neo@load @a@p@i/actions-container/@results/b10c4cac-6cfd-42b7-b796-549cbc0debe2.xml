@@ -1,0 +1,17 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="${neoload_api_base_path}/tests/${testId}/elements/${elementId}"
+    path="${neoload_api_base_path}/tests/${testId}/elements/${elementId}"
+    postType="1" recordedResponseCode="200"
+    serverUid="neoload_api_server" slaProfileEnabled="false"
+    uid="b10c4cac-6cfd-42b7-b796-549cbc0debe2" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@neo@load @a@p@i/%resources%/recorded-responses/res_b10c4cac-6cfd-42b7-b796-549cbc0debe2</responsePageFileDescription>
+    <header name="accountToken" value="${neoload_api_token}"/>
+    <responseHeaders>HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 189</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

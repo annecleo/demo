@@ -1,0 +1,91 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/autofillservice/core/fieldPredictions"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/bd0c4e69-68be-4e9d-965a-8c368486fcb2.zip"
+    slaProfileEnabled="false" thinkTime="2"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bd0c4e69-68be-4e9d-965a-8c368486fcb2">
+    <embedded-action>3950497d-056c-473b-b536-f54e44accabc</embedded-action>
+    <embedded-action>1794f97e-924d-423b-a20e-772c36064d65</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_bd0c4e69-68be-4e9d-965a-8c368486fcb2.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/autofillservice/core/fieldPredictions"
+    path="/autofillservice/core/fieldPredictions" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/bd0c4e69-68be-4e9d-965a-8c368486fcb2.zip"
+    recordedResponseCode="200" responseSize="211"
+    serverUid="edge.microsoft.com" slaProfileEnabled="false"
+    uid="3950497d-056c-473b-b536-f54e44accabc" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3950497d-056c-473b-b536-f54e44accabc</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_3950497d-056c-473b-b536-f54e44accabc.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="CIdAlgoVersion" recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CLUICLMQCLmRywE="/>
+    <header name="content-type" value="application/json"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: max-age=0, no-cache, no-store, must-revalidate&#xd;
+content-length: 211&#xd;
+content-type: application/json; charset=utf-8&#xd;
+x-cache: CONFIG_NOCACHE&#xd;
+x-msedge-ref: Ref A: DF382E8D98F548BFB887624A242D6C4A Ref B: TYO01EDGE2009 Ref C: 2024-10-01T21:49:32Z&#xd;
+date: Tue, 01 Oct 2024 21:49:32 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"formRequests":[{"domainSign":"169495651919385527","fieldSignsFilter":["-8138885745608955178"],"formSign":"-8522277208407826879"}]}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/apc/trans.gif" path="/apc/trans.gif"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/bd0c4e69-68be-4e9d-965a-8c368486fcb2.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="graph-next.fp.measure.office.com"
+    slaProfileEnabled="false" uid="1794f97e-924d-423b-a20e-772c36064d65" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_1794f97e-924d-423b-a20e-772c36064d65.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="82ff85ef2ff22704fac4a1b40526fcdc" recordRawValue=""
+        separator="" value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: no-cache&#xd;
+content-type: image/gif&#xd;
+strict-transport-security: max-age=31536000&#xd;
+request-id: 10bff83b-a2c7-4118-b812-699c3d3be300&#xd;
+client-request-id: 10bff83b-a2c7-4118-b812-699c3d3be300&#xd;
+x-ms-ags-diagnostic: {"ServerInfo":{"DataCenter":"Korea Central","Slice":"E","Ring":"4","ScaleUnit":"000","RoleInstance":"SE1PEPF000098C3"}}&#xd;
+access-control-allow-origin: *&#xd;
+access-control-expose-headers: X-UserHostAddress, X-EndPoint, X-FrontEnd, X-MachineName&#xd;
+x-endpoint: E-Korea Central-000&#xd;
+x-frontend: AGS&#xd;
+x-machinename: SE1PEPF000098C3&#xd;
+x-userhostaddress: 103.141.203.0&#xd;
+date: Tue, 01 Oct 2024 21:49:32 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

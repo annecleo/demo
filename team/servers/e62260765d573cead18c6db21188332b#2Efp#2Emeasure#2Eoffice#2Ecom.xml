@@ -1,0 +1,7 @@
+<http-server
+    hostname="e62260765d573cead18c6db21188332b.fp.measure.office.com"
+    port="443" ssl="true"
+    uid="e62260765d573cead18c6db21188332b.fp.measure.office.com"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

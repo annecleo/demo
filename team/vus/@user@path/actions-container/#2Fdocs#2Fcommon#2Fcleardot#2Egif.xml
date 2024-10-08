@@ -1,0 +1,63 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/docs/common/cleardot.gif" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/83bb4f77-5b57-4c05-ba11-f3e45e475cdc.zip"
+    slaProfileEnabled="false" thinkTime="1286"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="83bb4f77-5b57-4c05-ba11-f3e45e475cdc">
+    <embedded-action>abdc84b9-6e39-4733-b171-8d539096b8e2</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/docs/common/cleardot.gif"
+    path="/docs/common/cleardot.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/83bb4f77-5b57-4c05-ba11-f3e45e475cdc.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ssl.gstatic.com" slaProfileEnabled="false"
+    uid="abdc84b9-6e39-4733-b171-8d539096b8e2" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_abdc84b9-6e39-4733-b171-8d539096b8e2.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="zx"
+        recordRawValue="x2dx5ho3d5jx" separator="=" value="x2dx5ho3d5jx" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="referer" value="https://docs.google.com/"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="i"/>
+    <header name="accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Google Chrome&quot;;v=&quot;129.0.6668.71&quot;, &quot;Not=A?Brand&quot;;v=&quot;8.0.0.0&quot;, &quot;Chromium&quot;;v=&quot;129.0.6668.71&quot;"/>
+    <header name="x-client-data" value="CIe2yQEIprbJAQipncoBCNLlygEIk6HLAQj6mM0BCIWgzQEI3PzNAQivns4BCP2lzgEIxLbOAQiiu84BCPnAzgEIjsHOAQiTxs4BGJ2xzgEYxL3OAQ=="/>
+    <header name="sec-ch-ua-form-factors" value="&quot;Desktop&quot;"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;15.0.0&quot;"/>
+    <header name="sec-ch-ua-wow64" value="?0"/>
+    <header name="sec-fetch-dest" value="image"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="sec-ch-ua-full-version" value="&quot;129.0.6668.71&quot;"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+accept-ranges: bytes&#xd;
+content-type: image/gif&#xd;
+vary: Origin&#xd;
+content-security-policy-report-only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/docs&#xd;
+cross-origin-resource-policy: cross-origin&#xd;
+cross-origin-opener-policy-report-only: same-origin; report-to="docs"&#xd;
+report-to: {"group":"docs","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/docs"}]}&#xd;
+content-length: 43&#xd;
+date: Thu, 03 Oct 2024 05:44:55 GMT&#xd;
+expires: Fri, 03 Oct 2025 05:44:55 GMT&#xd;
+cache-control: public, max-age=31536000&#xd;
+last-modified: Thu, 02 Nov 2023 22:48:00 GMT&#xd;
+x-content-type-options: nosniff&#xd;
+server: sffe&#xd;
+x-xss-protection: 0&#xd;
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

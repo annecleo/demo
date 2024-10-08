@@ -1,0 +1,41 @@
+[ {
+  "kpi" : "AVERAGE_REQUEST_RESPONSE_TIME",
+  "status" : "PASSED",
+  "warning" : 7.203795,
+  "warningThreshold" : {
+    "operator" : ">=",
+    "value" : 4.332305
+  },
+  "failed" : 2.7977867,
+  "failedThreshold" : {
+    "operator" : ">=",
+    "value" : 9.386525
+  },
+  "element" : {
+    "elementID" : "elementID",
+    "name" : "name",
+    "category" : "TRANSACTION",
+    "userpath" : "userpath",
+    "parent" : "parent"
+  }
+}, {
+  "kpi" : "AVERAGE_REQUEST_RESPONSE_TIME",
+  "status" : "PASSED",
+  "warning" : 7.203795,
+  "warningThreshold" : {
+    "operator" : ">=",
+    "value" : 4.332305
+  },
+  "failed" : 2.7977867,
+  "failedThreshold" : {
+    "operator" : ">=",
+    "value" : 9.386525
+  },
+  "element" : {
+    "elementID" : "elementID",
+    "name" : "name",
+    "category" : "TRANSACTION",
+    "userpath" : "userpath",
+    "parent" : "parent"
+  }
+} ]

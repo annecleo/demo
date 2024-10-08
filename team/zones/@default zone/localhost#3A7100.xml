@@ -7,7 +7,7 @@
         enabled="false" isLoopBack="false" name="wlan1">
         <!--****** LG ADDRESSES ******-->
         <lg-address enabled="false" hostname="aural-39x4c24">
-            <ip value="10.50.120.213"/>
+            <ip value="10.50.120.190"/>
         </lg-address>
         <lg-address enabled="false" hostname="fe80:0:0:0:4223:f1df:c16a:e553%wlan1">
             <ip value="fe80:0:0:0:4223:f1df:c16a:e553%wlan1"/>

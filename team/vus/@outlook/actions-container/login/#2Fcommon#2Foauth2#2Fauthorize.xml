@@ -1,0 +1,340 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/common/oauth2/authorize" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c8d03834-36e7-4596-ab5d-2cc86b906159.zip"
+    slaProfileEnabled="false" thinkTime="581"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c8d03834-36e7-4596-ab5d-2cc86b906159">
+    <embedded-action>22d81e56-4f78-4385-9008-f92d703bf823</embedded-action>
+    <embedded-action>468d1678-1a6b-4868-9350-70162ce975a0</embedded-action>
+    <embedded-action>e7d42e45-ec75-4a5d-bcb0-3581f3111d07</embedded-action>
+    <embedded-action>fa2a2362-bef5-40f9-af3e-3eaadc38d6c6</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c8d03834-36e7-4596-ab5d-2cc86b906159.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/common/oauth2/authorize"
+    path="/common/oauth2/authorize" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c8d03834-36e7-4596-ab5d-2cc86b906159.zip"
+    recordedResponseCode="302" responseSize="1042"
+    serverUid="login.microsoftonline.com" slaProfileEnabled="false"
+    uid="22d81e56-4f78-4385-9008-f92d703bf823" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_22d81e56-4f78-4385-9008-f92d703bf823.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_22d81e56-4f78-4385-9008-f92d703bf823.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="client_id"
+        recordRawValue="00000002-0000-0ff1-ce00-000000000000"
+        separator="=" value="00000002-0000-0ff1-ce00-000000000000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="redirect_uri"
+        recordRawValue="https%3a%2f%2foutlook.office.com%2fowa%2f"
+        separator="=" value="https://outlook.office.com/owa/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="resource"
+        recordRawValue="00000002-0000-0ff1-ce00-000000000000"
+        separator="=" value="00000002-0000-0ff1-ce00-000000000000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="response_mode"
+        recordRawValue="form_post" separator="=" value="form_post" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="response_type"
+        recordRawValue="code+id_token" separator="="
+        value="code id_token" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="scope"
+        recordRawValue="openid" separator="=" value="openid" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="msafed"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="msaredir"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="client-request-id"
+        recordRawValue="0e4799c6-ada8-fd93-3077-91db4728530d"
+        separator="=" value="0e4799c6-ada8-fd93-3077-91db4728530d" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="protectedtoken" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="claims"
+        recordRawValue="%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d"
+        separator="="
+        value="{&quot;id_token&quot;:{&quot;xms_cc&quot;:{&quot;values&quot;:[&quot;CP1&quot;]}}}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="nonce"
+        recordRawValue="638634161507805419.13bf12ed-b094-4016-b60d-d2ba4986689c"
+        separator="="
+        value="638634161507805419.13bf12ed-b094-4016-b60d-d2ba4986689c" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="state"
+        recordRawValue="DcuxDoIwEIDhou_iVrkr5WgH4qAxDLigiYatR2sikWCAYHx7O3z_9idCiG20iRKIEQVlhjKNhDkUBnKNdo8ZP1EFLxmslhqQJBN46RU7bQ2RsV0S31M6fl16mBe3hBJ3U_CvKXTLbSxd1UBXXaj-2dU_mpmVnerBDu3w7ttr3rOCle_nDx_NHw"
+        separator="="
+        value="DcuxDoIwEIDhou_iVrkr5WgH4qAxDLigiYatR2sikWCAYHx7O3z_9idCiG20iRKIEQVlhjKNhDkUBnKNdo8ZP1EFLxmslhqQJBN46RU7bQ2RsV0S31M6fl16mBe3hBJ3U_CvKXTLbSxd1UBXXaj-2dU_mpmVnerBDu3w7ttr3rOCle_nDx_NHw" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ESTSSSOTILES=1; MicrosoftApplicationsTelemetryDeviceId=a98a7a10-3d43-42a5-baf8-a70464c8d865; brcap=0; MSFPC=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; ai_session=dD216toC5ayasInoabvTqk|1727818363485|1727818363485; wlidperf=FR=L&amp;ST=1727818413015; ESTSAUTHPERSISTENT=0.ATkAAss8qTOOOUSL1eGcCsH9GwIAAAAAAPEPzgAAAAAAAAA5AHE.AgABFwQAAADW6jl31mB3T7ugrWTT8pFeAwDs_wUA9P_sWJFL97SD16DrTfaay5YfpZx9osNJbIZDbrp2hvMufaaejrKORHtAqKomvUgJ_VJhSGq8FQ745jzmIr3zD_04u9TCd-Oay9LVvYTtW0SnsusdSoqFifbO-Dfrml5LMqWOeV4YSypVEVjPRUnYTQ0xUWun4d1kCBpaXyHr_WN89ouZp2QKegebk_xLTHhLNFwd7MevJk_1IDliPZFkYcDnUTfqa9uJBRCjklSu9UzA_Gx4NoRoPINyPlej9NsmVKa1LSMQRlif2AlFsYtWGuVyyGQtEWdaSaguvAQ3j1SMLd7qs9zSNlw8p3YPWNA18OYmFgLnESMMzot5Pfl1xpZjnc6ZB-e4Leekn3zX0i_Go1ki-oNLbE61EnFnO_c9kGFvl25BO78vfrIF-WfsCVBfMIHHxwpUhqu8b1AIJPK6QF71Eiz87l9tkaPQaZVTMD5XXGQ1NAC_ndm-vrwCL8jjHFjBufjjQsuCBH7ga1yiL7TXhtmmI9bPr2863f4GyqFGCX5UMCvmChyPYTswjKi1nM_mVPugzHINRsrdtNFRtnglfw8hfR9K7MfMuBx7v5STR0pgPr8cXwo8s5yrzEIsFX-Qd_OF02rWYScVb1UNkPm7jvTfenjtOPKcnS-yMksZqVckmzROOfLYaxf523UXG7FKIeHXkREw0h2IyBi3i3qUP74d-Sl41PHn5DrC5ck_p5fl2uCreC199pAefobC7cV0L1EULCrPE4P53CJXQZN-deY32Qg1jguM_7Y5CHHlcuWAz_4KOrGkRaPrx01XLHFx3sUBR5Smo8lNF71LzapHWLs; buid=0.ATkAAss8qTOOOUSL1eGcCsH9GwIAAAAAAPEPzgAAAAAAAAA5AHE.AQABGgEAAADW6jl31mB3T7ugrWTT8pFebulFVEPXAcUyod65s23tKRCYsqxJM9jHBBnuianGAC6CwMCRlXCyhUguI-VgZXeSGSy2k_VroCNJnv6Z6_cci5jZzfyGTqnh8Qcb1E7VKRs7dCc73HQYXRE1jdRq2uiw48QW-OXrT8R8-kthxZKMc9CiyINIrwgi3dB7UcWEaaIgAA; CCState=Q3JRQkNoVmhMbVZqYkdWdlFIUnlhV05sYm5ScGN5NWpiMjBTQVFFaUNRa0FPTzF1djh2Y1NDb0pDZE5XT0pHMjV0eElNaW9LRWdvUUFnQUFBQUFBOFEvT0FBQUFBQUFBQUJJSkNmNEViUmJ6NDl4SUdna0pPWU1LU3BqaDNFZ3lLZ29TQ2hBREFBQUFBQUR4RDg0QUFBQUFBQUFBRWdrSms0Umsrd3prM0VnYUNRbTk2QVF2c3VIY1NEZ0FTQUJTRWdvUUFzczhxVE9PT1VTTDFlR2NDc0g5RzFvU0NoQ1VMWFVLcXZvK1NZTGsrT0Nrc0VacUVoSUtFRDZFM3ZVZkYvOUlqM09ZL05RSkFoVWFDUW05NkFRdnN1SGNTREorQWdBQkh3RUFBQURXNmpsMzFtQjNUN3VncldUVDhwRmVBd0RzL3dVQTlQK1ZiVldwcndYY1lYZ3Z5TmNweitudzNYcGpFdVV1S2g5TnFjWUltK3J5QmJGdDNDcTMyVGJPeklpdzNOcGdvRElFdU8yc2JOSlh3emFUcUc5U25ic2FrL1o5U0FwS1d2VUJBUWpyeWdyR251NjlHZTNCRjJSOFFIMjV6WXVh; fpc=Atdvon2E0sVMiVYLdJV6ra3L-jSAAQAAAHlhjt4OAAAA2IdwqgEAAACtYY7eDgAAAEIsla0BAAAAt2GO3g4AAAA"/>
+    <header name="Host" value="login.microsoftonline.com"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;15.0.0&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0 OS/10.0.22631"/>
+    <header name="X-Edge-Shopping-Flag" value="1"/>
+    <header name="x-ms-DeviceCredential" value="eyJ4NWMiOiJNSUlEOGpDQ0F0cWdBd0lCQWdJUUZFY1ZnK0VDOWFSTjBXNFZScVBrbURBTkJna3Foa2lHOXcwQkFRc0ZBREI0TVhZd0VRWUtDWkltaVpQeUxHUUJHUllEYm1WME1CVUdDZ21TSm9tVDhpeGtBUmtXQjNkcGJtUnZkM013SFFZRFZRUURFeFpOVXkxUGNtZGhibWw2WVhScGIyNHRRV05qWlhOek1Dc0dBMVVFQ3hNa09ESmtZbUZqWVRRdE0yVTRNUzAwTm1OaExUbGpOek10TURrMU1HTXhaV0ZqWVRrM01CNFhEVEkwTURreE56QXdNVFF5TTFvWERUTTBNRGt4TnpBd05EUXlNMW93THpFdE1Dc0dBMVVFQXhNa00yUTFNMlk1WVRVdFpHSTFNUzAwWVdKbUxXSXdZMlF0TjJVeVlqUmhZbUUzTUdRME1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBb2ZyVnFWK3VJUTU1ZFFEQU1nb2lDU3VvdFV5SnpuazFoSmd6am9hT2hWM3dBRWtwVXVVcVhWS0dxdHB0ODFFRVdzOUE5TFh6VmpHNHhPUklkVFBtZFNUaTk5WEFXaWtnNDJSakd4bmpmUFhxRWJveHVkU3phYjB2TFpYczYxQnF1eXBCOVNKNFwvWjczUU1rYSs4c1dWbG16bmFJRW5NbnpSNDMyVlJrS3p2VWFLUFJzZnVvWkpmNElHTitpWmxGTUVVMWFhRnB2V3RCbXk3a3ljeWNlZGtoT1FqRmJISzY0VEtnZ2RPc1luMkJkeXlGc1FrTlFvaVNzdHZ6VzNFWnRYaVBcLzJmN3dnQ2dmU0dsT0k2MTFjd29Yd1wvNGJQSmNrTHFLVVhFYmdrU3RGbW9CalwvMHVFd3VObUFQdGtDS3RvK1RzWkpPRlNHTlpkZWF3bFZoa0tyd0lEQVFBQm80SEFNSUc5TUF3R0ExVWRFd0VCXC93UUNNQUF3RmdZRFZSMGxBUUhcL0JBd3dDZ1lJS3dZQkJRVUhBd0l3SWdZTEtvWklodmNVQVFXQ0hBSUVFd1NCRUtYNVV6MVIyNzlLc00xK0swcTZjTlF3SWdZTEtvWklodmNVQVFXQ0hBTUVFd1NCRUpRdGRRcXErajVKZ3VUNDRLU3dSbW93SWdZTEtvWklodmNVQVFXQ0hBVUVFd1NCRUFMTFBLa3pqamxFaTlYaG5BckJcL1Jzd0ZBWUxLb1pJaHZjVUFRV0NIQWdFQlFTQkFrVlZNQk1HQ3lxR1NJYjNGQUVGZ2h3SEJBUUVnUUV3TUEwR0NTcUdTSWIzRFFFQkN3VUFBNElCQVFDcUlKTVNaQWx1aEV3dmpxRXdaK09tVmo3QWcxQ2pDUnI3YU45WTk1aWE5Szhhd1p0SjhxMFp2YXNaSWVLRkZxa2h5RUprajVvNTJFZTg4MHdvVFVTcjAxRnZ6Zm5PZUdDdFg5VnpVOVpFak1MRWYrSGVaVnAzTTBGaFlIMFwvY2xUWnByNkVuck1KZnFDVmI1QUZDRjUxdGJYS1MwdlRZZlFsMjU3RDI4U0EzZVIxbHo0ODRpOWJ5Zk9qS2NEeEF3cnN5bFZhMjNnXC81elh6b2lWQ1JvZnFzb0RSaXZMVlFkXC96Q3Q3K0dqb0pZTnpnNnVwZjFVVFFiTGF5N2Y2TmtZZ3QwNjBiSnZ2S2N6UkYrVUdIblhKMkhlY2VSOFNmdXdcL0ZnaUdzNUNaNDhuSjZaQWdLWnp5VGduZGlBTEw0a1wvRjBhdEZcL3k5UE5HMittRHB0dGVFeVQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ4X2NsaWVudF9wbGF0Zm9ybSI6IndpbmRvd3MiLCJ3aW5kb3dzX2FwaV92ZXJzaW9uIjoiMi4wLjEiLCJ3aW5fdmVyIjoiMTAuMC4yMjYyMS4zNjcyIiwidGVuYW50X2lkIjoiYTkzY2NiMDItOGUzMy00NDM5LThiZDUtZTE5YzBhYzFmZDFiIiwicmVxdWVzdF9ub25jZSI6IkF3QUJFZ0VBQUFBREFPel9CUUQwX3d3S0N4cFR5NjhlcVZnQXBOSE5ENUNCWXZnMWFITThQcjlPY0tSVE9KUnhVbl80MlVCZDNrMFVrb05qSFhzLVZBMmdLTmloT0ppZUNVbXJqc2FGQzhzZ0FBIiwiaXNzIjoiYWFkOmJyb2tlcnBsdWdpbiIsImdyYW50X3R5cGUiOiJkZXZpY2VfYXV0aCJ9.mXDfrAuB5Sg9F6DFfBVuSbfbboZygfJ0idrmlrcPe-IIRhVjZC3vq8Nh_XOGV-YrAlCwYgMznjjQIE8bv0lbVb33pDPYEjuEWzLRfq9wZmoYSPieTVjJtijk8BHfRkgEPSstdbSML26xhYuPibVriP5SJHCGbejFax-FzMM0ec8WPhtfwSzBdopTycIvkm1JJX4IHV2LDs_I4jr3Kd1RSbzp-ukK7d1NjkySTl2LUETY3-hkXyoHQUsrsYzl2apbXKvx89C8bHClo-RdmXIfvHfZDTQ3mmZ7tHe0n49bBZZJ17-CUlEK-S7k-WbYKT4qxY-YhsicTtlmqNk5bXNLHA"/>
+    <header name="x-ms-RefreshTokenCredential" value="eyJrZGZfdmVyIjoyLCJjdHgiOiJnR2MzSm9WMmM0WENnNW53aW1DRjI1WWZpRXZjbVdQVSIsImFsZyI6IkhTMjU2In0.eyJ4X2NsaWVudF9wbGF0Zm9ybSI6IndpbmRvd3MiLCJ3aW5kb3dzX2FwaV92ZXJzaW9uIjoiMi4wLjEiLCJ3aW5fdmVyIjoiMTAuMC4yMjYyMS4zNjcyIiwicmVxdWVzdF9ub25jZSI6IkF3QUJFZ0VBQUFBREFPel9CUUQwX3d3S0N4cFR5NjhlcVZnQXBOSE5ENUNCWXZnMWFITThQcjlPY0tSVE9KUnhVbl80MlVCZDNrMFVrb05qSFhzLVZBMmdLTmloT0ppZUNVbXJqc2FGQzhzZ0FBIiwicmVmcmVzaF90b2tlbiI6IjAuQVRrQUFzczhxVE9PT1VTTDFlR2NDc0g5RzZKaGh5YnpBOTlBaW92RDJ5UVVXMnM1QUhFLkFnQUJBd0VBQUFEVzZqbDMxbUIzVDd1Z3JXVFQ4cEZlQXdEc193VUE5UDlzOFFGZzJWcS1WTnZtUUF2aXB5ZFJWX0QxN0F2ZlRrdWFnZzk4MGp1NWNHakFrRzB5NDFsc19DcnJDbkllMkVaamxmZlVjWkNQamwwLTNGNWMyTTFKTGxLM0k5VTlXUV9yMkdEMXdFM3NYVlVrS29UVG9JR3l3WVctV1hKeF9KVmpsU3ZmcGt0MzZjcFNsOE53aUxpbE5ENkFsa3JCMG00azVjY0Q3V2h3YTUycU1mMlM2c1J3ZVk4TzdkM3NBckJHRTV1RlNpa2VVMHV4Z1JqYmU3dHp2MFlKTWk4Y1hIZTJGbjhXUUl0MkRpcUxYMTJxUEJRTUlBTDd5YnZWZkQ3anVKOWYweTlMdTN1dUYzWkRlcjBfUDJvcFZYTGZCYVVBRXFGbko4c3N5MUh6ZC05S0lTMjlRNDk4NnBFRFNwRW5PY2xtVkdpYzZiTUFFZGY1ZkFNR1drc0s1TWRYakJEbkRRX2VhX2k0eEVNSzV2YUdMeHhvUHdYR2ZydVdHajE3d2g1b29lbG4xVy1UQVFOTjF4OHY2VEgzN25PZk5NZGxFNEt3WmI5aG1rYnZPSF9zYlZBMEZ4TGJpMS05bUVmdURpYkg4c2l0b0NSZjZqbENHYzJsOTlJXzdaTVo1NVFBWjV3M2tvV2trOGtTaHdsOVF0MWZXUm0tLUEyQ1MtTVhmVkRCRnhqUVlMS0tvMXIzeWNLb3pfS0NyWlFYS0kwNnd0akRZVGJlUTJ6eGVVOUVPY1VrdkFYeUozREwyQUdHb0dfb1pPVkZBbm9oZVJfRmV1V1R2QXVJNTB5eU90Y2RPSzBUY1RrY19yMUdZcXN1YUd3UFN4ODYtQjgwSFdYeF9nM0FHYkJqZmdFc3pYdmU5cUl4VlRKNXB0MlU0UzNMdzNFcnVfS1liQk1senBJU0NIWFpYMWpTbHB5aGk5dzN3VTVVQW1lTl9BLXdNU2RGSmZ5X1k1X1laeUVZSU5SY1VvakJfdlF1RTVzbXpJV1Baa016MHRnOTNueS1pMk9FRGhtUk53VnphQ2Z1OUJKT1RIZDlNQUdCQ3FQZS1SdjZDdEp1X0d2aW11M1FNUnZlMW43b0M5TnpWMzNiUGJsaUlmVE12aVlCemVqMF9jSldRc0NRME9INXZuWTF5dTF3T09DTU1GRENZb19SNFItam9mQ2ZaSXNhbnI1Ml9XRlAyak1ERklMRnFBNFZsSW1GeV9WXzJMcDNyTzdrSDRocS1mVWlYSTN2QWdCajJKTjduSFlqMFNGLW13WlhsMUpUd0pQZzd5NndSNFpUeHV1M1VWbjZDaVZ6RjZLRTY1QVZxZmRyenhfN3BLblRZZjNIUVZkZEZYcTFHYWwwRURvYm1udm9BMXk2aWMtSmZPN0hRYjRBZG9qa1BYTTN2eTdCSHB3bTJyMnIifQ.647aXpCQN-uRqbfsdymd-5eVXOWIrzRYGNOpxuFnvIQ"/>
+    <responseHeaders>HTTP/1.1 302 Found&#xd;
+Cache-Control: no-store, no-cache&#xd;
+Pragma: no-cache&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Location: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&amp;redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&amp;resource=00000002-0000-0ff1-ce00-000000000000&amp;response_mode=form_post&amp;response_type=code+id_token&amp;scope=openid&amp;msafed=1&amp;msaredir=1&amp;client-request-id=0e4799c6-ada8-fd93-3077-91db4728530d&amp;protectedtoken=true&amp;claims=%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d&amp;nonce=638634161507805419.13bf12ed-b094-4016-b60d-d2ba4986689c&amp;state=DcuxDoIwEIDhou_iVrkr5WgH4qAxDLigiYatR2sikWCAYHx7O3z_9idCiG20iRKIEQVlhjKNhDkUBnKNdo8ZP1EFLxmslhqQJBN46RU7bQ2RsV0S31M6fl16mBe3hBJ3U_CvKXTLbSxd1UBXXaj-2dU_mpmVnerBDu3w7ttr3rOCle_nDx_NHw&amp;sso_nonce=AwABEgEAAAADAOz_BQD0_ywAQsO7heugPCQdLT2T4eaX2iais6iQoB-98ijEKYlRPJ-SqZggSvw70hUQ1Tgg6VBCda2yzsrRTC7qFRiIvUcgAA&amp;mscrid=0e4799c6-ada8-fd93-3077-91db4728530d&#xd;
+Vary: Accept-Encoding&#xd;
+Strict-Transport-Security: max-age=31536000; includeSubDomains&#xd;
+X-Content-Type-Options: nosniff&#xd;
+P3P: CP="DSP CUR OTPi IND OTRi ONL FIN"&#xd;
+x-ms-request-id: 696c8166-0df7-495c-8b3c-66f80b954b00&#xd;
+x-ms-ests-server: 2.1.19005.9 - SEC ProdSlices&#xd;
+report-to: {"group":"network-errors","max_age":86400,"endpoints":[{"url":"https://identity.nel.measure.office.net/api/report?catId=GW+estsfd+sin"}]}&#xd;
+nel: {"report_to":"network-errors","max_age":86400,"success_fraction":0.001,"failure_fraction":1.0}&#xd;
+x-ms-srs: 1.P&#xd;
+Referrer-Policy: strict-origin-when-cross-origin&#xd;
+X-XSS-Protection: 0&#xd;
+Set-Cookie: fpc=Atdvon2E0sVMiVYLdJV6ra3L-jSAAQAAAHlhjt4OAAAA2IdwqgEAAACtYY7eDgAAAEIsla0BAAAAt2GO3g4AAAA; expires=Thu, 31-Oct-2024 21:49:11 GMT; path=/; secure; HttpOnly; SameSite=None&#xd;
+Set-Cookie: x-ms-gateway-slice=estsfd; path=/; secure; samesite=none; httponly&#xd;
+Set-Cookie: stsservicecookie=estsfd; path=/; secure; samesite=none; httponly&#xd;
+Date: Tue, 01 Oct 2024 21:49:11 GMT&#xd;
+Content-Length: 696</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/common/oauth2/authorize"
+    path="/common/oauth2/authorize" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c8d03834-36e7-4596-ab5d-2cc86b906159.zip"
+    recordedResponseCode="200"
+    refererUid="22d81e56-4f78-4385-9008-f92d703bf823"
+    responseSize="4149" serverUid="login.microsoftonline.com"
+    slaProfileEnabled="false" uid="468d1678-1a6b-4868-9350-70162ce975a0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_468d1678-1a6b-4868-9350-70162ce975a0.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_468d1678-1a6b-4868-9350-70162ce975a0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="client_id"
+        recordRawValue="00000002-0000-0ff1-ce00-000000000000"
+        separator="=" value="00000002-0000-0ff1-ce00-000000000000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="redirect_uri"
+        recordRawValue="https%3a%2f%2foutlook.office.com%2fowa%2f"
+        separator="=" value="https://outlook.office.com/owa/" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="resource"
+        recordRawValue="00000002-0000-0ff1-ce00-000000000000"
+        separator="=" value="00000002-0000-0ff1-ce00-000000000000" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="response_mode"
+        recordRawValue="form_post" separator="=" value="form_post" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="response_type"
+        recordRawValue="code+id_token" separator="="
+        value="code id_token" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="scope"
+        recordRawValue="openid" separator="=" value="openid" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="msafed"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="msaredir"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="client-request-id"
+        recordRawValue="0e4799c6-ada8-fd93-3077-91db4728530d"
+        separator="=" value="0e4799c6-ada8-fd93-3077-91db4728530d" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="protectedtoken" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="claims"
+        recordRawValue="%7b%22id_token%22%3a%7b%22xms_cc%22%3a%7b%22values%22%3a%5b%22CP1%22%5d%7d%7d%7d"
+        separator="="
+        value="{&quot;id_token&quot;:{&quot;xms_cc&quot;:{&quot;values&quot;:[&quot;CP1&quot;]}}}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="nonce"
+        recordRawValue="638634161507805419.13bf12ed-b094-4016-b60d-d2ba4986689c"
+        separator="="
+        value="638634161507805419.13bf12ed-b094-4016-b60d-d2ba4986689c" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="state"
+        recordRawValue="DcuxDoIwEIDhou_iVrkr5WgH4qAxDLigiYatR2sikWCAYHx7O3z_9idCiG20iRKIEQVlhjKNhDkUBnKNdo8ZP1EFLxmslhqQJBN46RU7bQ2RsV0S31M6fl16mBe3hBJ3U_CvKXTLbSxd1UBXXaj-2dU_mpmVnerBDu3w7ttr3rOCle_nDx_NHw"
+        separator="="
+        value="DcuxDoIwEIDhou_iVrkr5WgH4qAxDLigiYatR2sikWCAYHx7O3z_9idCiG20iRKIEQVlhjKNhDkUBnKNdo8ZP1EFLxmslhqQJBN46RU7bQ2RsV0S31M6fl16mBe3hBJ3U_CvKXTLbSxd1UBXXaj-2dU_mpmVnerBDu3w7ttr3rOCle_nDx_NHw" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="sso_nonce"
+        recordRawValue="AwABEgEAAAADAOz_BQD0_ywAQsO7heugPCQdLT2T4eaX2iais6iQoB-98ijEKYlRPJ-SqZggSvw70hUQ1Tgg6VBCda2yzsrRTC7qFRiIvUcgAA"
+        separator="="
+        value="AwABEgEAAAADAOz_BQD0_ywAQsO7heugPCQdLT2T4eaX2iais6iQoB-98ijEKYlRPJ-SqZggSvw70hUQ1Tgg6VBCda2yzsrRTC7qFRiIvUcgAA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="mscrid"
+        recordRawValue="0e4799c6-ada8-fd93-3077-91db4728530d"
+        separator="=" value="0e4799c6-ada8-fd93-3077-91db4728530d" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="ESTSSSOTILES=1; MicrosoftApplicationsTelemetryDeviceId=a98a7a10-3d43-42a5-baf8-a70464c8d865; brcap=0; MSFPC=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; ai_session=dD216toC5ayasInoabvTqk|1727818363485|1727818363485; wlidperf=FR=L&amp;ST=1727818413015; ESTSAUTHPERSISTENT=0.ATkAAss8qTOOOUSL1eGcCsH9GwIAAAAAAPEPzgAAAAAAAAA5AHE.AgABFwQAAADW6jl31mB3T7ugrWTT8pFeAwDs_wUA9P_sWJFL97SD16DrTfaay5YfpZx9osNJbIZDbrp2hvMufaaejrKORHtAqKomvUgJ_VJhSGq8FQ745jzmIr3zD_04u9TCd-Oay9LVvYTtW0SnsusdSoqFifbO-Dfrml5LMqWOeV4YSypVEVjPRUnYTQ0xUWun4d1kCBpaXyHr_WN89ouZp2QKegebk_xLTHhLNFwd7MevJk_1IDliPZFkYcDnUTfqa9uJBRCjklSu9UzA_Gx4NoRoPINyPlej9NsmVKa1LSMQRlif2AlFsYtWGuVyyGQtEWdaSaguvAQ3j1SMLd7qs9zSNlw8p3YPWNA18OYmFgLnESMMzot5Pfl1xpZjnc6ZB-e4Leekn3zX0i_Go1ki-oNLbE61EnFnO_c9kGFvl25BO78vfrIF-WfsCVBfMIHHxwpUhqu8b1AIJPK6QF71Eiz87l9tkaPQaZVTMD5XXGQ1NAC_ndm-vrwCL8jjHFjBufjjQsuCBH7ga1yiL7TXhtmmI9bPr2863f4GyqFGCX5UMCvmChyPYTswjKi1nM_mVPugzHINRsrdtNFRtnglfw8hfR9K7MfMuBx7v5STR0pgPr8cXwo8s5yrzEIsFX-Qd_OF02rWYScVb1UNkPm7jvTfenjtOPKcnS-yMksZqVckmzROOfLYaxf523UXG7FKIeHXkREw0h2IyBi3i3qUP74d-Sl41PHn5DrC5ck_p5fl2uCreC199pAefobC7cV0L1EULCrPE4P53CJXQZN-deY32Qg1jguM_7Y5CHHlcuWAz_4KOrGkRaPrx01XLHFx3sUBR5Smo8lNF71LzapHWLs; buid=0.ATkAAss8qTOOOUSL1eGcCsH9GwIAAAAAAPEPzgAAAAAAAAA5AHE.AQABGgEAAADW6jl31mB3T7ugrWTT8pFebulFVEPXAcUyod65s23tKRCYsqxJM9jHBBnuianGAC6CwMCRlXCyhUguI-VgZXeSGSy2k_VroCNJnv6Z6_cci5jZzfyGTqnh8Qcb1E7VKRs7dCc73HQYXRE1jdRq2uiw48QW-OXrT8R8-kthxZKMc9CiyINIrwgi3dB7UcWEaaIgAA; CCState=Q3JRQkNoVmhMbVZqYkdWdlFIUnlhV05sYm5ScGN5NWpiMjBTQVFFaUNRa0FPTzF1djh2Y1NDb0pDZE5XT0pHMjV0eElNaW9LRWdvUUFnQUFBQUFBOFEvT0FBQUFBQUFBQUJJSkNmNEViUmJ6NDl4SUdna0pPWU1LU3BqaDNFZ3lLZ29TQ2hBREFBQUFBQUR4RDg0QUFBQUFBQUFBRWdrSms0Umsrd3prM0VnYUNRbTk2QVF2c3VIY1NEZ0FTQUJTRWdvUUFzczhxVE9PT1VTTDFlR2NDc0g5RzFvU0NoQ1VMWFVLcXZvK1NZTGsrT0Nrc0VacUVoSUtFRDZFM3ZVZkYvOUlqM09ZL05RSkFoVWFDUW05NkFRdnN1SGNTREorQWdBQkh3RUFBQURXNmpsMzFtQjNUN3VncldUVDhwRmVBd0RzL3dVQTlQK1ZiVldwcndYY1lYZ3Z5TmNweitudzNYcGpFdVV1S2g5TnFjWUltK3J5QmJGdDNDcTMyVGJPeklpdzNOcGdvRElFdU8yc2JOSlh3emFUcUc5U25ic2FrL1o5U0FwS1d2VUJBUWpyeWdyR251NjlHZTNCRjJSOFFIMjV6WXVh; fpc=Atdvon2E0sVMiVYLdJV6ra3L-jSAAQAAAHlhjt4OAAAA2IdwqgEAAACtYY7eDgAAAEIsla0BAAAAt2GO3g4AAAA; x-ms-gateway-slice=estsfd; stsservicecookie=estsfd"/>
+    <header name="Host" value="login.microsoftonline.com"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;15.0.0&quot;"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0 OS/10.0.22631"/>
+    <header name="X-Edge-Shopping-Flag" value="1"/>
+    <header name="x-ms-DeviceCredential" value="eyJ4NWMiOiJNSUlEOGpDQ0F0cWdBd0lCQWdJUUZFY1ZnK0VDOWFSTjBXNFZScVBrbURBTkJna3Foa2lHOXcwQkFRc0ZBREI0TVhZd0VRWUtDWkltaVpQeUxHUUJHUllEYm1WME1CVUdDZ21TSm9tVDhpeGtBUmtXQjNkcGJtUnZkM013SFFZRFZRUURFeFpOVXkxUGNtZGhibWw2WVhScGIyNHRRV05qWlhOek1Dc0dBMVVFQ3hNa09ESmtZbUZqWVRRdE0yVTRNUzAwTm1OaExUbGpOek10TURrMU1HTXhaV0ZqWVRrM01CNFhEVEkwTURreE56QXdNVFF5TTFvWERUTTBNRGt4TnpBd05EUXlNMW93THpFdE1Dc0dBMVVFQXhNa00yUTFNMlk1WVRVdFpHSTFNUzAwWVdKbUxXSXdZMlF0TjJVeVlqUmhZbUUzTUdRME1JSUJJakFOQmdrcWhraUc5dzBCQVFFRkFBT0NBUThBTUlJQkNnS0NBUUVBb2ZyVnFWK3VJUTU1ZFFEQU1nb2lDU3VvdFV5SnpuazFoSmd6am9hT2hWM3dBRWtwVXVVcVhWS0dxdHB0ODFFRVdzOUE5TFh6VmpHNHhPUklkVFBtZFNUaTk5WEFXaWtnNDJSakd4bmpmUFhxRWJveHVkU3phYjB2TFpYczYxQnF1eXBCOVNKNFwvWjczUU1rYSs4c1dWbG16bmFJRW5NbnpSNDMyVlJrS3p2VWFLUFJzZnVvWkpmNElHTitpWmxGTUVVMWFhRnB2V3RCbXk3a3ljeWNlZGtoT1FqRmJISzY0VEtnZ2RPc1luMkJkeXlGc1FrTlFvaVNzdHZ6VzNFWnRYaVBcLzJmN3dnQ2dmU0dsT0k2MTFjd29Yd1wvNGJQSmNrTHFLVVhFYmdrU3RGbW9CalwvMHVFd3VObUFQdGtDS3RvK1RzWkpPRlNHTlpkZWF3bFZoa0tyd0lEQVFBQm80SEFNSUc5TUF3R0ExVWRFd0VCXC93UUNNQUF3RmdZRFZSMGxBUUhcL0JBd3dDZ1lJS3dZQkJRVUhBd0l3SWdZTEtvWklodmNVQVFXQ0hBSUVFd1NCRUtYNVV6MVIyNzlLc00xK0swcTZjTlF3SWdZTEtvWklodmNVQVFXQ0hBTUVFd1NCRUpRdGRRcXErajVKZ3VUNDRLU3dSbW93SWdZTEtvWklodmNVQVFXQ0hBVUVFd1NCRUFMTFBLa3pqamxFaTlYaG5BckJcL1Jzd0ZBWUxLb1pJaHZjVUFRV0NIQWdFQlFTQkFrVlZNQk1HQ3lxR1NJYjNGQUVGZ2h3SEJBUUVnUUV3TUEwR0NTcUdTSWIzRFFFQkN3VUFBNElCQVFDcUlKTVNaQWx1aEV3dmpxRXdaK09tVmo3QWcxQ2pDUnI3YU45WTk1aWE5Szhhd1p0SjhxMFp2YXNaSWVLRkZxa2h5RUprajVvNTJFZTg4MHdvVFVTcjAxRnZ6Zm5PZUdDdFg5VnpVOVpFak1MRWYrSGVaVnAzTTBGaFlIMFwvY2xUWnByNkVuck1KZnFDVmI1QUZDRjUxdGJYS1MwdlRZZlFsMjU3RDI4U0EzZVIxbHo0ODRpOWJ5Zk9qS2NEeEF3cnN5bFZhMjNnXC81elh6b2lWQ1JvZnFzb0RSaXZMVlFkXC96Q3Q3K0dqb0pZTnpnNnVwZjFVVFFiTGF5N2Y2TmtZZ3QwNjBiSnZ2S2N6UkYrVUdIblhKMkhlY2VSOFNmdXdcL0ZnaUdzNUNaNDhuSjZaQWdLWnp5VGduZGlBTEw0a1wvRjBhdEZcL3k5UE5HMittRHB0dGVFeVQiLCJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJ4X2NsaWVudF9wbGF0Zm9ybSI6IndpbmRvd3MiLCJ3aW5kb3dzX2FwaV92ZXJzaW9uIjoiMi4wLjEiLCJ3aW5fdmVyIjoiMTAuMC4yMjYyMS4zNjcyIiwidGVuYW50X2lkIjoiYTkzY2NiMDItOGUzMy00NDM5LThiZDUtZTE5YzBhYzFmZDFiIiwicmVxdWVzdF9ub25jZSI6IkF3QUJFZ0VBQUFBREFPel9CUUQwX3l3QVFzTzdoZXVnUENRZExUMlQ0ZWFYMmlhaXM2aVFvQi05OGlqRUtZbFJQSi1TcVpnZ1N2dzcwaFVRMVRnZzZWQkNkYTJ5enNyUlRDN3FGUmlJdlVjZ0FBIiwiaXNzIjoiYWFkOmJyb2tlcnBsdWdpbiIsImdyYW50X3R5cGUiOiJkZXZpY2VfYXV0aCJ9.geApvhgzu1JKPj34NUI3IUjRjdHqL_-HXNXNmGPPIYjYWE4DhtOmmIiMNGWxOaJAQ2O85b6z1SbxvimXIRzu7RIH1wweRywRUfgAuRou9a3TBBF7njUprxhKYXm1uzwFPopuVYvpVzMEXSNX19Mic91iqY8Q-RFSd4NNMOhMRrkQW-1At73_mUCO5-YKrtSAnLMOQOIZeXWOATqp4MBWVeflTD9baPQis474DqaNUoM9Yp-oXH6N9VORTy0nsunOTeZF5LHvPlrEaS4Qg_Z5qfZwN5UUjrgfDZNRMbwZgPKIOUQWy83fDrL9rBBJ9GHVvSwp9wso-ZOwSCK8gjSJQQ"/>
+    <header name="x-ms-RefreshTokenCredential" value="eyJrZGZfdmVyIjoyLCJjdHgiOiJIVXBqXC9BN29QY2ZZejVWY3VFU21KR2JFU015VVEzYVciLCJhbGciOiJIUzI1NiJ9.eyJ4X2NsaWVudF9wbGF0Zm9ybSI6IndpbmRvd3MiLCJ3aW5kb3dzX2FwaV92ZXJzaW9uIjoiMi4wLjEiLCJ3aW5fdmVyIjoiMTAuMC4yMjYyMS4zNjcyIiwicmVxdWVzdF9ub25jZSI6IkF3QUJFZ0VBQUFBREFPel9CUUQwX3l3QVFzTzdoZXVnUENRZExUMlQ0ZWFYMmlhaXM2aVFvQi05OGlqRUtZbFJQSi1TcVpnZ1N2dzcwaFVRMVRnZzZWQkNkYTJ5enNyUlRDN3FGUmlJdlVjZ0FBIiwicmVmcmVzaF90b2tlbiI6IjAuQVRrQUFzczhxVE9PT1VTTDFlR2NDc0g5RzZKaGh5YnpBOTlBaW92RDJ5UVVXMnM1QUhFLkFnQUJBd0VBQUFEVzZqbDMxbUIzVDd1Z3JXVFQ4cEZlQXdEc193VUE5UDlzOFFGZzJWcS1WTnZtUUF2aXB5ZFJWX0QxN0F2ZlRrdWFnZzk4MGp1NWNHakFrRzB5NDFsc19DcnJDbkllMkVaamxmZlVjWkNQamwwLTNGNWMyTTFKTGxLM0k5VTlXUV9yMkdEMXdFM3NYVlVrS29UVG9JR3l3WVctV1hKeF9KVmpsU3ZmcGt0MzZjcFNsOE53aUxpbE5ENkFsa3JCMG00azVjY0Q3V2h3YTUycU1mMlM2c1J3ZVk4TzdkM3NBckJHRTV1RlNpa2VVMHV4Z1JqYmU3dHp2MFlKTWk4Y1hIZTJGbjhXUUl0MkRpcUxYMTJxUEJRTUlBTDd5YnZWZkQ3anVKOWYweTlMdTN1dUYzWkRlcjBfUDJvcFZYTGZCYVVBRXFGbko4c3N5MUh6ZC05S0lTMjlRNDk4NnBFRFNwRW5PY2xtVkdpYzZiTUFFZGY1ZkFNR1drc0s1TWRYakJEbkRRX2VhX2k0eEVNSzV2YUdMeHhvUHdYR2ZydVdHajE3d2g1b29lbG4xVy1UQVFOTjF4OHY2VEgzN25PZk5NZGxFNEt3WmI5aG1rYnZPSF9zYlZBMEZ4TGJpMS05bUVmdURpYkg4c2l0b0NSZjZqbENHYzJsOTlJXzdaTVo1NVFBWjV3M2tvV2trOGtTaHdsOVF0MWZXUm0tLUEyQ1MtTVhmVkRCRnhqUVlMS0tvMXIzeWNLb3pfS0NyWlFYS0kwNnd0akRZVGJlUTJ6eGVVOUVPY1VrdkFYeUozREwyQUdHb0dfb1pPVkZBbm9oZVJfRmV1V1R2QXVJNTB5eU90Y2RPSzBUY1RrY19yMUdZcXN1YUd3UFN4ODYtQjgwSFdYeF9nM0FHYkJqZmdFc3pYdmU5cUl4VlRKNXB0MlU0UzNMdzNFcnVfS1liQk1senBJU0NIWFpYMWpTbHB5aGk5dzN3VTVVQW1lTl9BLXdNU2RGSmZ5X1k1X1laeUVZSU5SY1VvakJfdlF1RTVzbXpJV1Baa016MHRnOTNueS1pMk9FRGhtUk53VnphQ2Z1OUJKT1RIZDlNQUdCQ3FQZS1SdjZDdEp1X0d2aW11M1FNUnZlMW43b0M5TnpWMzNiUGJsaUlmVE12aVlCemVqMF9jSldRc0NRME9INXZuWTF5dTF3T09DTU1GRENZb19SNFItam9mQ2ZaSXNhbnI1Ml9XRlAyak1ERklMRnFBNFZsSW1GeV9WXzJMcDNyTzdrSDRocS1mVWlYSTN2QWdCajJKTjduSFlqMFNGLW13WlhsMUpUd0pQZzd5NndSNFpUeHV1M1VWbjZDaVZ6RjZLRTY1QVZxZmRyenhfN3BLblRZZjNIUVZkZEZYcTFHYWwwRURvYm1udm9BMXk2aWMtSmZPN0hRYjRBZG9qa1BYTTN2eTdCSHB3bTJyMnIifQ.D2FxM99Frz9Hs1U2aUqlgqjTVCTQyIy5GOdmPzb28mU"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Cache-Control: no-store, no-cache&#xd;
+Pragma: no-cache&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Content-Encoding: gzip&#xd;
+Expires: -1&#xd;
+Vary: Accept-Encoding&#xd;
+Strict-Transport-Security: max-age=31536000; includeSubDomains&#xd;
+X-Content-Type-Options: nosniff&#xd;
+P3P: CP="DSP CUR OTPi IND OTRi ONL FIN"&#xd;
+x-ms-request-id: 4312ef80-3db3-400f-a3be-44af39523900&#xd;
+x-ms-ests-server: 2.1.19005.9 - NEULR1 ProdSlices&#xd;
+report-to: {"group":"network-errors","max_age":86400,"endpoints":[{"url":"https://identity.nel.measure.office.net/api/report?catId=GW+estsfd+sin"}]}&#xd;
+nel: {"report_to":"network-errors","max_age":86400,"success_fraction":0.001,"failure_fraction":1.0}&#xd;
+x-ms-srs: 1.P&#xd;
+Referrer-Policy: strict-origin-when-cross-origin&#xd;
+X-XSS-Protection: 0&#xd;
+Set-Cookie: ESTSAUTHPERSISTENT=0.ATkAAss8qTOOOUSL1eGcCsH9GwIAAAAAAPEPzgAAAAAAAAA5AHE.AgABFwQAAADW6jl31mB3T7ugrWTT8pFeAwDs_wUA9P9RgudK5Ux5NjC-6qmel2r9eSkEBnNMoYL3vZcBHF9r0-ztuCSfKdGMVpXEwbd9M2TdWmcIQvQA0yOuZEJDG2mviewJIWj1h_dW7iAaFpmw0N1ID-s4GcYjuKK656As3NFKkAT2PO7PCMDPckPxVBf411esR58-1cLHDi9_MvoX4OYhzjfnKzOgiXP36YwIVdoE7IUo85hBrYDubFKd3mvShkHfiNbA40pNQzGUFjgAJEKHfdjwWoPjL_IaKX0bvtdpeCb--zVNT9e4XH_hwz0pbyqnV5Rrs7Kq6b27YrJJS2aMUrMfmM-uPlPQciBZk4NDZCwMx8-j7-s59gBlUZL0EqN721IG2ZmpcTT2UFxhkkTu5yHSirqTO7Boz21si1TWVJg_xXcOr3sI25KHfFWVRPlJwgI37Ikip22mgC6RTFJsg6dWRdr_5PD830Wx_KL_iddbIqnJLYqGXf8nEuomYuhjNb0VRCQDlzOe9xomPm9oMz5uucdKtvlVxkrvTqQAJjadZ72gbK8pBEt_edqq1sMyo_43bydXAOWstBRCBGIRc9BRxRgpTYLBEg5lff-gzCpAdJFE9sh9epn16-1_AKFvn7YyzdrgBIvCUgVwDIB3XF2_4XGRjGlZU01ckmIiilJZ9KROm7rx63kJUG6KKbCA2LpX9OKkntlr8MGBHMxLBK6gKjgV_97tr1GFqbo-HxoIswQ-S1O7iMGm6aam7WKCAuN8I7D453_0ZVk-cNgX8J3rvu-IYLve5k-4SpdgMT-n1p_OM5RpfeUS7AgVPVVpX8cTpbVggF7c3l1JhSuASVS3jC6w; domain=.login.microsoftonline.com; expires=Mon, 30-Dec-2024 21:49:12 GMT; path=/; secure; HttpOnly; SameSite=None&#xd;
+Set-Cookie: ESTSAUTH=0.ATkAAss8qTOOOUSL1eGcCsH9GwIAAAAAAPEPzgAAAAAAAAA5AHE.AgABFwQAAADW6jl31mB3T7ugrWTT8pFeAwDs_wUA9P_QmXv-3j5s9K0IPZRm3tBbuJg4m1bkWDC-BxwYA9nwh4AcQj3eUbyndzHy2akbGFFkZYMCMzP2Qg; domain=.login.microsoftonline.com; path=/; secure; HttpOnly; SameSite=None&#xd;
+Set-Cookie: ESTSAUTHLIGHT=+48c2f19b-d6d5-4021-8ed6-9c6a7c677f61; path=/; secure; SameSite=None&#xd;
+Set-Cookie: buid=0.ATkAAss8qTOOOUSL1eGcCsH9GwIAAAAAAPEPzgAAAAAAAAA5AHE.AQABGgEAAADW6jl31mB3T7ugrWTT8pFe10oQnNm6_M6OjQ4rOIJGAFaqeBvYE6S-HfOPVFLEsA1HtWYzY_SHqE2IDuKlhqp6jBKc78z-HQbOODddpSS6tT8q1ug_AMqBsh0n4x0I37zlLsQR80nsBp1A8DzK3BhghgZn6lDl6IhTI6VRTfsfqfTJlERox1ZhzDU9LxntUdAgAA; expires=Thu, 31-Oct-2024 21:49:12 GMT; path=/; secure; HttpOnly; SameSite=None&#xd;
+Set-Cookie: CCState=Q3JRQkNoVmhMbVZqYkdWdlFIUnlhV05sYm5ScGN5NWpiMjBTQVFFaUNRa0FPTzF1djh2Y1NDb0pDZE5XT0pHMjV0eElNaW9LRWdvUUF3QUFBQUFBOFEvT0FBQUFBQUFBQUJJSkNaT0VaUHNNNU54SUdna0p2ZWdFTDdMaDNFZ3lLZ29TQ2hBQ0FBQUFBQUR4RDg0QUFBQUFBQUFBRWdrSmxPR3FyNzNrM0VnYUNRbThYMGpqWXVMY1NEZ0FTQUJTRWdvUUFzczhxVE9PT1VTTDFlR2NDc0g5RzFvU0NoQ1VMWFVLcXZvK1NZTGsrT0Nrc0VacUVoSUtFRDZFM3ZVZkYvOUlqM09ZL05RSkFoVWFDUW04WDBqall1TGNTREorQWdBQkh3RUFBQURXNmpsMzFtQjNUN3VncldUVDhwRmVBd0RzL3dVQTlQOGkxUENkQWV0bFRhQm9wVTRNNjN0NkJ3bC91TFljNFVVdXF2aXN1alhZdjRSR0thM01sT3BENFFsR3ZvUFY2SnM4NFZYemwxdmtYY2VtMlhWb1JZRG1id2tEVFZ6Tll0N05JL3ZrU0NkWWZMcVZzN1BkazF1YkxvNm9MQllF; domain=.login.microsoftonline.com; expires=Fri, 11-Oct-2024 21:49:12 GMT; path=/; secure; HttpOnly; SameSite=None&#xd;
+Set-Cookie: SignInStateCookie=CAgABFgIAAADW6jl31mB3T7ugrWTT8pFeAwDs_wUA9P_f6qYDLuE_TWUGJcpQKL6YGdYqR21yrHBrpT9C2QTlg6KMk5dJycsggpPGG_pRSeq840zbeKeUlJ6cWRPyrQjrPsh9pu5Nzrbl_7pL0tM2j98Z6AtPsF9WZE7oazbuTCUF7ozJnkwSMyuyF3Q6xKFISxuqZOd-k-DtwGOsqrDxHY6nxLDPT6vof_ZsA4wJUeFbeLYySU3eT71Hx0gEsp-VbYBYpf92RoKBCrKvNt56yrlJASDtaekrixGH; domain=.login.microsoftonline.com; path=/; secure; HttpOnly; SameSite=None&#xd;
+Set-Cookie: fpc=Atdvon2E0sVMiVYLdJV6ra3L-jSAAQAAAP1kjt4OAAAA2IdwqgEAAACtYY7eDgAAAEIsla0BAAAAt2GO3g4AAAA; expires=Thu, 31-Oct-2024 21:49:12 GMT; path=/; secure; HttpOnly; SameSite=None&#xd;
+Set-Cookie: esctx=PAQABBwEAAADW6jl31mB3T7ugrWTT8pFeN_V6bVlNI58ig1H47oecSLFBuFSHD9SVrI1-5ZiQsI-ROvAP-lA6VPxXBOxE1I50C6HteIZHzFZsVm805pNrRi_AUilc_wSLh6P_m_DRZcizM4Q7Yw44fNDv8VsIb_4B3i25STOUCDVanFsDP6hj-c_f1yJRzz3SD6ubIdeRnqwgAA; domain=.login.microsoftonline.com; path=/; secure; HttpOnly; SameSite=None&#xd;
+Set-Cookie: x-ms-gateway-slice=estsfd; path=/; secure; samesite=none; httponly&#xd;
+Date: Tue, 01 Oct 2024 21:49:12 GMT&#xd;
+Content-Length: 2872</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c8d03834-36e7-4596-ab5d-2cc86b906159.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="browser.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="e7d42e45-ec75-4a5d-bcb0-3581f3111d07" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e7d42e45-ec75-4a5d-bcb0-3581f3111d07.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="client-id" recordRawValue="NO_AUTH" separator="="
+        value="NO_AUTH" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="client-version" recordRawValue="1DS-Web-JS-4.3.0"
+        separator="=" value="1DS-Web-JS-4.3.0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="apikey"
+        recordRawValue="56468f6991c348029c6bba403b444607-7f5d6cd1-7fbe-4ab1-be03-3b2b6aeb3eb4-7696"
+        separator="="
+        value="56468f6991c348029c6bba403b444607-7f5d6cd1-7fbe-4ab1-be03-3b2b6aeb3eb4-7696" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="upload-time" recordRawValue="1727819349730" separator="="
+        value="1727819349730" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="time-delta-to-apply-millis"
+        recordRawValue="use-collector-delta" separator="="
+        value="use-collector-delta" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="NoResponseBody" recordRawValue="true" separator="="
+        value="true" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+Content-Length: 0&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 3518&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:12 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"clientstartupother","time":"2024-10-01T21:49:09.727Z","ver":"4.0","iKey":"o:56468f6991c348029c6bba403b444607","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0"},"metadata":{"f":{"StatusCode":{"t":6},"RedirectCount":{"t":6}}}},"data":{"baseData":{"properties":{"version":"PostChannel=4.3.0"}},"AppName":"Mail","UserAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","ExplicitLogon":false,"Puid":"10032003BCB8E734","TenantGuid":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","MBXGuid":"87390b02-baa2-48df-a975-6a3e94c5bec5","IsPremium":"0","ClientId":"B48350CA338146FE897268A45767AB29","RefUrl":"outlook.office.com%2Fmail%2F","ClientVersion":"20240920004.12","BEServer":"OSZP286MB1776","FEServer":"TYCP286CA0349","ThroughEdge":"0","ServiceVersion":"Unknown","Dag":"JPNP286DG105","Forest":"JPNP286","DeployRing":"WW","Session.Id":"cc1627bf-7835-4541-bfd2-9a3654860d53","PhysicalRing":"SIP","VariantEnv":"Prod","BrowserName":"Edge Anaheim","Host":"(none)","BrowserVersion":"129,0,0,0","OsName":"Windows","OsVersion":"10","IsConsumer":false,"Layout":"Desktop","DeviceInfo":"{\"cores\":12,\"effectiveType\":\"4g\",\"downlink\":6.4,\"rtt\":150}","ErrorType":"ServerError","ErrorSource":"StartupData","Error":"Error: 401","ExtraErrorInfo":"Error: 401\n    at Object.s [as createStatusErrorMessage] (https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mailindex.0bf2b68b.js:1:126286)\n    at https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mailindex.0bf2b68b.js:1:138406","StatusCode":401,"BootResult":"auth","BottleneckTiming":"{\"start\":\"fonts:0|js:158|\"}","Bottlenecks":"{\"lc_s\":\"ls\",\"start\":\"js\"}","Layers":"{\"imprt\":3.799999952316284,\"rbsp\":0,\"mjs\":177}","BootType":"SwCache","Diagnostics":"|Unhandled Rejection: SyntaxError: Unexpected end of JSON input:undefined|Unhandled Rejection: Error: 401:undefined","RedirectCount":0,"MiscData":"&vm=true&sp=https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/&ehk=undefined&msg=null&bf=localStorageOwaPrefix,fwk-analytics-addons,dev-offlineMultiAccountDB,fwk-skipnavbardataonhosted,cal-widgets-upn-validation,auth-cacheTokenForMetaOsHub,auth-msaljs-landingpage,bootflight1,shellmultiorigin,cal-perf-eventsinstartupdata,fwk-skipnavbardataonhosted,cal-perf-useassumeoffset,cal-perf-eventsinofflinestartupdata,acct-add-account-e1-improvement,auth-cachetokenformetaoshub,cal-perf-eventsinstartupdatabyviewtype,workerasyncload,auth-msaljs-findtime&req=https%3A%2F%2Foutlook.office.com%2Fowa%2Fstartupdata.ashx%3Fapp%3DMail%26n%3D0&X-CalculatedBETarget=OSZP286MB1776.JPNP286.PROD.OUTLOOK.COM&X-OWA-CorrelationId=accountPolicy_bd8685f2-5f42-9ac7-8215-28d035ae0504&content-length=0&x-diaginfo=OSZP286MB1776&x-besku=WCS7&x-owa-diagnosticsinfo=8;0;0;&rt=basic&nt=0&swVer=35&cdnProvider=Akamai&nextHopProtocol=h3&cacheResult=Valid&cacheAge=54599717&cacheVer=20240920004.12&cacheHost=undefined","Timings":"{\"rbsp_s\":87,\"imprt_e\":87,\"imprt_s\":83.20000004768372,\"rbsp_e\":87,\"sd_s\":87,\"mjs_s\":89,\"mjs_e\":266,\"btsp_s\":270,\"in_e\":26,\"mi_s\":38.40000009536743,\"mi_e\":65.60000014305115}","Memory":"{\"rbsp_s\":{\"size\":6325092},\"imprt_e\":{\"size\":6325092},\"imprt_s\":{\"size\":6325092},\"rbsp_e\":{\"size\":6325092},\"sd_s\":{\"size\":6325092},\"mjs_s\":{\"size\":6325092},\"mjs_e\":{\"size\":27539761},\"btsp_s\":{\"size\":27539761}}"}}
+{"name":"bootevalerror","time":"2024-10-01T21:49:09.727Z","ver":"4.0","iKey":"o:56468f6991c348029c6bba403b444607","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0"},"metadata":{"f":{"StatusCode":{"t":6}}}},"data":{"baseData":{"properties":{"version":"PostChannel=4.3.0"}},"AppName":"Mail","UserAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","ExplicitLogon":false,"Puid":"10032003BCB8E734","TenantGuid":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","MBXGuid":"87390b02-baa2-48df-a975-6a3e94c5bec5","IsPremium":"0","ClientId":"B48350CA338146FE897268A45767AB29","RefUrl":"outlook.office.com%2Fmail%2F","ClientVersion":"20240920004.12","BEServer":"OSZP286MB1776","FEServer":"TYCP286CA0349","ThroughEdge":"0","ServiceVersion":"Unknown","Dag":"JPNP286DG105","Forest":"JPNP286","DeployRing":"WW","Session.Id":"cc1627bf-7835-4541-bfd2-9a3654860d53","PhysicalRing":"SIP","VariantEnv":"Prod","BrowserName":"Edge Anaheim","Host":"(none)","BrowserVersion":"129,0,0,0","OsName":"Windows","OsVersion":"10","IsConsumer":false,"Layout":"Desktop","DeviceInfo":"{\"cores\":12,\"effectiveType\":\"4g\",\"downlink\":6.4,\"rtt\":150}","ErrorType":"ServerError","ErrorSource":"StartupData","Error":"Error: 401","ExtraErrorInfo":"Error: 401\n    at Object.s [as createStatusErrorMessage] (https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mailindex.0bf2b68b.js:1:126286)\n    at https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mailindex.0bf2b68b.js:1:138406","StatusCode":401,"BootResult":"auth","BottleneckTiming":"{\"start\":\"fonts:0|js:158|\"}","Bottlenecks":"{\"lc_s\":\"ls\",\"start\":\"js\"}","Layers":"{\"imprt\":3.799999952316284,\"rbsp\":0,\"mjs\":177}","BootType":"SwCache"}}
+{"name":"bootevalerror","time":"2024-10-01T21:49:09.727Z","ver":"4.0","iKey":"o:56468f6991c348029c6bba403b444607","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0"},"metadata":{"f":{"StatusCode":{"t":6}}}},"data":{"baseData":{"properties":{"version":"PostChannel=4.3.0"}},"AppName":"Mail","UserAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","ExplicitLogon":false,"Puid":"10032003BCB8E734","TenantGuid":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","MBXGuid":"87390b02-baa2-48df-a975-6a3e94c5bec5","IsPremium":"0","ClientId":"B48350CA338146FE897268A45767AB29","RefUrl":"outlook.office.com%2Fmail%2F","ClientVersion":"20240920004.12","BEServer":"OSZP286MB1776","FEServer":"TYCP286CA0349","ThroughEdge":"0","ServiceVersion":"Unknown","Dag":"JPNP286DG105","Forest":"JPNP286","DeployRing":"WW","Session.Id":"cc1627bf-7835-4541-bfd2-9a3654860d53","PhysicalRing":"SIP","VariantEnv":"Prod","BrowserName":"Edge Anaheim","Host":"(none)","BrowserVersion":"129,0,0,0","OsName":"Windows","OsVersion":"10","IsConsumer":false,"Layout":"Desktop","DeviceInfo":"{\"cores\":12,\"effectiveType\":\"4g\",\"downlink\":6.4,\"rtt\":150}","ErrorType":"ServerError","ErrorSource":"StartupData","Error":"Error: 401","ExtraErrorInfo":"Error: 401\n    at Object.s [as createStatusErrorMessage] (https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mailindex.0bf2b68b.js:1:126286)\n    at https://res.public.onecdn.static.microsoft/owamail/hashed-v1/scripts/owa.mailindex.0bf2b68b.js:1:138406","StatusCode":401,"BootResult":"auth","BottleneckTiming":"{\"start\":\"fonts:0|js:158|\"}","Bottlenecks":"{\"lc_s\":\"ls\",\"start\":\"js\"}","Layers":"{\"imprt\":3.799999952316284,\"rbsp\":0,\"mjs\":177}","BootType":"SwCache"}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/clog/track/" path="/clog/track/"
+    postCharset="iso-8859-1" postType="3"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c8d03834-36e7-4596-ab5d-2cc86b906159.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="tricentis.slack.com" slaProfileEnabled="false"
+    uid="fa2a2362-bef5-40f9-af3e-3eaadc38d6c6" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[LS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bnRBRTBOOEgzQjBpdmNkNg0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJsb2dzIg0KDQpbeyJ0c3RhbXAiOjE3Mjc4MTkzNDA2NjUsImV2ZW50IjoiU0VTU0lPTl9FTkQiLCJhcmdzIjp7ImNvbnRleHRzIjp7ImRlc2t0b3AiOnsiaW5zdGFuY2VVaWQiOiJjMDE1MzJjZi03ZDc5LTRhM2ItODc3NS03OTQwY2MyMTdkNjciLCJyZWxlYXNlQ2hhbm5lbCI6InByb2QifX19LCJ1c2VyX2lkIjoiVTA3Sk1CSFZBTjgiLCJ0ZWFtX2lkIjoiVDAzSzMxUTgzIiwiY2xpZW50X3Nlc3Npb24iOnsidWlkIjoiS1lTWHQ1MjZrRWMiLCJ0aW1lc3RhbXBfc3RhcnQiOjE3Mjc4MTkyMzIsInRpbWVzdGFtcF9yZWZyZXNoIjoxNzI3ODE5MjM4LCJzZWNvbmRzX29mZmxpbmUiOjAsInZlcnNpb24iOjB9LCJpMThuX2xvY2FsZSI6ImVuLVVTIiwic3ViX2FwcF9uYW1lIjoiY2xpZW50In1dDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnludEFFME44SDNCMGl2Y2Q2DQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Im8iDQoNCmNsaWVudA0KLS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5bnRBRTBOOEgzQjBpdmNkNi0tDQo=]]></binaryPostContentBase64>
+    <requestContentFileDescription>recorded-requests/req_fa2a2362-bef5-40f9-af3e-3eaadc38d6c6.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="origin" value="https://app.slack.com"/>
+    <header name="priority" value="u=0, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Not;A=Brand&quot;;v=&quot;24&quot;, &quot;Chromium&quot;;v=&quot;128&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="content-type" value="multipart/form-data; boundary=----WebKitFormBoundaryntAE0N8H3B0ivcd6"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0.22631; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Slack/4.40.128 Chrome/128.0.6613.84 Electron/32.0.2 Safari/537.36 OS_Product/Workstation Servicing_Channel/SAC MSQ Sonic Slack_SSB/4.40.128"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Tue, 01 Oct 2024 21:49:13 GMT&#xd;
+server: Apache&#xd;
+content-type: image/gif&#xd;
+cache-control: no-cache, no-store&#xd;
+access-control-allow-origin: *&#xd;
+report-to: {"max_age":86400,"include_subdomains":false,"endpoints":[{"url":"https://slackb.com/report-to"}]}&#xd;
+nel: {"max_age":86400,"report_to":"default","include_subdomains":false,"success_fraction":0,"failure_fraction":1}&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains; preload&#xd;
+referrer-policy: no-referrer&#xd;
+x-slack-unique-id: ZvxuWRmaaULdoQ1zdyvulQAAECU&#xd;
+x-slack-backend: r&#xd;
+x-frame-options: SAMEORIGIN&#xd;
+content-length: 29&#xd;
+via: 1.1 slack-prod.tinyspeck.com, envoy-www-iad-hszzvsmq, envoy-edge-sin-qtdhibcb&#xd;
+x-envoy-attempt-count: 1&#xd;
+x-envoy-upstream-service-time: 217&#xd;
+x-backend: beacons_normal beacons_canary_with_overflow beacons_control_with_overflow&#xd;
+x-server: slack-www-hhvm-beacons-iad-ijku&#xd;
+x-slack-shared-secret-outcome: no-match&#xd;
+x-edge-backend: envoy-www&#xd;
+x-slack-edge-shared-secret-outcome: no-match</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <multiparts>
+        <multipart-string name="logs" recordRawValue=""
+            value="[{&quot;tstamp&quot;:1727819340665,&quot;event&quot;:&quot;SESSION_END&quot;,&quot;args&quot;:{&quot;contexts&quot;:{&quot;desktop&quot;:{&quot;instanceUid&quot;:&quot;c01532cf-7d79-4a3b-8775-7940cc217d67&quot;,&quot;releaseChannel&quot;:&quot;prod&quot;}}},&quot;user_id&quot;:&quot;U07JMBHVAN8&quot;,&quot;team_id&quot;:&quot;T03K31Q83&quot;,&quot;client_session&quot;:{&quot;uid&quot;:&quot;KYSXt526kEc&quot;,&quot;timestamp_start&quot;:1727819232,&quot;timestamp_refresh&quot;:1727819238,&quot;seconds_offline&quot;:0,&quot;version&quot;:0},&quot;i18n_locale&quot;:&quot;en-US&quot;,&quot;sub_app_name&quot;:&quot;client&quot;}]" valueMode="USE_VALUE"/>
+        <multipart-string name="o" recordRawValue="" value="client" valueMode="USE_VALUE"/>
+    </multiparts>
+</http-action>

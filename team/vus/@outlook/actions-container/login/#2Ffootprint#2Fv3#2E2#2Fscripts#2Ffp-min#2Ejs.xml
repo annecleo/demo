@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/footprint/v3.2/scripts/fp-min.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b2e412ab-b332-4552-a189-c943033ec5c4.zip"
+    slaProfileEnabled="false" thinkTime="625"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b2e412ab-b332-4552-a189-c943033ec5c4">
+    <embedded-action>44afdb69-8870-4dc6-a412-c4cd0002df6a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b2e412ab-b332-4552-a189-c943033ec5c4.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/x-javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/footprint/v3.2/scripts/fp-min.js"
+    path="/footprint/v3.2/scripts/fp-min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b2e412ab-b332-4552-a189-c943033ec5c4.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="r4.res.office365.com" slaProfileEnabled="false"
+    uid="44afdb69-8870-4dc6-a412-c4cd0002df6a" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_44afdb69-8870-4dc6-a412-c4cd0002df6a.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="if-modified-since" value="Wed, 11 Sep 2019 02:38:57 GMT"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="priority" value="i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 304&#xd;
+content-type: application/x-javascript&#xd;
+last-modified: Wed, 11 Sep 2019 02:38:57 GMT&#xd;
+cache-control: public,max-age=86400, s-maxage=86400&#xd;
+date: Tue, 01 Oct 2024 21:49:15 GMT&#xd;
+timing-allow-origin: *&#xd;
+access-control-allow-origin: *&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

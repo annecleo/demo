@@ -1,0 +1,75 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/images/sbi"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b4d36726-039f-43a9-ba46-bf040800b776.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b4d36726-039f-43a9-ba46-bf040800b776">
+    <embedded-action>7d74fea3-bdbd-431e-9972-b67fcfd4d6e7</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/images/sbi" path="/images/sbi" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path/%resources%/recorded-artifacts/b4d36726-039f-43a9-ba46-bf040800b776.zip"
+    recordedResponseCode="200" responseSize="50660"
+    serverUid="www.bing.com" slaProfileEnabled="false"
+    uid="7d74fea3-bdbd-431e-9972-b67fcfd4d6e7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_7d74fea3-bdbd-431e-9972-b67fcfd4d6e7.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_7d74fea3-bdbd-431e-9972-b67fcfd4d6e7.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="mmasync"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ig"
+        recordRawValue="80BE5B1423BA47A790ACC22DCA0F4A52" separator="="
+        value="80BE5B1423BA47A790ACC22DCA0F4A52" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="iid"
+        recordRawValue=".5095" separator="=" value=".5095" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ptn"
+        recordRawValue="Web" separator="=" value="Web" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="ep"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="iconpl"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="referer" value="https://www.bing.com/search?q=googl&amp;cvid=6a2e719ba6fe469a9069d9a27414fb2b&amp;gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDwyBggDEEUYPDIGCAQQRRg80gEHNjYwajBqNKgCCLACAQ&amp;FORM=ANAB01&amp;PC=U531"/>
+    <header name="sec-ch-ua-arch" value="&quot;x86&quot;"/>
+    <header name="sec-fetch-site" value="same-origin"/>
+    <header name="cookie" value="Imported_MUID=3FE276D3CA3D666D1FCE623CCB3C67FB; MUID=17E57C38E0606ECD05D768D7E1FD6FDC; MUIDB=17E57C38E0606ECD05D768D7E1FD6FDC; _EDGE_V=1; SRCHD=AF=NOFORM; SRCHUID=V=2&amp;GUID=320B22A0A123417FADF95C9D4184495A&amp;dmnchg=1; ANON=A=10FDA497EADBA674526E732BFFFFFFFF; SRCHUSR=DOB=20240903&amp;T=1725344400000; MSPTC=ekpjWCCDQuznCpjmWnDMSDCBzcfQMj3BLNE2yr6Wct8; BFBUSR=BAWAS=1&amp;BAWFS=1; BFB=AxCbXO7GC8yzQuK-DB0diX6R1JWr9SLejxSkxon37ckGzKqfcmY7PsAavK8qQpT54_c_C979VtFqkPGyocMLkp9KCQC-WgMZS-ZEfHj3JAQAJ5TCa7WU7MwOOeTQ1py_WDt-KWWNF8UADW4Qi13Ch6wV4WnvitpY3FxSMEAso-gN07xrUdVJmOgqb4nEnbXK-NU; OID=AxB34FqfJ6t9WiZZ9ZONElLsaAWH6gbwOfS-_yZSfN1beclxcsjUVwyyp7hQ8tj8tISwqPfo0FRLZ7uNqIyxcFtV; OIDI=AxD_x3agcu_DqIFNFWN3AzCHwyRxHcXlMm7BLAknDQkzhw; ABDEF=V=13&amp;ABDV=13&amp;MRNB=1726665651840&amp;MRB=0; _RwBf=r=0&amp;ilt=0&amp;ihpd=0&amp;ispd=0&amp;rc=12&amp;rb=12&amp;gb=0&amp;rg=0&amp;pc=12&amp;mtu=0&amp;rbb=0.0&amp;g=0&amp;cid=&amp;clo=0&amp;v=1&amp;l=2024-09-27T07:00:00.0000000Z&amp;lft=0001-01-01T00:00:00.0000000&amp;aof=0&amp;ard=0001-01-01T00:00:00.0000000&amp;rwdbt=-62135539200&amp;rwflt=-62135539200&amp;o=0&amp;p=BINGCOPILOTWAITLIST&amp;c=MR000T&amp;t=1451&amp;s=2024-09-03T01:15:55.4877391+00:00&amp;ts=2024-09-27T09:58:06.3539745+00:00&amp;rwred=0&amp;wls=2&amp;wlb=0&amp;wle=0&amp;ccp=2&amp;cpt=0&amp;lka=0&amp;lkt=0&amp;aad=0&amp;TH=&amp;mta=0&amp;rwaul2=0&amp;e=zr2twRSIsixXXdkhlkyymYP2Pc6nCMok6qAsNb-47KppQkO6UMFM-yPbHJcqqYo42S16ftQPr3Fq9X1lAtQB1A&amp;A=10FDA497EADBA674526E732BFFFFFFFF; EDGSRCHHPGUSR=CIBV=1.1814.0; MUIDB=17E57C38E0606ECD05D768D7E1FD6FDC; _EDGE_S=SID=22D69420D35268CE06F6812CD2CF69C5; WLS=C=73bdcedd4f920409&amp;N=Ann+Jennifer; _U=1NWIPFd1pmEHGtQ6LRiSgUcAyrFIsYt3PBOzYaYeIFAcsVsUWYdvELOJL2MsCsgLL09icdYS1bHNdms8ZWW-uNh-Hw0DeVUKqQomoXdyNkJqIHM4v6rSsmfeww6Z-LSnw2u16UIduhGLM2xPKQI73TPi0tF536KglV0ACwpow3rTOnTpSNAnTMRW5i-F_MmFuCU8Fjy6PwXlP71taSch3eaQW4PfHqwI9pg7kA6bCFwE; _SS=SID=22D69420D35268CE06F6812CD2CF69C5&amp;PC=U531; SRCHS=PC=U531; ak_bmsc=E6F9A0C4A91B40D9CE6AD38F9301BE4B~000000000000000000000000000000~YAAQDmtHOqYZ/S+SAQAApxDpUBlIPUxuo6mJhcKs6lNMrdurF+9qm2Smyb1dU+L1u4qC0BUkySfgsmrGNVz3XIC7LmvQWM0BMWsAt0L+i3uWCb1TXdEaBfwjqtSBpHDHJ2jjZ0stoUro/GjlYVXUFmLY6vseLWiiPtzABflR8hbHimyfDiXCyvmOZF2htr/KhnZl2uinIOiLdgTWcYX2x4v2Z7kyAhlMpxUiNk+oM3NCcvE0GZObKFjXXth3wABY5wQa68Xmm3gWMxcFKFqdOFBue/M2+yuRS0Kq8/kFtgqNTFW5vDUqPRKQ6NZkoJEFimegSic1lJMNHUW/6V6BpxqtXkYGvqTSotpUpfJtNQpNIVZ/LVbtUp4TOjkWaGBIamw6TCY36aQ=; SRCHHPGUSR=SRCHLANG=en&amp;DM=0&amp;IG=80BE5B1423BA47A790ACC22DCA0F4A52&amp;PV=15.0.0&amp;BRW=XW&amp;BRH=M&amp;CW=1912&amp;CH=920&amp;SCW=1897&amp;SCH=3878&amp;DPR=1.0&amp;UTC=480&amp;THEME=0&amp;WEBTHEME=0&amp;CIBV=1.1814.0&amp;EXLTT=11&amp;HV=1727740292&amp;PRVCW=367&amp;PRVCH=820; USRLOC=HS=1&amp;ELOC=LAT=14.549324989318848|LON=121.0573959350586|N=Makati%2C%20National%20Capital%20Region|ELT=10|&amp;BID=MjQxMDAzMTAwOTM5X2Y3OThlNjgzNDBjMTYxNmRhYzI2NjA3MzliMDk3MDM2YjI2MzZhYjcxZjE4ZDE3OWMwOGJmOGM2NmQ3NjQ3YzY="/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="sec-ms-gec-version" value="1-129.0.2792.65"/>
+    <header name="sec-ms-gec" value="0FB0272FAC62F98A481D67679C939E940E0E7993A63B29F526357579FF02B428"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-full-version-list" value="&quot;Microsoft Edge&quot;;v=&quot;129.0.2792.65&quot;, &quot;Not=A?Brand&quot;;v=&quot;8.0.0.0&quot;, &quot;Chromium&quot;;v=&quot;129.0.6668.71&quot;"/>
+    <header name="x-client-data" value="eyIxIjoiMyIsIjEwIjoiXCI0cmREbmN6YVZKTnV5MGc2VU9aTW5CNFJZdHRtRGRjQkhVT3BDM0dhSTFRPVwiIiwiMiI6IjEiLCIzIjoiMSIsIjQiOiI2MDQ2ODU2NzAzMjIwMjAyMTcwIiwiNSI6IlwiVk5idEx5eENLZXNRZjM0UWVrVHdHVG4xWm9neVM0VzhuR24waDQwY3NnND1cIiIsIjYiOiJzdGFibGUiLCI3IjoiMjE0NzQ4MzY0ODE5IiwiOSI6ImRlc2t0b3AifQ=="/>
+    <header name="ect" value="4g"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="sec-ch-ua-bitness" value="&quot;64&quot;"/>
+    <header name="sec-ch-ua-model" value="&quot;&quot;"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-ch-ua-platform-version" value="&quot;15.0.0&quot;"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-ch-ua-full-version" value="&quot;129.0.2792.65&quot;"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 17754&#xd;
+content-type: text/html; charset=utf-8&#xd;
+cache-control: private&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+x-eventid: 66fe2f6115b24ab4aa155f697782ba90&#xd;
+accept-ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, ECT, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA&#xd;
+useragentreductionoptout: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=&#xd;
+content-security-policy: script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-SU2hD5gnPuFBUQ3Sk9ayG6gXiIqRSvriqM0MFLfTPx8='; base-uri 'self';report-to csp-endpoint&#xd;
+report-to: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}&#xd;
+p3p: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"&#xd;
+date: Thu, 03 Oct 2024 05:45:05 GMT&#xd;
+alt-svc: h3=":443"; ma=93600&#xd;
+x-cdn-traceid: 0.0e6b473a.1727934305.1f0bec25</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

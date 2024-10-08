@@ -1,0 +1,5 @@
+<http-server hostname="static.edge.microsoftapp.net" port="443"
+    ssl="true" uid="static.edge.microsoftapp.net"
+    urlrewriting-argument-name="" urlrewriting-enabled="false"
+    urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

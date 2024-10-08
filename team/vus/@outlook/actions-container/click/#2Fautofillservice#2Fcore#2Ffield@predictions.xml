@@ -1,0 +1,101 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/autofillservice/core/fieldPredictions"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/2ca44026-8698-4def-8724-fb6c4c6d697a.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2ca44026-8698-4def-8724-fb6c4c6d697a">
+    <embedded-action>d994a033-de12-4efe-9cdb-995555b3875c</embedded-action>
+    <embedded-action>43eb0dc1-f8a8-44a2-9928-2bb9870ff163</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_2ca44026-8698-4def-8724-fb6c4c6d697a.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/autofillservice/core/fieldPredictions"
+    path="/autofillservice/core/fieldPredictions" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/2ca44026-8698-4def-8724-fb6c4c6d697a.zip"
+    recordedResponseCode="200" responseSize="211"
+    serverUid="edge.microsoft.com" slaProfileEnabled="false"
+    uid="d994a033-de12-4efe-9cdb-995555b3875c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d994a033-de12-4efe-9cdb-995555b3875c</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d994a033-de12-4efe-9cdb-995555b3875c.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="CIdAlgoVersion" recordRawValue="2" separator="=" value="2" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-client-data" value="CLUICLMQCLmRywE="/>
+    <header name="content-type" value="application/json"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: max-age=0, no-cache, no-store, must-revalidate&#xd;
+content-length: 211&#xd;
+content-type: application/json; charset=utf-8&#xd;
+x-cache: CONFIG_NOCACHE&#xd;
+x-msedge-ref: Ref A: 6286753F634A447B8A881FF2B3CF0438 Ref B: TYO01EDGE2009 Ref C: 2024-10-01T21:49:21Z&#xd;
+date: Tue, 01 Oct 2024 21:49:20 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"formRequests":[{"domainSign":"169495651919385527","fieldSignsFilter":["-8138885745608955178"],"formSign":"-8522277208407826879"}]}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/OneCollector/1.0/" path="/OneCollector/1.0/"
+    postContentUnzipped="true" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/2ca44026-8698-4def-8724-fb6c4c6d697a.zip"
+    recordedResponseCode="200" responseSize="153"
+    serverUid="eu-office.events.data.microsoft.com"
+    slaProfileEnabled="false" uid="43eb0dc1-f8a8-44a2-9928-2bb9870ff163" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_43eb0dc1-f8a8-44a2-9928-2bb9870ff163</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_43eb0dc1-f8a8-44a2-9928-2bb9870ff163.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true" name="cors"
+        recordRawValue="true" separator="=" value="true" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="content-type" recordRawValue="application/x-json-stream"
+        separator="=" value="application/x-json-stream" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="w"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="upload-time" value="1727819360640"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="cookie" value="MC1=GUID=310012008ff44c689980d3e084ba48ae&amp;HASH=3100&amp;LV=202409&amp;V=4&amp;LU=1725326153580; MS0=d103b3a2099b4e1a8b766b9016b1e555"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="apikey" value="56468f6991c348029c6bba403b444607-7f5d6cd1-7fbe-4ab1-be03-3b2b6aeb3eb4-7696"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="content-encoding" value="gzip"/>
+    <header name="client-version" value="1DS-Web-JS-4.3.0"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="time-delta-to-apply-millis" value="use-collector-delta"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/x-json-stream"/>
+    <header name="client-id" value="NO_AUTH"/>
+    <header name="cache-control" value="no-cache, no-store"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 153&#xd;
+content-type: application/json&#xd;
+server: Microsoft-HTTPAPI/2.0&#xd;
+strict-transport-security: max-age=31536000&#xd;
+time-delta-millis: 1029&#xd;
+access-control-allow-headers: time-delta-millis&#xd;
+access-control-allow-methods: POST&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-expose-headers: time-delta-millis&#xd;
+date: Tue, 01 Oct 2024 21:49:20 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"name":"client_event","time":"2024-10-01T21:49:14.087Z","ver":"4.0","iKey":"o:56468f6991c348029c6bba403b444607","ext":{"sdk":{"ver":"1DS-Web-JS-4.3.0","seq":1,"epoch":"2214667060"},"app":{"ver":"20240920004.12","sesId":"1e249e5e-535a-46a8-ba14-e1f78a47f4db"},"user":{"locale":"en-US"},"web":{"screenRes":"0X0","userConsent":false},"os":{"ver":"14.0"},"intweb":{},"utc":{"popSample":100},"loc":{"tz":"+08:00"},"metadata":{"f":{"SequenceNumber":{"t":6},"SessionOccurences":{"t":6},"SessionElapseTime":{"t":6},"E2ETimeElapsed":{"t":6},"Sampled":{"t":6}}}},"data":{"baseData":{"properties":{"version":"PostChannel=4.3.0;SystemPropertiesCollector=4.3.0"}},"App":"Mail","EventName":"UpdateGroupsToggle","SequenceNumber":93,"SessionOccurences":1,"SessionElapseTime":1,"OriginalThread":"MAIN_THREAD","E2ETimeElapsed":531,"Health":"{\"rc\":0,\"ls\":0,\"md\":10607,\"c\":12}","Status":"Success","EventType":"standard","Sampled":100,"MiscData":"{\"entryPoint\":\"Default\",\"actionSource\":\"Default\",\"value\":true,\"version\":\"A\"}","diagnostics":"{\"UpdateCachesFromMainThreadIsRegistered\":true,\"EndpointUrl\":\"https://eu-office.events.data.microsoft.com/OneCollector/1.0/\"}","BEServer":"DB9PR07MB8728","MBXGuid":"87390b02-baa2-48df-a975-6a3e94c5bec5","Forest":"EURPRD07","Puid":"10032003BCB8E734","ClientId":"B48350CA338146FE897268A45767AB29","Ring":"WW","UserType":"b_standard","Layout":"Desktop","TenantGuid":"a93ccb02-8e33-4439-8bd5-e19c0ac1fd1b","Session.Id":"1e249e5e-535a-46a8-ba14-e1f78a47f4db","PhysicalRing":"SIP","VariantEnv":"Prod","Host":"(none)","Thread":"ANALYTICS_WORKER_THREAD"}}]]></textPostContent>
+</http-action>

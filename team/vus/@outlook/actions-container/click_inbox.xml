@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="click_inbox" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="f02e0256-f01c-4765-af70-704ce8fb86bc" weightsEnabled="false">
+    <weighted-embedded-action uid="98dd78e4-8bb2-4bd8-b371-36f7442991b3"/>
+    <weighted-embedded-action uid="574c3927-3183-46a4-a4bd-bfb402d23d1c"/>
+    <weighted-embedded-action uid="2c1cab26-a251-4a8d-888d-2439f050700d"/>
+    <weighted-embedded-action uid="2174cbbc-cde2-43ce-80a9-3d96cca01875"/>
+    <weighted-embedded-action uid="bbf55848-2b37-422c-ac9f-9bb58e5bd51f"/>
+</basic-logical-action-container>

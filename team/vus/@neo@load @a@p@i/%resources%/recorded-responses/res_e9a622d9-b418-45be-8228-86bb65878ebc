@@ -1,0 +1,45 @@
+[ {
+  "id" : "hIugt",
+  "name" : "zone name",
+  "type" : "STATIC",
+  "controllers" : [ {
+    "name" : "resource.domain.com:7100",
+    "version" : "7.0.2",
+    "status" : "AVAILABLE"
+  }, {
+    "name" : "resource.domain.com:7100",
+    "version" : "7.0.2",
+    "status" : "AVAILABLE"
+  } ],
+  "loadgenerators" : [ {
+    "name" : "resource.domain.com:7100",
+    "version" : "7.0.2",
+    "status" : "AVAILABLE"
+  }, {
+    "name" : "resource.domain.com:7100",
+    "version" : "7.0.2",
+    "status" : "AVAILABLE"
+  } ]
+}, {
+  "id" : "hIugt",
+  "name" : "zone name",
+  "type" : "STATIC",
+  "controllers" : [ {
+    "name" : "resource.domain.com:7100",
+    "version" : "7.0.2",
+    "status" : "AVAILABLE"
+  }, {
+    "name" : "resource.domain.com:7100",
+    "version" : "7.0.2",
+    "status" : "AVAILABLE"
+  } ],
+  "loadgenerators" : [ {
+    "name" : "resource.domain.com:7100",
+    "version" : "7.0.2",
+    "status" : "AVAILABLE"
+  }, {
+    "name" : "resource.domain.com:7100",
+    "version" : "7.0.2",
+    "status" : "AVAILABLE"
+  } ]
+} ]

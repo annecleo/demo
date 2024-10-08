@@ -28,11 +28,11 @@
     <header name="Client-Id" value="NO_AUTH"/>
     <header name="Connection" value="Keep-Alive"/>
     <header name="Content-Encoding" value="deflate"/>
-    <header name="Content-Type" value="application/bond-compact-binary"/>
     <header name="Expect" value="100-continue"/>
     <header name="Host" value="self.events.data.microsoft.com"/>
     <header name="SDK-Version" value="EVT-Windows-C++-No-3.4.276.7"/>
     <header name="Upload-Time" value="1726452736125"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
     <responseHeaders>HTTP/1.1 200 OK&#xd;
 Content-Length: 9&#xd;
 Content-Type: application/json&#xd;

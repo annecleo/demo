@@ -1,0 +1,15 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST"
+    name="${neoload_api_base_path}/tests/${testId}/monitors"
+    path="${neoload_api_base_path}/tests/${testId}/monitors"
+    postType="4" serverUid="neoload_api_server"
+    slaProfileEnabled="false" uid="7f065136-f04c-4726-9bb9-5056fefe290a" useKeepAlive="false">
+    <header name="accountToken" value="${neoload_api_token}"/>
+    <header name="Content-Type" value="application/json"/>
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[Encoded(Base64):ew0KICAibW9uaXRvcnMiIDogWyB7DQogICAgIm5hbWUiIDogIm5hbWUiLA0KICAgICJwYXRoIiA6IFsgInBhdGgiLCAicGF0aCIgXSwNCiAgICAidW5pdCIgOiAidW5pdCIsDQogICAgInZhbHVlcyIgOiBbIHsNCiAgICAgICJ0aW1lc3RhbXAiIDogMSwNCiAgICAgICJ2YWx1ZSIgOiA4LjI4OTY1OTUNCiAgICB9LCB7DQogICAgICAidGltZXN0YW1wIiA6IDEsDQogICAgICAidmFsdWUiIDogOC4yODk2NTk1DQogICAgfSBdDQogIH0sIHsNCiAgICAibmFtZSIgOiAibmFtZSIsDQogICAgInBhdGgiIDogWyAicGF0aCIsICJwYXRoIiBdLA0KICAgICJ1bml0IiA6ICJ1bml0IiwNCiAgICAidmFsdWVzIiA6IFsgew0KICAgICAgInRpbWVzdGFtcCIgOiAxLA0KICAgICAgInZhbHVlIiA6IDguMjg5NjU5NQ0KICAgIH0sIHsNCiAgICAgICJ0aW1lc3RhbXAiIDogMSwNCiAgICAgICJ2YWx1ZSIgOiA4LjI4OTY1OTUNCiAgICB9IF0NCiAgfSBdDQp9]]></textPostContent>
+</http-action>

@@ -1,0 +1,65 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/v7/saves/edge/collections"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c0988094-408e-4438-8ce7-00181d584a2c.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="c0988094-408e-4438-8ce7-00181d584a2c">
+    <embedded-action>2705fbea-111b-4842-97bf-590df3478a60</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_c0988094-408e-4438-8ce7-00181d584a2c.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/v7/saves/edge/collections"
+    path="/api/v7/saves/edge/collections" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/c0988094-408e-4438-8ce7-00181d584a2c.zip"
+    recordedResponseCode="200" responseSize="75"
+    serverUid="www.bingapis.com" slaProfileEnabled="false"
+    uid="2705fbea-111b-4842-97bf-590df3478a60" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2705fbea-111b-4842-97bf-590df3478a60</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2705fbea-111b-4842-97bf-590df3478a60.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="appid"
+        recordRawValue="44A72CAAA7B8B99CBEF405BFAD4E9B24370F2853"
+        separator="=" value="44A72CAAA7B8B99CBEF405BFAD4E9B24370F2853" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="x-msedge-userid" value="10FDA497EADBA674526E732BFFFFFFFF"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="x-msedge-clientid" value="17E57C38E0606ECD05D768D7E1FD6FDC"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: private, max-age=0&#xd;
+content-length: 75&#xd;
+content-type: application/json&#xd;
+expires: Tue, 01 Oct 2024 21:48:11 GMT&#xd;
+p3p: CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"&#xd;
+set-cookie: MUID=17E57C38E0606ECD05D768D7E1FD6FDC; domain=.bingapis.com; expires=Sun, 26-Oct-2025 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: MUIDB=17E57C38E0606ECD05D768D7E1FD6FDC; expires=Sun, 26-Oct-2025 21:49:11 GMT; path=/; HttpOnly&#xd;
+set-cookie: _EDGE_S=F=1&amp;SID=35CE7A470AD169740B116F4C0BDE68BE; domain=.bingapis.com; path=/; HttpOnly&#xd;
+set-cookie: _EDGE_V=1; domain=.bingapis.com; expires=Sun, 26-Oct-2025 21:49:11 GMT; path=/; HttpOnly&#xd;
+set-cookie: USRLOC=HS=1; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; HttpOnly; SameSite=None&#xd;
+set-cookie: SRCHD=AF=NOFORM; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: SRCHUID=V=2&amp;GUID=AC58FC637A7947E896B921E0B16BF4D6&amp;dmnchg=1; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: SRCHUSR=DOB=20241001; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: SRCHHPGUSR=SRCHLANG=en; domain=.bingapis.com; expires=Thu, 01-Oct-2026 21:49:11 GMT; path=/; secure; SameSite=None&#xd;
+set-cookie: _SS=SID=35CE7A470AD169740B116F4C0BDE68BE; domain=.bingapis.com; path=/; secure; SameSite=None&#xd;
+x-eventid: 66fc6e57b8624be4b577406465b5d187&#xd;
+useragentreductionoptout: A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=&#xd;
+content-security-policy: script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-CZHwwlHAKqzGKU/ytQ2I02MSmd7Z0zTZfXCa4tI/BWs='; base-uri 'self';report-to csp-endpoint&#xd;
+report-to: {"group":"csp-endpoint","max_age":86400,"endpoints":[{"url":"https://aefd.nelreports.net/api/report?cat=bingcsp"}]}&#xd;
+bingapis-traceid: 66fc6e57b8624be4b577406465b5d187&#xd;
+bingapis-sessionid: AC58FC637A7947E896B921E0B16BF4D6&#xd;
+x-search-responseinfo: InternalResponseTime=16,MSDatacenter=PUSE01&#xd;
+x-cache: CONFIG_NOCACHE&#xd;
+accept-ch: Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform, Sec-CH-UA-Platform-Version&#xd;
+x-msedge-ref: Ref A: 2DB90CB80CA04195A205066B5F3F4B3B Ref B: TYO01EDGE1716 Ref C: 2024-10-01T21:49:11Z&#xd;
+date: Tue, 01 Oct 2024 21:49:11 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

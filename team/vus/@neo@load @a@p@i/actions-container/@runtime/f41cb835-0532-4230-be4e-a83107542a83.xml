@@ -1,0 +1,20 @@
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="${neoload_api_base_path_2}/projects"
+    path="${neoload_api_base_path_2}/projects" postType="3"
+    recordedResponseCode="200" serverUid="neoload_api_server_2"
+    slaProfileEnabled="false" uid="f41cb835-0532-4230-be4e-a83107542a83" useKeepAlive="false">
+    <responsePageFileDescription>team/vus/@neo@load @a@p@i/%resources%/recorded-responses/res_f41cb835-0532-4230-be4e-a83107542a83</responsePageFileDescription>
+    <header name="Content-Type" value="multipart/form-data"/>
+    <header name="accountToken" value="${neoload_api_token}"/>
+    <responseHeaders>HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 581</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <multiparts>
+        <multipart-file attachedFilename="" charSet="" contentType=""
+            filename="" name="file" transferEncoding=""/>
+    </multiparts>
+</http-action>

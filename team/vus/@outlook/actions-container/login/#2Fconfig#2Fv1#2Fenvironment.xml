@@ -1,0 +1,104 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/config/v1/environment" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/94170376-673d-4de2-a58d-86cc8a72ae03.zip"
+    slaProfileEnabled="false" thinkTime="904"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="94170376-673d-4de2-a58d-86cc8a72ae03">
+    <embedded-action>50e5d553-4dc9-45ac-acc7-bd28193771d2</embedded-action>
+    <embedded-action>5e947caf-ffae-4e59-a7bd-8ce7ff5cdc02</embedded-action>
+    <embedded-action>b345b438-842b-4112-9c69-0d86adf40c2e</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_94170376-673d-4de2-a58d-86cc8a72ae03.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/config/v1/environment"
+    path="/config/v1/environment" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/94170376-673d-4de2-a58d-86cc8a72ae03.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="titles.prod.mos.microsoft.com" slaProfileEnabled="false"
+    uid="50e5d553-4dc9-45ac-acc7-bd28193771d2" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_50e5d553-4dc9-45ac-acc7-bd28193771d2.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="authorization"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="GET"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+Content-Length: 0&#xd;
+access-control-allow-headers: authorization&#xd;
+access-control-allow-origin: *&#xd;
+access-control-max-age: 7200&#xd;
+access-control-allow-methods: GET&#xd;
+date: Tue, 01 Oct 2024 21:49:16 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/config/v1/environment"
+    path="/config/v1/environment" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/94170376-673d-4de2-a58d-86cc8a72ae03.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="titles.prod.mos.microsoft.com" slaProfileEnabled="false"
+    uid="5e947caf-ffae-4e59-a7bd-8ce7ff5cdc02" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_5e947caf-ffae-4e59-a7bd-8ce7ff5cdc02.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="authorization" value="Bearer eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ4NXQiOiJMYXJmMGp0ZGlMT1EtOFFaYUFYS3AxR2hwdGMiLCJ6aXAiOiJERUYifQ.JPqJPT5L6w2eKapBt_RqQlFfvqP1HyWSfhAOQYpFD84m8tE6v618q2yA7rsRgs632jDfxbaKc8K-DbKD6vA42-kHiOdFac994TB4ejYqEvLeqQCzEf3mgndaGGijg9dc4wHqar3pf4Y9PYYWLX7WOwyKNZy0MrV_FaKrUS8XCvEpS_oMSKAv5MPy0tk_5miiSZiTbnuW9cTTTpEJjsv9CRgLKof-EFjXoHr_PlRCW4awZEs6h9P1vdoZJlMhei06tRxsigPZ1vDfy8QPA8Q7CUyK2_8T8OkdxUkIceogpVbW6v6C1GZxhlCC_LyG99xSQ_e2B2AcD540qFIWTzfnvg.C_HPL3x5vjLv95uxmcUzAQ.6qb9PVtVWqpXl2LHlyJNbz6koRh3kEJ6GEounVqA66LuKN_MG3QL3wdw9wp7wKtxnpZp2ciudyhmn7Zh6xdyK7YfIzFT7-iTNiH0s_KUMcnq--STvMul8lxeUDO-1n4SR6vomg4BCLG8j5U600F3YIJ0_bbGuf-ICCDq14z_IvCLf9M2Sx5Asq0FB1NuN6Dd8SFShLaaWCrGXRK0SWtwtVWzA_96Hp9zdo34ZIZZAezJpbthMncpb0DgqaWYzZ1H8lcyiYK8xyiZ-Gw1h9FuxXnNouAuUvzscZsTgvsuZkiA6FxCh7dshKh3-Ioj6jq2aQ22l7FgSVL3pFguvk54lMri40yPB-Ld9MIFxxUb86cqCsNLxuDRH6R5xVhh9ntk4u_ZBqaej6-dSSz8DIL4Z4pGcLUhNifCYbb292gahBRErUxaQ6-MqzLE1YTqE47pUwPLO4tx42tKEWBWlZ-nb-Pny7QOLCOSda8Rnj2txJPZXs5_igLzFlO7MUG7jDRoiIrl6CzgFoXi_2SfmbIphGmMIoM9-S0Lsny3PzzTYWwteqKMr0dluCyISkTEPAnSkXLvtEGLY-MW8o1MrsYDIWEP-KeADkoe-mOLovYpuGSONvFzfmpARhApDqj2Xtao8lTD1o5VMER3LLC2ZUdPs2PFSS2hHtLrWBik85Hu20F0fZkuHy_QPqrLJXEj94BkPVaeNHActbsopVmv9g3CxdjXqkZ4blEdpFWqiRvJEC-BlKSPswn6V7_Vm6CA8jXU7GCBdjw8X8K2vm6xGhjhs1xjIP3Klxszj04dq3zstNMU2FajNZ5Olrsk2shM3_9V6H8KaXWI3KN-5Y_uz0104ztWYBhpQUzRXPCSQvK5hVuywBM4-RmO28qez7QQkw9vAQMzd0c54s4i3JyinV2DHFKQPYDJo25fnIxgfsqyjZYVnOt1ESo4pymfY8V_5cwdMHJou7L8S1X0CPUL4VA3wNZYEoYWSpZgSpjCMkGBHFu8Mnh_RlXJrqk4hfcvcE4qNGOKzG4SunTI33MEe6GRujRYOHOSU1T6qd75J-6GgY1bwpO1xNIY77GDFwwQSNSXQNysNS1-TuldUPskJDVska0_5V2QybYKv2dFVSE-fx7IcKIIk9DJfhktBn5wRQwjMa2QkcewOtV5GrQtr8X6QTY4Kkqdvjxpih2fV071f1mXGZBeXPw6BzyNdrfuZsQ0AW-MBeqxoWAZOVkO97-x60SolEy48QXcoO7dppyeFB16YOPwh9TPFDBDJZ1stvOEf04znqlzii8y6IioYLqEbRLolA5utbIJp49g-eHbuZ6a-9S19mqDzvSqehP07Iq58ouI4Ay55TUWU3lBqumn2q_E0z8NcMctnA8tgQk3HJII4s8elHKIJVCej_kJFmXube97TUwjhOaQbAa3wG_CljfmjlPFBnLBe9ioiZZ8nELx3f-m0SAub4gwhZ-B3Rek4vwfQFBk_mmBwjQr0x-nxdTru8f3DwkcP2F73DuqhZSH1-biWj3zVDRZC2XihaSQWrnQ5TPuAYtjho3Q7HPROEvdJhuWVi-i4R48Zt24WJexF6QA4K4XBuvSsk0wDOk-igfBhf9dM-QSHuosvH3ky1hnDME26relUTOISRzacaEJlyDgVlyYeyRyXTSrmnpiNmcFPtzsvHVXpd4K2e6nvGxNqxSh6rKqcqoETvg1qBkQu-p3N6hfxiWZF_9zDZJJQwS7biIUtxP-WZFPmpMMXpZKEe6Y8xDinO1K11d8V0qg6kNN0rR7QCdrdXLhfN46simKYr-b6AN22p9VYQ206z_ZCRcpJMXZDlSw6pxanrCiOJgpVQKriuvZBckqmd-yEWwcrTrUU2qVaCIYE0J1DpBaTZIEgdUa6AcfhQ5sPwkmEkO5HjQ6JslL9khUXqYyRPTT6ZKBCseLe0uV8i7d9gjlE2_pRsWQLqwkopVqvwiI7WEzkYhD3XtBwsQeymjfWT9y9XzgCj-PZAtnG0gREyp0CsbaLFIDlVI_tcHdLz3LmPcXu_qg96Brq2LhXq-NRZYkwUNUf66Sh7jDI0J0Jxv1-rFH4H0COSDV5KsSz8nh-A79S47QhdAFbx1NTyIUSvqAeP_h1bioSrEZVkeIvFPSWc_ynLnk6BU3vLI0jdRE1KYbC028NiWTZAteheklzmYTDkFmxo_M6Sp5DCug4PxxWFamqLYkGXT0Q5n1lUMA02ouEtGq-P9bh-O_usYy-AOepO7yAjptvbqUTfoYG_aYqcq5RewfkRzDM99g296hvxsMvcbdYbAFbYZ5zq8LAMXFizDlrMypJ1psFaUtH5CAJCtIjIrE6JYt087JN2A5Jjvk9UjQDyGN-vp9_5gtSi3iXart1IR977GOn97qbW163ihdzhzWGSPPMBGTxpojrybCiPlIYPSVdKaGGCwY20EGNQJ9OOkAbpkPrF82fzOLmU4C4jmBPU_6zPym1t1Qaut5R9Q3_-aNuMHu4M4XPnIuCpKkpTrK4kkdAL0MzAuNS0gn4X8SlkVpJwyFTM1W_QY4Rzf29MLCiIEiizrM0NlEoQ3JvQIfqcnM-BE9-GiPCYwZpnqvlMibCt9UIt-92OrvBwLAlJ9tAy-5k0IdX8gGPnJ6lTI83TQYmibXT_NF5jP75TNfPRINhF_1GtMP0XHasDdPc_MnZucjHqgI.wVRzp9Ir5riT5c8RtZcBjQ"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="accept" value="*/*"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-length: 134&#xd;
+x-gateway-cid: b168358c-10d6-41fb-8478-5e7d994ed71d&#xd;
+access-control-allow-origin: *&#xd;
+access-control-expose-headers: Content-Length,x-gateway-cid&#xd;
+date: Tue, 01 Oct 2024 21:49:16 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/catalog/v1/users/acquisitions/get"
+    path="/catalog/v1/users/acquisitions/get" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/94170376-673d-4de2-a58d-86cc8a72ae03.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="titles.prod.mos.microsoft.com" slaProfileEnabled="false"
+    uid="b345b438-842b-4112-9c69-0d86adf40c2e" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b345b438-842b-4112-9c69-0d86adf40c2e.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="authorization"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="POST"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+Content-Length: 0&#xd;
+access-control-allow-headers: authorization&#xd;
+access-control-allow-origin: *&#xd;
+access-control-max-age: 7200&#xd;
+access-control-allow-methods: POST&#xd;
+date: Tue, 01 Oct 2024 21:49:16 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

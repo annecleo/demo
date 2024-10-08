@@ -1,0 +1,395 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/catalog/v1/users/acquisitions/get"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    slaProfileEnabled="false" thinkTime="1"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc">
+    <embedded-action>ba28647d-9cc4-4950-9621-32351c7b68c7</embedded-action>
+    <embedded-action>6914ad7b-cb4e-4cac-bb9e-68fb2574d791</embedded-action>
+    <embedded-action>07edbb1c-a483-4f39-a742-07e9b55d9ec1</embedded-action>
+    <embedded-action>f2724eb0-1e8a-4ebc-85d8-15d3ceaad4e7</embedded-action>
+    <embedded-action>b55433be-6c23-49cf-b585-0e8bfe8d93aa</embedded-action>
+    <embedded-action>f8121e08-d85b-44ac-99c6-1b894de7db26</embedded-action>
+    <embedded-action>cbf7578b-312f-4572-a940-3461c1dea249</embedded-action>
+    <embedded-action>0fffc5fa-20d8-4e20-85f5-de1510b62502</embedded-action>
+    <embedded-action>7a18f255-96bb-430f-a0a0-774dcef79515</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/catalog/v1/users/acquisitions/get"
+    path="/catalog/v1/users/acquisitions/get" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="200" responseSize="669146"
+    serverUid="titles.prod.mos.microsoft.com" slaProfileEnabled="false"
+    uid="ba28647d-9cc4-4950-9621-32351c7b68c7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ba28647d-9cc4-4950-9621-32351c7b68c7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ba28647d-9cc4-4950-9621-32351c7b68c7.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="authorization" value="Bearer eyJhbGciOiJSU0EtT0FFUCIsImVuYyI6IkExMjhDQkMtSFMyNTYiLCJ4NXQiOiJMYXJmMGp0ZGlMT1EtOFFaYUFYS3AxR2hwdGMiLCJ6aXAiOiJERUYifQ.JPqJPT5L6w2eKapBt_RqQlFfvqP1HyWSfhAOQYpFD84m8tE6v618q2yA7rsRgs632jDfxbaKc8K-DbKD6vA42-kHiOdFac994TB4ejYqEvLeqQCzEf3mgndaGGijg9dc4wHqar3pf4Y9PYYWLX7WOwyKNZy0MrV_FaKrUS8XCvEpS_oMSKAv5MPy0tk_5miiSZiTbnuW9cTTTpEJjsv9CRgLKof-EFjXoHr_PlRCW4awZEs6h9P1vdoZJlMhei06tRxsigPZ1vDfy8QPA8Q7CUyK2_8T8OkdxUkIceogpVbW6v6C1GZxhlCC_LyG99xSQ_e2B2AcD540qFIWTzfnvg.C_HPL3x5vjLv95uxmcUzAQ.6qb9PVtVWqpXl2LHlyJNbz6koRh3kEJ6GEounVqA66LuKN_MG3QL3wdw9wp7wKtxnpZp2ciudyhmn7Zh6xdyK7YfIzFT7-iTNiH0s_KUMcnq--STvMul8lxeUDO-1n4SR6vomg4BCLG8j5U600F3YIJ0_bbGuf-ICCDq14z_IvCLf9M2Sx5Asq0FB1NuN6Dd8SFShLaaWCrGXRK0SWtwtVWzA_96Hp9zdo34ZIZZAezJpbthMncpb0DgqaWYzZ1H8lcyiYK8xyiZ-Gw1h9FuxXnNouAuUvzscZsTgvsuZkiA6FxCh7dshKh3-Ioj6jq2aQ22l7FgSVL3pFguvk54lMri40yPB-Ld9MIFxxUb86cqCsNLxuDRH6R5xVhh9ntk4u_ZBqaej6-dSSz8DIL4Z4pGcLUhNifCYbb292gahBRErUxaQ6-MqzLE1YTqE47pUwPLO4tx42tKEWBWlZ-nb-Pny7QOLCOSda8Rnj2txJPZXs5_igLzFlO7MUG7jDRoiIrl6CzgFoXi_2SfmbIphGmMIoM9-S0Lsny3PzzTYWwteqKMr0dluCyISkTEPAnSkXLvtEGLY-MW8o1MrsYDIWEP-KeADkoe-mOLovYpuGSONvFzfmpARhApDqj2Xtao8lTD1o5VMER3LLC2ZUdPs2PFSS2hHtLrWBik85Hu20F0fZkuHy_QPqrLJXEj94BkPVaeNHActbsopVmv9g3CxdjXqkZ4blEdpFWqiRvJEC-BlKSPswn6V7_Vm6CA8jXU7GCBdjw8X8K2vm6xGhjhs1xjIP3Klxszj04dq3zstNMU2FajNZ5Olrsk2shM3_9V6H8KaXWI3KN-5Y_uz0104ztWYBhpQUzRXPCSQvK5hVuywBM4-RmO28qez7QQkw9vAQMzd0c54s4i3JyinV2DHFKQPYDJo25fnIxgfsqyjZYVnOt1ESo4pymfY8V_5cwdMHJou7L8S1X0CPUL4VA3wNZYEoYWSpZgSpjCMkGBHFu8Mnh_RlXJrqk4hfcvcE4qNGOKzG4SunTI33MEe6GRujRYOHOSU1T6qd75J-6GgY1bwpO1xNIY77GDFwwQSNSXQNysNS1-TuldUPskJDVska0_5V2QybYKv2dFVSE-fx7IcKIIk9DJfhktBn5wRQwjMa2QkcewOtV5GrQtr8X6QTY4Kkqdvjxpih2fV071f1mXGZBeXPw6BzyNdrfuZsQ0AW-MBeqxoWAZOVkO97-x60SolEy48QXcoO7dppyeFB16YOPwh9TPFDBDJZ1stvOEf04znqlzii8y6IioYLqEbRLolA5utbIJp49g-eHbuZ6a-9S19mqDzvSqehP07Iq58ouI4Ay55TUWU3lBqumn2q_E0z8NcMctnA8tgQk3HJII4s8elHKIJVCej_kJFmXube97TUwjhOaQbAa3wG_CljfmjlPFBnLBe9ioiZZ8nELx3f-m0SAub4gwhZ-B3Rek4vwfQFBk_mmBwjQr0x-nxdTru8f3DwkcP2F73DuqhZSH1-biWj3zVDRZC2XihaSQWrnQ5TPuAYtjho3Q7HPROEvdJhuWVi-i4R48Zt24WJexF6QA4K4XBuvSsk0wDOk-igfBhf9dM-QSHuosvH3ky1hnDME26relUTOISRzacaEJlyDgVlyYeyRyXTSrmnpiNmcFPtzsvHVXpd4K2e6nvGxNqxSh6rKqcqoETvg1qBkQu-p3N6hfxiWZF_9zDZJJQwS7biIUtxP-WZFPmpMMXpZKEe6Y8xDinO1K11d8V0qg6kNN0rR7QCdrdXLhfN46simKYr-b6AN22p9VYQ206z_ZCRcpJMXZDlSw6pxanrCiOJgpVQKriuvZBckqmd-yEWwcrTrUU2qVaCIYE0J1DpBaTZIEgdUa6AcfhQ5sPwkmEkO5HjQ6JslL9khUXqYyRPTT6ZKBCseLe0uV8i7d9gjlE2_pRsWQLqwkopVqvwiI7WEzkYhD3XtBwsQeymjfWT9y9XzgCj-PZAtnG0gREyp0CsbaLFIDlVI_tcHdLz3LmPcXu_qg96Brq2LhXq-NRZYkwUNUf66Sh7jDI0J0Jxv1-rFH4H0COSDV5KsSz8nh-A79S47QhdAFbx1NTyIUSvqAeP_h1bioSrEZVkeIvFPSWc_ynLnk6BU3vLI0jdRE1KYbC028NiWTZAteheklzmYTDkFmxo_M6Sp5DCug4PxxWFamqLYkGXT0Q5n1lUMA02ouEtGq-P9bh-O_usYy-AOepO7yAjptvbqUTfoYG_aYqcq5RewfkRzDM99g296hvxsMvcbdYbAFbYZ5zq8LAMXFizDlrMypJ1psFaUtH5CAJCtIjIrE6JYt087JN2A5Jjvk9UjQDyGN-vp9_5gtSi3iXart1IR977GOn97qbW163ihdzhzWGSPPMBGTxpojrybCiPlIYPSVdKaGGCwY20EGNQJ9OOkAbpkPrF82fzOLmU4C4jmBPU_6zPym1t1Qaut5R9Q3_-aNuMHu4M4XPnIuCpKkpTrK4kkdAL0MzAuNS0gn4X8SlkVpJwyFTM1W_QY4Rzf29MLCiIEiizrM0NlEoQ3JvQIfqcnM-BE9-GiPCYwZpnqvlMibCt9UIt-92OrvBwLAlJ9tAy-5k0IdX8gGPnJ6lTI83TQYmibXT_NF5jP75TNfPRINhF_1GtMP0XHasDdPc_MnZucjHqgI.wVRzp9Ir5riT5c8RtZcBjQ"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="text/plain;charset=UTF-8"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="application/json"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-encoding: gzip&#xd;
+traceresponse: 00-010858ee7b95e6aedf0ee6d665096f50-b6ad954fc83eeb7b-01&#xd;
+access-control-expose-headers: content-encoding,traceresponse,x-envoy-upstream-service-time,transfer-encoding,Date,Server&#xd;
+access-control-allow-origin: *&#xd;
+x-envoy-upstream-service-time: 111&#xd;
+date: Tue, 01 Oct 2024 21:49:17 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"Filter":{"supportedElementTypes":["Extensions","ExchangeAddIns","StaticTabs","ComposeExtensions"],"clientDetails":{"scopes":["mail"],"formFactors":["desktop"],"capabilities":[{"name":"Mailbox","version":"1.14"},{"name":"OutlookTelemetry","version":"1.2"},{"name":"appInstallDialog"},{"name":"calendar"},{"name":"call"},{"name":"chat"},{"name":"dialog"},{"name":"dialogUrl"},{"name":"dialogUrlBot"},{"name":"dialogUpdate"},{"name":"dialogAdaptiveCard"},{"name":"dialogAdaptiveCardBot"},{"name":"mail"},{"name":"pages"},{"name":"profile"},{"name":"search"}]},"supportsRTFiltering":true}}]]></textPostContent>
+</http-action>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/conf/v2/o365se/fpconfig.min.json"
+    path="/conf/v2/o365se/fpconfig.min.json" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="200" responseSize="895"
+    serverUid="config.fp.measure.office.com" slaProfileEnabled="false"
+    uid="6914ad7b-cb4e-4cac-bb9e-68fb2574d791" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6914ad7b-cb4e-4cac-bb9e-68fb2574d791</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6914ad7b-cb4e-4cac-bb9e-68fb2574d791.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="monitorId"
+        recordRawValue="O365se" separator="=" value="O365se" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="if-none-match" value="&quot;892555632&quot;"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: public,max-age=900&#xd;
+content-length: 895&#xd;
+content-type: application/json; charset=utf-8&#xd;
+etag: "1841887587"&#xd;
+access-control-allow-origin: *&#xd;
+request-context: appId=cid-v1:b183296d-485b-49fc-81c7-a511e61d1309&#xd;
+x-cache: CONFIG_NOCACHE&#xd;
+x-msedge-ref: Ref A: BC9922CA152B43899B17952536C61BDF Ref B: TYO01EDGE3015 Ref C: 2024-10-01T21:49:17Z&#xd;
+date: Tue, 01 Oct 2024 21:49:17 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS"
+    name="/v1.0/users/a.ecleo@tricentis.com/photo/$value"
+    path="/v1.0/users/a.ecleo@tricentis.com/photo/$value" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="graph.microsoft.com" slaProfileEnabled="false"
+    uid="07edbb1c-a483-4f39-a742-07e9b55d9ec1" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_07edbb1c-a483-4f39-a742-07e9b55d9ec1.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="authorization"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="GET"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+strict-transport-security: max-age=31536000&#xd;
+request-id: 1a7155ce-d548-4f25-a80c-79ba798700b4&#xd;
+client-request-id: 1a7155ce-d548-4f25-a80c-79ba798700b4&#xd;
+x-ms-ags-diagnostic: {"ServerInfo":{"DataCenter":"Southeast Asia","Slice":"E","Ring":"5","ScaleUnit":"001","RoleInstance":"SI2PEPF00005711"}}&#xd;
+access-control-allow-origin: *&#xd;
+access-control-expose-headers: ETag, Location, Preference-Applied, Content-Range, request-id, client-request-id, ReadWriteConsistencyToken, Retry-After, SdkVersion, WWW-Authenticate, x-ms-client-gcc-tenant&#xd;
+access-control-allow-methods: DELETE, GET, MERGE, OPTIONS, POST, PUT, PATCH&#xd;
+access-control-allow-headers: authorization&#xd;
+access-control-max-age: 86400&#xd;
+date: Tue, 01 Oct 2024 21:49:17 GMT&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="200" responseSize="290"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="f2724eb0-1e8a-4ebc-85d8-15d3ceaad4e7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f2724eb0-1e8a-4ebc-85d8-15d3ceaad4e7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f2724eb0-1e8a-4ebc-85d8-15d3ceaad4e7.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727818977.60.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/now/workspace/agent/record/sn_customerservice_case/2d5c404b833c5214f6cb9b65eeaad3ab"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 21:49:17 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 290&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"139","channel":"/meta/connect","connectionType":"long-polling","clientId":"hmv1ge69fpp4rtbmooznh7t4m2e1"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/v1.0/users/a.ecleo@tricentis.com/photo/$value"
+    path="/v1.0/users/a.ecleo@tricentis.com/photo/$value" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="404" responseSize="294"
+    serverUid="graph.microsoft.com" slaProfileEnabled="false"
+    uid="b55433be-6c23-49cf-b585-0e8bfe8d93aa" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b55433be-6c23-49cf-b585-0e8bfe8d93aa</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b55433be-6c23-49cf-b585-0e8bfe8d93aa.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="*/*"/>
+    <header name="authorization" value="Bearer eyJ0eXAiOiJKV1QiLCJub25jZSI6Ijg0SEtwV1ZTOFJFVDl0MzVfOWhwT2ZUSUVIQzBFa0pheHprcU44MktMcmsiLCJhbGciOiJSUzI1NiIsIng1dCI6Ik1jN2wzSXo5M2c3dXdnTmVFbW13X1dZR1BrbyIsImtpZCI6Ik1jN2wzSXo5M2c3dXdnTmVFbW13X1dZR1BrbyJ9.eyJhdWQiOiJodHRwczovL2dyYXBoLm1pY3Jvc29mdC5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC9hOTNjY2IwMi04ZTMzLTQ0MzktOGJkNS1lMTljMGFjMWZkMWIvIiwiaWF0IjoxNzI3ODE5MDU1LCJuYmYiOjE3Mjc4MTkwNTUsImV4cCI6MTcyNzgyNDczOSwiYWNjdCI6MCwiYWNyIjoiMSIsImFjcnMiOlsidXJuOnVzZXI6cmVnaXN0ZXJzZWN1cml0eWluZm8iXSwiYWlvIjoiQVVRQXUvOFlBQUFBQVRXT0JacDFsSWpTcWdIby9KNWxMVnRySktkZFB1SEZkQS9mQ0FZQ3NBVFBhaGE0OE01OGpUOXQyTGsvTVZWS3hIYnpHQ1A2SGNuR21kSWpzcVRQb1E9PSIsImFtciI6WyJwd2QiLCJyc2EiLCJtZmEiXSwiYXBwX2Rpc3BsYXluYW1lIjoiT2ZmaWNlIDM2NSBFeGNoYW5nZSBPbmxpbmUiLCJhcHBpZCI6IjAwMDAwMDAyLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMCIsImFwcGlkYWNyIjoiMiIsImF1dGhfdGltZSI6MTcyNzgxODQyNCwiZGV2aWNlaWQiOiIzZDUzZjlhNS1kYjUxLTRhYmYtYjBjZC03ZTJiNGFiYTcwZDQiLCJmYW1pbHlfbmFtZSI6IkVjbGVvIiwiZ2l2ZW5fbmFtZSI6IkFubiBKZW5uaWZlciIsImlkdHlwIjoidXNlciIsImlwYWRkciI6IjEwMy4xNDEuMjAzLjE3MCIsIm5hbWUiOiJBbm4gSmVubmlmZXIgRWNsZW8iLCJvaWQiOiIwYTc1MmQ5NC1mYWFhLTQ5M2UtODJlNC1mOGUwYTRiMDQ2NmEiLCJvbnByZW1fc2lkIjoiUy0xLTUtMjEtMzQ4NDU4MjY3Ni0xMjIxNzQyNy0zNDQ3MzE4NjY2LTU3NjA2IiwicGxhdGYiOiIzIiwicHVpZCI6IjEwMDMyMDAzQkNCOEU3MzQiLCJyaCI6IjAuQVRrQUFzczhxVE9PT1VTTDFlR2NDc0g5R3dNQUFBQUFBQUFBd0FBQUFBQUFBQUE1QUhFLiIsInNjcCI6IkF1ZGl0TG9nLkNyZWF0ZSBDaGFubmVsLkNyZWF0ZSBDaGFubmVsLlJlYWRCYXNpYy5BbGwgQ2hhbm5lbE1lbWJlci5SZWFkV3JpdGUuQWxsIENoYW5uZWxNZXNzYWdlLlJlYWQuQWxsIENoYW5uZWxNZXNzYWdlLlNlbmQgQ2hhdC5SZWFkIENoYXQuUmVhZFdyaXRlIERhdGFMb3NzUHJldmVudGlvblBvbGljeS5FdmFsdWF0ZSBEaXJlY3RvcnkuUmVhZC5BbGwgRWR1Um9zdGVyLlJlYWRCYXNpYyBGaWxlcy5SZWFkV3JpdGUuQWxsIEdyb3VwLlJlYWRXcml0ZS5BbGwgSW5mb3JtYXRpb25Qcm90ZWN0aW9uUG9saWN5LlJlYWQgTm90ZXMuQ3JlYXRlIE9ubGluZU1lZXRpbmdzLlJlYWQgT25saW5lTWVldGluZ3MuUmVhZFdyaXRlIE9yZ2FuaXphdGlvbi5SZWFkV3JpdGUuQWxsIFBlb3BsZS5SZWFkIFBvbGljeS5SZWFkV3JpdGUuQXV0aGVudGljYXRpb25NZXRob2QgU2Vuc2l0aXZlSW5mb1R5cGUuRGV0ZWN0IFNlbnNpdGl2ZUluZm9UeXBlLlJlYWQuQWxsIFNlbnNpdGl2aXR5TGFiZWwuRXZhbHVhdGUgVGVhbS5SZWFkQmFzaWMuQWxsIFVzZXIuSW52aXRlLkFsbCBVc2VyLlJlYWQgVXNlci5SZWFkQmFzaWMuQWxsIFVzZXIuUmVhZFdyaXRlIiwic2lnbmluX3N0YXRlIjpbImttc2kiXSwic3ViIjoiaER6NWdBLXV2MktaMkZJcnNrTzZtNm1aa18xZkc5V0V2bFB6cGxOdE9EOCIsInRlbmFudF9yZWdpb25fc2NvcGUiOiJFVSIsInRpZCI6ImE5M2NjYjAyLThlMzMtNDQzOS04YmQ1LWUxOWMwYWMxZmQxYiIsInVuaXF1ZV9uYW1lIjoiYS5lY2xlb0B0cmljZW50aXMuY29tIiwidXBuIjoiYS5lY2xlb0B0cmljZW50aXMuY29tIiwidXRpIjoiSmxxNDYzMi1mMDJPMTlBWEcyQUlBQSIsInZlciI6IjEuMCIsIndpZHMiOlsiYjc5ZmJmNGQtM2VmOS00Njg5LTgxNDMtNzZiMTk0ZTg1NTA5Il0sInhtc19pZHJlbCI6IjE4IDEiLCJ4bXNfdGNkdCI6MTQzNDQzNjc3MCwieG1zX3RkYnIiOiJFVSJ9.HYaX8XEOK1EH-HLbtlY5qsWLoe4buCjhyQH6fQS5mRETYuezdTWeRLDIArd9aXgcvHqXQy8F06Jo51mF23LVoGCjU9Em-eZaJmTbTNN-Ue3Pg8OM3oFD_3sGX4y6d4a4KE7LDJYIV8i4ZgWCVK-MEUmGetA5gEX-yGJDl5qv1WPy5RZjFPEHDTzUYVYqmBjDhL6O4QvLn8oEGNKxbgoqNY6E3JAiEe6EjtOfgVZ06JxttoNEblSTNTPjPe2Cjaf93gz4LzLGUNfph8UmmkgyZXTph1uncS3o-UJjdW0uJpusxSlpwahK8IrXyltNb_LPFxoug9JkMropJSXmhlE1ew"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 404&#xd;
+content-type: application/json&#xd;
+content-encoding: gzip&#xd;
+vary: Accept-Encoding&#xd;
+strict-transport-security: max-age=31536000&#xd;
+request-id: fe5bf6e6-aa87-414a-88d8-6c8cbc1a2aa3&#xd;
+client-request-id: fe5bf6e6-aa87-414a-88d8-6c8cbc1a2aa3&#xd;
+x-ms-ags-diagnostic: {"ServerInfo":{"DataCenter":"Southeast Asia","Slice":"E","Ring":"5","ScaleUnit":"001","RoleInstance":"SI2PEPF00005711"}}&#xd;
+access-control-allow-origin: *&#xd;
+access-control-expose-headers: ETag, Location, Preference-Applied, Content-Range, request-id, client-request-id, ReadWriteConsistencyToken, Retry-After, SdkVersion, WWW-Authenticate, x-ms-client-gcc-tenant&#xd;
+date: Tue, 01 Oct 2024 21:49:17 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS"
+    name="/api/storage/SystemMetadata/User/AppsPinnedData"
+    path="/api/storage/SystemMetadata/User/AppsPinnedData" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="webshell.suite.office.com" slaProfileEnabled="false"
+    uid="f8121e08-d85b-44ac-99c6-1b894de7db26" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_f8121e08-d85b-44ac-99c6-1b894de7db26.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="api-version"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="shellType"
+        recordRawValue="OneShell" separator="=" value="OneShell" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="authorization,content-type"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="GET"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Tue, 01 Oct 2024 21:49:17 GMT&#xd;
+server: Kestrel&#xd;
+access-control-allow-headers: authorization,content-type&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-origin: *&#xd;
+access-control-max-age: 7200&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/storage/SystemMetadata/User/AppsPinnedData"
+    path="/api/storage/SystemMetadata/User/AppsPinnedData" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="webshell.suite.office.com" slaProfileEnabled="false"
+    uid="cbf7578b-312f-4572-a940-3461c1dea249" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_cbf7578b-312f-4572-a940-3461c1dea249.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="api-version"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="shellType"
+        recordRawValue="OneShell" separator="=" value="OneShell" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="accept" value="application/json"/>
+    <header name="authorization" value="Bearer eyJ0eXAiOiJKV1QiLCJub25jZSI6IjUzbXE0UWhDZ3NteHdaX2EyM3dzcjdWQTFNWnF6R29GeE9sUnMzN1dBdGsiLCJhbGciOiJSUzI1NiIsIng1dCI6Ik1jN2wzSXo5M2c3dXdnTmVFbW13X1dZR1BrbyIsImtpZCI6Ik1jN2wzSXo5M2c3dXdnTmVFbW13X1dZR1BrbyJ9.eyJhdWQiOiJodHRwczovL3dlYnNoZWxsLnN1aXRlLm9mZmljZS5jb20iLCJpc3MiOiJodHRwczovL3N0cy53aW5kb3dzLm5ldC9hOTNjY2IwMi04ZTMzLTQ0MzktOGJkNS1lMTljMGFjMWZkMWIvIiwiaWF0IjoxNzI3ODE5MDU1LCJuYmYiOjE3Mjc4MTkwNTUsImV4cCI6MTcyNzgyMzQ3NiwiYWNyIjoiMSIsImFpbyI6IkFWUUFxLzhZQUFBQUFUV09CWnAxbElqU3FnSG8vSjVsTFZjN0RNSndTV25BQzM5cjQzSm5HQUs0bFhrUENOSkVQVGcyYzI2bzg3U0M3aUJDZHJ2ZFRaVGt6M2pNandvS21CalU0VDlmS1FSRE9lMEhqbGs5VjVFPSIsImFtciI6WyJwd2QiLCJyc2EiLCJtZmEiXSwiYXBwaWQiOiIwMDAwMDAwMi0wMDAwLTBmZjEtY2UwMC0wMDAwMDAwMDAwMDAiLCJhcHBpZGFjciI6IjIiLCJhdXRoX3RpbWUiOjE3Mjc4MTg0MjQsImRldmljZWlkIjoiM2Q1M2Y5YTUtZGI1MS00YWJmLWIwY2QtN2UyYjRhYmE3MGQ0IiwiZmFtaWx5X25hbWUiOiJFY2xlbyIsImdpdmVuX25hbWUiOiJBbm4gSmVubmlmZXIiLCJpZHR5cCI6InVzZXIiLCJpcGFkZHIiOiIxMDMuMTQxLjIwMy4xNzAiLCJsb2dpbl9oaW50IjoiTy5DaVF3WVRjMU1tUTVOQzFtWVdGaExUUTVNMlV0T0RKbE5DMW1PR1V3WVRSaU1EUTJObUVTSkdFNU0yTmpZakF5TFRobE16TXRORFF6T1MwNFltUTFMV1V4T1dNd1lXTXhabVF4WWhvVllTNWxZMnhsYjBCMGNtbGpaVzUwYVhNdVkyOXRJSnNCIiwibmFtZSI6IkFubiBKZW5uaWZlciBFY2xlbyIsIm9pZCI6IjBhNzUyZDk0LWZhYWEtNDkzZS04MmU0LWY4ZTBhNGIwNDY2YSIsIm9ucHJlbV9zaWQiOiJTLTEtNS0yMS0zNDg0NTgyNjc2LTEyMjE3NDI3LTM0NDczMTg2NjYtNTc2MDYiLCJwcmVmZXJyZWRfdXNlcm5hbWUiOiJhLmVjbGVvQHRyaWNlbnRpcy5jb20iLCJwdWlkIjoiMTAwMzIwMDNCQ0I4RTczNCIsInJoIjoiMC5BVGtBQXNzOHFUT09PVVNMMWVHY0NzSDlHem96Q1Y4c2hOcEhvVmRYMmlmOHZLVTVBSEUuIiwic2NwIjoiU2hlbGxTZXR0aW5ncy5SZWFkIiwic3ViIjoiMm40MXJrNVMxOWt6cXpxdHdMbWpjRFc4bmhiZFMzbDgwd2xTcmtTaEMySSIsInRlbmFudF9yZWdpb25fc2NvcGUiOiJFVSIsInRpZCI6ImE5M2NjYjAyLThlMzMtNDQzOS04YmQ1LWUxOWMwYWMxZmQxYiIsInVuaXF1ZV9uYW1lIjoiYS5lY2xlb0B0cmljZW50aXMuY29tIiwidXBuIjoiYS5lY2xlb0B0cmljZW50aXMuY29tIiwidXRpIjoiRmhNd3hQYkpJa1Mxd2RXb3c4OVNBQSIsInZlciI6IjEuMCIsIndpZHMiOlsiYjc5ZmJmNGQtM2VmOS00Njg5LTgxNDMtNzZiMTk0ZTg1NTA5Il0sInhtc19pZHJlbCI6IjEgMTAiLCJ4bXNfdGRiciI6IkVVIn0.R9Avtn8YpYNEy6IP3T_hFgWyItxxM9NIeDpP1tn9Mzz_G5fJvPo6uCQAGZL6ulAq3fiwHSrLJqgN3eejmYAYvg78mdS1mxXFRbjT_6pEdpEeK9p8Eu6qCLXkRTIyw0aDIS75DwYHTLVQqmMAO55BKit_0Z_ue7pmWMEkQKPHTZDo_08LqiC5xAuTI2_PS5ImQJAS4979R0d1FSBkW_xh2l5bLAjIDlDJ2ntju10W_pEN1gVqmBr_fcJ0a0wpm8uBDHSvhIqn5vMxqz5EfrBEGldjHAe3b2-IbWjW88PBceCuw3hJm9lF0fuX-_OXCxU6reXTraZVlT3H5NHDIPm8lQ"/>
+    <header name="sec-ch-ua" value="&quot;Microsoft Edge&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="x-edge-shopping-flag" value="1"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Tue, 01 Oct 2024 21:49:17 GMT&#xd;
+server: Kestrel&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: no-store, no-cache&#xd;
+pragma: no-cache&#xd;
+set-cookie: ClientStorageCookie=1Hb6gViGvxX7n6reSSaZgWj3tISD5jFC%2F%2BRomGwfWj4%3D%26XSEGiwBCsNUL7yn97lWM%2Fw%3D%3D; path=/; secure; samesite=none&#xd;
+Content-Length: 0&#xd;
+x-content-type-options: nosniff&#xd;
+strict-transport-security: max-age=2592000&#xd;
+mise-correlation-id: 48956310-479c-4cd4-ba84-ae5cfbe66118&#xd;
+x-o365suiteuxshell-correlationid: a5091dd4-99a2-4f69-b5da-70772a62775e</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/api/v1/livepersonacard/configuration"
+    path="/api/v1/livepersonacard/configuration" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="loki.delve.office.com" slaProfileEnabled="false"
+    uid="0fffc5fa-20d8-4e20-85f5-de1510b62502" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_0fffc5fa-20d8-4e20-85f5-de1510b62502.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="cultureName"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="same-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="authorization,x-clientarchitectureversion,x-clientcorrelationid,x-clientfeature,x-clientscenario,x-clienttype,x-correlationid,x-hostappapp,x-hostappconfiguration,x-hostappplatform,x-hostappreactversion,x-hostappring,x-hostappversion,x-rootcorrelationid"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="GET"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 204&#xd;
+date: Tue, 01 Oct 2024 21:49:17 GMT&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-headers: authorization,x-clientarchitectureversion,x-clientcorrelationid,x-clientfeature,x-clientscenario,x-clienttype,x-correlationid,x-hostappapp,x-hostappconfiguration,x-hostappplatform,x-hostappreactversion,x-hostappring,x-hostappversion,x-rootcorrelationid&#xd;
+access-control-allow-methods: GET&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-max-age: 86400&#xd;
+vary: Origin&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS" name="/v4/api/selection" path="/v4/api/selection"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/b3b7f951-2a36-48ac-9c1f-da4ab3eb2fcc.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="arc.msn.com"
+    slaProfileEnabled="false" uid="7a18f255-96bb-430f-a0a0-774dcef79515" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_7a18f255-96bb-430f-a0a0-774dcef79515.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="placement"
+        recordRawValue="88000452" separator="=" value="88000452" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="country"
+        recordRawValue="US" separator="=" value="US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="locale"
+        recordRawValue="en-US" separator="=" value="en-US" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="nct"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="OPSYS"
+        recordRawValue="WIN11" separator="=" value="WIN11" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="browser"
+        recordRawValue="6" separator="=" value="6" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="false" name="ofc_flights"
+        recordRawValue="iris-commercial-bizbar;" separator="="
+        value="iris-commercial-bizbar;" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="outlook_branch" recordRawValue="default" separator="="
+        value="default" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="asid"
+        recordRawValue="ffafac73-0339-4bfb-ac12-eb79f03e299b"
+        separator="=" value="ffafac73-0339-4bfb-ac12-eb79f03e299b" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="outlookpremiumstatus" recordRawValue="" separator="="
+        value="" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="cors"/>
+    <header name="sec-fetch-site" value="cross-site"/>
+    <header name="accept-language" value="en-US,en;q=0.9"/>
+    <header name="origin" value="https://outlook.office.com"/>
+    <header name="access-control-request-headers" value="authorization"/>
+    <header name="priority" value="u=1, i"/>
+    <header name="access-control-request-method" value="GET"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="accept" value="*/*"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: no-cache&#xd;
+pragma: no-cache&#xd;
+expires: -1&#xd;
+server: Microsoft-IIS/10.0&#xd;
+access-control-allow-origin: https://outlook.office.com&#xd;
+access-control-allow-credentials: true&#xd;
+access-control-allow-headers: authorization&#xd;
+x-aspnet-version: 4.0.30319&#xd;
+x-powered-by: ASP.NET&#xd;
+strict-transport-security: max-age=31536000; includeSubDomains&#xd;
+date: Tue, 01 Oct 2024 21:49:18 GMT&#xd;
+Content-Length: 0</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

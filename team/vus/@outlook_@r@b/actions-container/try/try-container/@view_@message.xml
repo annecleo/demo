@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="View_Message" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="d6f34130-136b-4eb7-9f3c-ad028a7b329a" weightsEnabled="false">
+    <weighted-embedded-action uid="79bc0697-b134-428e-8507-508817d93f86"/>
+    <weighted-embedded-action uid="a5f8d1c4-c7a6-4589-86a4-b0d3d6952a79"/>
+    <weighted-embedded-action uid="1eff2cf2-0193-4370-a125-29fc51578920"/>
+</basic-logical-action-container>

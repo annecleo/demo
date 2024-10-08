@@ -1,0 +1,187 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/api/browser/edge/navigate/3" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/47de423b-7f3a-40e0-b873-60b288c0251f.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="47de423b-7f3a-40e0-b873-60b288c0251f">
+    <embedded-action>d2c2b36e-3844-43c9-bc07-06d442251200</embedded-action>
+    <embedded-action>38ee85b5-f553-42c0-b298-d00508f53242</embedded-action>
+    <embedded-action>5712c358-aab5-4e32-8ca8-600810fc6052</embedded-action>
+    <embedded-action>43dea8e7-f733-4910-9792-5effde51cff4</embedded-action>
+</http-page>
+<http-action actionType="1"
+    contentType="application/json; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/browser/edge/navigate/3"
+    path="/api/browser/edge/navigate/3" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/47de423b-7f3a-40e0-b873-60b288c0251f.zip"
+    recordedResponseCode="200" responseSize="877"
+    serverUid="nav-edge.smartscreen.microsoft.com"
+    slaProfileEnabled="false" uid="d2c2b36e-3844-43c9-bc07-06d442251200" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d2c2b36e-3844-43c9-bc07-06d442251200</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d2c2b36e-3844-43c9-bc07-06d442251200.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="authorization" value="SmartScreenHash eyJhdXRoSWQiOiI0MWE0MzhiYy0xMjQ5LTQzZDMtYTI2ZC02OWNkNjJjMDgzMTciLCAia2V5IjoiNHREMzQ3MzA2Uk1EcGhzMUJwL2FRdz09IiwgImhhc2giOiJ3eXZ0SldmMW1ycz0ifQ=="/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="content-type" value="application/json; charset=utf-8"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Tue, 01 Oct 2024 21:49:04 GMT&#xd;
+content-type: application/json; charset=utf-8&#xd;
+content-length: 877&#xd;
+server: Kestrel&#xd;
+cache-control: max-age=0, private&#xd;
+request-context: appId=cid-v1:17267ca4-1148-488a-a10e-be14ee0592ab</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"userAgent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0","identity":{"user":{"locale":"en-US"},"device":{"id":null,"customId":"83b0e0bb-01d2-49c9-90e7-394c0ad8a115","onlineIdTicket":"t=GwAWAd9tBAAUanPXNspPGlCQJmFge+TK6U86WWUOZgAAENju77mzujgDuSElWMW3ilXgAEO8VnWFyHZRPW+/5K05cLp9XTwl7gJ9AT7p+CoXKqDzbLM3ghnJ5TZYLyWw6lxCvVFO9zOU4mSUAaHHYQxfRRuli3d68ghM1w8yUhnt9t3So14EJ9P7dapSUBxQ60ychTI5usrPykypN4jjm3Lu5yDTEWMG+y8IItkmLJW2eISPRY1OY4B3zNPPGJCeNk05oQd9t3CT6zYHWncKrlKjjHi/DPS3UePxp2vPqBux0hJ6hkw/BrJFaq8UWy1O6AtNDHAAqCiHTml9qYoIvM2vCljjQQFobmSjzRM/+/cx9MhgHwE=&p=","family":3,"locale":"en-US","osVersion":"10.0.22631.4169.ni_release","browser":{"internetExplorer":"9.11.22621.0"},"netJoinStatus":2,"enterprise":{},"cloudSku":false,"architecture":9},"caller":{"locale":"en-US","name":"","version":"129.0.2792.65 (Official build) "},"client":{"version":"281483724390400","data":{"topTraffic":"638004170464094982","customSynchronousLookupUris":"0","edgeSettings":"2.0-48b11410dc937a1723bf4c5ad33ecdb286d8ec69544241bc373f753e64b396c1","customSettings":"F95BA787499AB4FA9EFFF472CE383A14"}}},"config":{"user":{"uriReputation":{"enforcedByPolicy":false,"level":"warn"}},"device":{"appControl":{"level":"anywhere"},"appReputation":{"enforcedByPolicy":false,"level":"warn"}}},"destination":{"uri":"http://www.neotys.com/redirect/redirect.php?target=recorder","ip":null},"type":"top","forceServiceDetermination":false,"correlationId":"40238443-3c9d-43bd-a26a-4794998f3444","synchronous":false}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/47de423b-7f3a-40e0-b873-60b288c0251f.zip"
+    recordedResponseCode="200" responseSize="218"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="38ee85b5-f553-42c0-b298-d00508f53242" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_38ee85b5-f553-42c0-b298-d00508f53242</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_38ee85b5-f553-42c0-b298-d00508f53242.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727818977.60.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/open?id=kb_search&amp;spa=1&amp;query=ERROR%20-%20neoload.Agents:%20Error%20initializing%20AgentService%20client"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="X-Transaction-Source" value="Interface=Web,Interface-Name=OPEN,Interface-Type=Service Portal,Interface-SysID=dbeb3fef1be42810cf6210a1b24bcb5e"/>
+    <header name="X-Use-Polaris" value="false"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 21:49:35 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 218&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"48","channel":"/meta/connect","connectionType":"long-polling","clientId":"hnw1wg185wfpuwyc1juy8khb4mmt3"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json;charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/amb/connect" path="/amb/connect" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/47de423b-7f3a-40e0-b873-60b288c0251f.zip"
+    recordedResponseCode="200" responseSize="218"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="5712c358-aab5-4e32-8ca8-600810fc6052" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5712c358-aab5-4e32-8ca8-600810fc6052</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5712c358-aab5-4e32-8ca8-600810fc6052.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/json;charset=UTF-8"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727818977.60.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/open?id=search&amp;spa=1&amp;q=ERROR%20-%20neoload.Agents:%20Error%20initializing%20AgentService%20client%20&amp;disableAllSuggestions=false&amp;disableSpellCheck=false"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="X-Transaction-Source" value="Interface=Web,Interface-Name=OPEN,Interface-Type=Service Portal,Interface-SysID=dbeb3fef1be42810cf6210a1b24bcb5e"/>
+    <header name="X-Use-Polaris" value="false"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 21:49:37 GMT&#xd;
+Content-Type: application/json;charset=UTF-8&#xd;
+Content-Length: 218&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Pragma: no-store,no-cache&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+Expires: 0&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"id":"72","channel":"/meta/connect","connectionType":"long-polling","clientId":"hnitp7whtlec26ql97tzi1gair3"}]]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/api/now/graphql" path="/api/now/graphql"
+    postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/47de423b-7f3a-40e0-b873-60b288c0251f.zip"
+    recordedResponseCode="200" responseSize="1013"
+    serverUid="tricentiscsm.service-now.com" slaProfileEnabled="false"
+    uid="43dea8e7-f733-4910-9792-5effde51cff4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_43dea8e7-f733-4910-9792-5effde51cff4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_43dea8e7-f733-4910-9792-5effde51cff4.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="content-type" value="application/json"/>
+    <header name="Cookie" value="_ga=GA1.2.1354692215.1726798058; glide_sso_id=11e4ccb0c3301a905b76771d7a01314c; _gid=GA1.2.692950343.1727653569; BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; glide_user_route=glide.e708e17ac805337fdbcc6af1207385d8; glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; __CJ_g_startTime=%221727818477976%22; JSESSIONID=159EA522E9878854648382EE86D23005; glide_user_activity=U0N2M18xOmJacUtxTGFwdThab1o0dXp6dmdpVHF4YnRkaFNuQ203SmZEOXo1Y1RDSXc9OlBuY2dWTG1vYkFZN0lwM0lISm5QNk9xb1c5b0U0cW1mRU8yZ1lBVGZjNHM9; glide_session_store=3998C728C3411E105B76771D7A0131F3; BAYEUX_BROWSER=mq1oeilkssyfe7a4; _ga_4GZTBFVFZ1=GS1.2.1727818803.5.1.1727818977.60.0.0"/>
+    <header name="Host" value="tricentiscsm.service-now.com"/>
+    <header name="now-ux-interaction" value="dghnijvae0nt-220091"/>
+    <header name="Origin" value="https://tricentiscsm.service-now.com"/>
+    <header name="Referer" value="https://tricentiscsm.service-now.com/now/workspace/agent/record/sn_customerservice_case/2d5c404b833c5214f6cb9b65eeaad3ab"/>
+    <header name="sec-ch-ua" value="&quot;Google Chrome&quot;;v=&quot;129&quot;, &quot;Not=A?Brand&quot;;v=&quot;8&quot;, &quot;Chromium&quot;;v=&quot;129&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"/>
+    <header name="x-transaction-source" value="Interface=Workspace,Interface-Type=agent"/>
+    <header name="x-usertoken" value="7998c728c3411e105b76771d7a0131f3894bc75a213dc376df367b7a4ec3e7b6fabe65aa"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: snow_adc&#xd;
+Date: Tue, 01 Oct 2024 21:49:08 GMT&#xd;
+Content-Type: application/json&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Set-Cookie: BIGipServerpool_tricentiscsm=8153658380e1e5841577880f9836033b; httponly; secure; path=/; SameSite=None&#xd;
+Server-Timing: sem_wait;dur=0, sesh_wait;dur=0&#xd;
+Content-Encoding: gzip&#xd;
+Set-Cookie: glide_node_id_for_js=36a4ae7469fb9f0acc9631f7aca85eba2939c888594880cd9afaa9b24e3cc384; Path=/; secure; SameSite=None&#xd;
+X-Is-Logged-In: true&#xd;
+X-Transaction-ID: 01db8ba8321c&#xd;
+Set-Cookie: glide_session_store=3998C728C3411E105B76771D7A0131F3; Max-Age=7200; Expires=Tue, 01-Oct-2024 23:49:08 GMT; Path=/; HttpOnly; secure; SameSite=None&#xd;
+Cache-Control: no-cache,no-store,must-revalidate,max-age=-1&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Expires: 0&#xd;
+Pragma: no-store,no-cache&#xd;
+Strict-Transport-Security: max-age=63072000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[[{"operationName":"snAgentPresenceState","query":"query snAgentPresenceState{GlideAWA_Query{agent_presence{current_presence_state_id state_icon_type name sys_id}presence_state{name show_channels sys_id order available_to_receive_work_items disable_inactivity_check agent_channel_availability{name restrict_update service_channel_id sys_id available service_channel_type}}}}","variables":{},"nowUxInteraction":"dghnijvae0nt-220091","nowUiInteraction":"dghnijvae0nt-2890","cacheable":false,"extensions":{}}]]]></textPostContent>
+</http-action>

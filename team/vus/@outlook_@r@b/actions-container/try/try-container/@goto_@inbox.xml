@@ -1,0 +1,10 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Goto_Inbox" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    uid="c97426a4-99b3-4b40-8d8c-7dc645697a66" weightsEnabled="false">
+    <weighted-embedded-action uid="489e8edb-37ab-4487-b9d5-b68b7dd5aaae"/>
+    <weighted-embedded-action uid="8cb80d1f-932b-49e5-8a6b-58a629bef308"/>
+    <weighted-embedded-action uid="3a46666a-9ec6-407d-9400-b0b78db18b78"/>
+    <weighted-embedded-action uid="149049d2-c008-453b-a893-bfa0e3705d7e"/>
+    <weighted-embedded-action uid="f5492d72-90f2-4f43-944f-5f961d74ff66"/>
+</basic-logical-action-container>

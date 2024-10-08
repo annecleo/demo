@@ -1,0 +1,108 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/componentupdater/api/v1/update"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/4877ee0e-a107-4858-9213-e64dd66ff17d.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="4877ee0e-a107-4858-9213-e64dd66ff17d">
+    <embedded-action>f19e7410-954e-45c1-96b9-6d1482feae96</embedded-action>
+    <embedded-action>21b6c8c3-5621-440d-b95f-c52bc2d5787b</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_4877ee0e-a107-4858-9213-e64dd66ff17d.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/componentupdater/api/v1/update"
+    path="/componentupdater/api/v1/update" postType="4"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/4877ee0e-a107-4858-9213-e64dd66ff17d.zip"
+    recordedResponseCode="200" responseSize="3219"
+    serverUid="edge.microsoft.com" slaProfileEnabled="false"
+    uid="f19e7410-954e-45c1-96b9-6d1482feae96" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f19e7410-954e-45c1-96b9-6d1482feae96</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f19e7410-954e-45c1-96b9-6d1482feae96.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="false"
+        name="cup2key"
+        recordRawValue="7:vW6DpBwfkIltaT_74F7gKdNgvQBqVio_3RVRP_xgpfY"
+        separator="="
+        value="7:vW6DpBwfkIltaT_74F7gKdNgvQBqVio_3RVRP_xgpfY" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="cup2hreq"
+        recordRawValue="6886872b9bb45078e1d199ca49866e24980f270b2cbed7ab876a20cc01486a7a"
+        separator="="
+        value="6886872b9bb45078e1d199ca49866e24980f270b2cbed7ab876a20cc01486a7a" valueMode="USE_VALUE"/>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="x-microsoft-update-appid" value="oankkpibpaokgecfckkdkgaoafllipag,eeobbhfgfagbclfofmgbdfoicabjdbkn,fppmbhmldokgmleojlplaaodlkibgikh,ohckeflnhegojcjlcpbfpciadgikcohk,kpfehajjjbbcifeehjgfgnabifknmdad,ndikpojcjlepofdkaaldkinkjbeeebkl,ahmaebgpfccdhgidjaidaoojjcijckba,fgbafbciocncjfbbonhocjaohoknlaco,alpjnmnfbgfkmmpcfpejmmoebdndedno,pbdgbpmpeenomngainidcjmopnklimmf,jbfaflocpnkhbgcijpkiafdpbjkedane,ojblfafjmiikbkepnnolpgbbhejhlcim,mkcgfaeepibomfapiapjaceihcojnphg,ebkkldgijmkljgglkajkjgedfnigiakk,llmidpclgepbgbgoecnhcmgfhmfplfao,plbmmhnabegcabfbcejohgjpkamkddhn,lkkdlcloifjinapabfonaibjijloebfb,jcmcegpcehdchljeldgmmfbgcpnmgedo,mpicjakjneaggahlnmbojhjpnileolnb,omnckhpgfmaoelhddliebabpgblmmnjp,dgkpjjieejhfoogjpoblmnlmhojmljbf,hjaimielcgmceiphgjjfddlgjklfpdei,lfmeghnikdkbonehgjihjebgioakijgn,cllppcmmlnkggcmljjfigkcigaajjmid,pdfjdcjjjegpclfiilihfkmdfndkneei"/>
+    <header name="sec-mesh-client-arch" value="x86_64"/>
+    <header name="x-microsoft-update-service-cohort" value="1367"/>
+    <header name="sec-mesh-client-os" value="Windows"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="sec-mesh-client-edge-version" value="129.0.2792.65"/>
+    <header name="sec-mesh-client-edge-channel" value="stable"/>
+    <header name="x-microsoft-update-interactivity" value="bg"/>
+    <header name="x-client-data" value="CLUICLMQCLmRywE="/>
+    <header name="x-microsoft-update-updater" value="msedge-129.0.2792.65"/>
+    <header name="content-type" value="application/json"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <header name="sec-mesh-client-webview" value="0"/>
+    <header name="sec-mesh-client-os-version" value="10.0.22631"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+cache-control: no-store, must-revalidate, no-cache, max-age=0&#xd;
+pragma: no-cache&#xd;
+content-length: 733&#xd;
+content-type: application/json&#xd;
+content-encoding: gzip&#xd;
+expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+etag: 304402201E7FC6B4AAFE751DF481669A635AEE3B0CF4DC91E4E1D730805F0403A3C6B8AC022008FFD078866FC1C991F48890B1E285AE628ED33A7C40DEAFF0A6F3F8E662660E:6886872b9bb45078e1d199ca49866e24980f270b2cbed7ab876a20cc01486a7a&#xd;
+x-frame-options: sameorigin&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+x-cup-server-proof: 304402201E7FC6B4AAFE751DF481669A635AEE3B0CF4DC91E4E1D730805F0403A3C6B8AC022008FFD078866FC1C991F48890B1E285AE628ED33A7C40DEAFF0A6F3F8E662660E:6886872b9bb45078e1d199ca49866e24980f270b2cbed7ab876a20cc01486a7a&#xd;
+x-cache: CONFIG_NOCACHE&#xd;
+x-msedge-ref: Ref A: 83B1F80C504D4F9C9A9345876FB6954F Ref B: TYO01EDGE2506 Ref C: 2024-10-01T21:49:40Z&#xd;
+date: Tue, 01 Oct 2024 21:49:40 GMT</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[{"request":{"@os":"win","@updater":"msedge","acceptformat":"crx3","app":[{"appid":"oankkpibpaokgecfckkdkgaoafllipag","brand":"INBX","cohort":"rrf@0.33","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.44C48B9ECD87ACDDD850F9AA5E1C9D48B7A398DEC13D376CD62D55DADBD464A5"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.33","AppMajorVersion":"129","AppRollout":0.33,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"6498.2023.8.1"},{"appid":"eeobbhfgfagbclfofmgbdfoicabjdbkn","brand":"INBX","cohort":"rrf@0.57","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.8BFD50D350D47445B57BB1D61BBDE41CEDA7AC43DC81FCE95BF1AC646D97D2A0"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.57","AppMajorVersion":"129","AppRollout":0.57,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"1.0.0.8"},{"appid":"fppmbhmldokgmleojlplaaodlkibgikh","brand":"INBX","cohort":"rrf@0.74","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.A81D1959892AE4180554347DF1B97834ABBA2E1A5E6B9AEBA000ECEA26EABECC"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.74","AppMajorVersion":"129","AppRollout":0.74,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"1.15.0.1"},{"appid":"ohckeflnhegojcjlcpbfpciadgikcohk","brand":"INBX","cohort":"rrf@0.82","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.26123BEF7D73536450862D2C4D44963D720AA80B6FC2D8496F559CB9C1FDEB00"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.82","AppMajorVersion":"129","AppRollout":0.82,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"0.0.1.4"},{"appid":"kpfehajjjbbcifeehjgfgnabifknmdad","brand":"INBX","cohort":"rrf@0.28","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.42AF0D1905C8F1D8F6167365271C4549A73603B838BA58B9A664C57C00DB1EE5"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.28","AppMajorVersion":"129","AppRollout":0.28,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"101.0.4906.0"},{"appid":"ndikpojcjlepofdkaaldkinkjbeeebkl","brand":"INBX","cohort":"rrf@0.71","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.8657AD8DF1B23B55192C68D707CEBC7653AC24FBD8F4EABDA9F8954FF88F1634"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.71","AppMajorVersion":"129","AppRollout":0.71,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"10.34.0.55"},{"appid":"ahmaebgpfccdhgidjaidaoojjcijckba","brand":"INBX","cohort":"rrf@0.68","enabled":true,"installdate":-1,"lang":"en-US","ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.68","AppMajorVersion":"129","AppRollout":0.68,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"0.0.0.0"},{"appid":"fgbafbciocncjfbbonhocjaohoknlaco","brand":"INBX","cohort":"rrf@0.93","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.73C9DC3F13E75C1A974790BA29AAB67B445C43B822F7F85C3566699CC3C8CAA0"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.93","AppMajorVersion":"129","AppRollout":0.93,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"2024.9.30.1"},{"appid":"alpjnmnfbgfkmmpcfpejmmoebdndedno","brand":"INBX","cohort":"rrf@0.73","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.3912AE3B63A3E8EE555D67078FBBDDCC8B8441A2EA309A96030A8239637C1476"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.73","AppMajorVersion":"129","AppRollout":0.73,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"13.0.0.0"},{"appid":"pbdgbpmpeenomngainidcjmopnklimmf","brand":"INBX","cohort":"rrf@0.98","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.CD01AC863490DA629313B1747627CB54E462DC5FA5C2C27FE1DA2E1B48BD1445"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.98","AppMajorVersion":"129","AppRollout":0.98,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"0.0.0.37"},{"appid":"jbfaflocpnkhbgcijpkiafdpbjkedane","brand":"INBX","cohort":"rrf@0.05","enabled":true,"installdate":-1,"lang":"en-US","ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.05","AppMajorVersion":"129","AppRollout":0.05,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"1.0.0.26"},{"appid":"ojblfafjmiikbkepnnolpgbbhejhlcim","brand":"INBX","cohort":"rrf@0.79","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.C1E0755E98DF77F5A56556098D6898E27C5295377F6F0703EF98DB199920CDB5"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.79","AppMajorVersion":"129","AppRollout":0.79,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"4.10.2830.1"},{"appid":"mkcgfaeepibomfapiapjaceihcojnphg","brand":"INBX","cohort":"rrf@0.48","enabled":true,"installdate":-1,"lang":"en-US","ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.48","AppMajorVersion":"129","AppRollout":0.48,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"0.0.0.0"},{"appid":"ebkkldgijmkljgglkajkjgedfnigiakk","brand":"INBX","cohort":"rrf@0.53","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.1B2BA8FC90BA68CD057B9CAAFFC218EAD59A23E37F79192ED37D0C3A7A8BAB03"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.53","AppMajorVersion":"129","AppRollout":0.53,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"1.0.0.20"},{"appid":"llmidpclgepbgbgoecnhcmgfhmfplfao","brand":"INBX","cohort":"rrf@0.12","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.9593C0EEA79E8855DACE1E0144FB849642EEEFD753125A8694E9FD32CC4200A8"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.12","AppMajorVersion":"129","AppRollout":0.12,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"2.0.7501.0"},{"appid":"plbmmhnabegcabfbcejohgjpkamkddhn","brand":"INBX","cohort":"rrf@0.76","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.3E92F6394954C39CD7B3D7D4D6E400ECC1F65B7699D7D476C3356469C8AB85BC"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.76","AppMajorVersion":"129","AppRollout":0.76,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"3042"},{"appid":"lkkdlcloifjinapabfonaibjijloebfb","brand":"INBX","cohort":"rrf@0.51","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.32EA8DE55A2EEB9A6933D9DDF784B7B6082C8F78E0A0EB6C7CDC592B68202ED9"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.51","AppMajorVersion":"129","AppRollout":0.51,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"4.0.3.2"},{"appid":"jcmcegpcehdchljeldgmmfbgcpnmgedo","brand":"INBX","cohort":"rrf@0.13","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.B40860DD69D4FE4AE6FC067FDC0142CE77B0E35B4A67AB4E921A3D6BA75AB625"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.13","AppMajorVersion":"129","AppRollout":0.13,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"2024.10.1.1"},{"appid":"mpicjakjneaggahlnmbojhjpnileolnb","brand":"INBX","cohort":"rrf@0.59","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.24A94139DFFBDDDC07B73D2BBA99F8E4D655EEDEEDE509206382145D9826F954"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.59","AppMajorVersion":"129","AppRollout":0.59,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"4.0.1.4"},{"appid":"omnckhpgfmaoelhddliebabpgblmmnjp","brand":"INBX","cohort":"rrf@0.38","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.DD91C7C496E4D9E8DF5BEAA3D33D45F9EF196B4F888D0FAC50EAF08CAD6B29D7"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.38","AppMajorVersion":"129","AppRollout":0.38,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"1.0.0.2"},{"appid":"dgkpjjieejhfoogjpoblmnlmhojmljbf","brand":"INBX","cohort":"rrf@0.33","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.6D2B207DD454C05C5D83DAFD692953A2ED258529A2663CDDEE4B12AB08906470"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.33","AppMajorVersion":"129","AppRollout":0.33,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"113.0.0.526"},{"appid":"hjaimielcgmceiphgjjfddlgjklfpdei","brand":"INBX","cohort":"rrf@0.40","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.A00289AF85D31D698A0F6753B6CE67DBAB4BDFF639BDE5FC588A5D5D8A3885D5"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.40","AppMajorVersion":"129","AppRollout":0.4,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"1.0.0.5"},{"appid":"lfmeghnikdkbonehgjihjebgioakijgn","brand":"INBX","cohort":"rrf@0.80","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.31B25F8D785E09EE34170E7815F16F23F4787D46638061DE39FAE50BEB0B857B"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.80","AppMajorVersion":"129","AppRollout":0.8,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"2.0.0.15"},{"appid":"cllppcmmlnkggcmljjfigkcigaajjmid","brand":"INBX","cohort":"rrf@0.62","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.52E08516DCAB025A84C9666F17D24EDA22D468C4D7CB276F38243440F4DCCE33"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.62","AppMajorVersion":"129","AppRollout":0.62,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"128.18125.18117.513"},{"appid":"pdfjdcjjjegpclfiilihfkmdfndkneei","brand":"INBX","cohort":"rrf@0.80","enabled":true,"installdate":-1,"lang":"en-US","packages":{"package":[{"fp":"1.1A9B65271849CEC83C6314FE7811524ED86D697687A0169F6E1B7C64A8F6F807"}]},"ping":{"r":-2},"targetingattributes":{"AppCohort":"rrf@0.80","AppMajorVersion":"129","AppRollout":0.8,"AppVersion":"129.0.2792.65","IsInternalUser":false,"Priority":false,"Updater":"Omaha","UpdaterVersion":"1.3.195.21"},"updatecheck":{},"version":"2024.7.17.0"}],"arch":"x64","dedup":"cr","domainjoined":true,"hw":{"avx":1,"physmemory":16,"sse":1,"sse2":1,"sse3":1,"sse41":1,"sse42":1,"ssse3":1},"ismachine":1,"nacl_arch":"x86-64","os":{"arch":"x86_64","platform":"Windows","version":"10.0.22631.4169"},"prodversion":"129.0.2792.65","protocol":"3.1","requestid":"{bc410c11-fc5b-4d8d-8d15-ebb9de703f5e}","sessionid":"{6b896c80-b653-4404-9cab-ee0fa70af047}","updater":{"autoupdatecheckenabled":true,"ismachine":1,"lastchecked":0,"laststarted":0,"name":"Omaha","updatepolicy":-1,"version":"1.3.195.21"},"updaterversion":"129.0.2792.65"}}]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="HEAD" name="/default/cloud_config_observers.json"
+    path="/default/cloud_config_observers.json" postType="6"
+    recordedArtifactZipFileName="team/vus/@outlook/%resources%/recorded-artifacts/4877ee0e-a107-4858-9213-e64dd66ff17d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="static.edge.microsoftapp.net" slaProfileEnabled="false"
+    uid="21b6c8c3-5621-440d-b95f-c52bc2d5787b" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_21b6c8c3-5621-440d-b95f-c52bc2d5787b.txt</requestContentFileDescription>
+    <header name="sec-fetch-mode" value="no-cors"/>
+    <header name="sec-fetch-site" value="none"/>
+    <header name="priority" value="u=4, i"/>
+    <header name="cache-control" value="no-cache"/>
+    <header name="accept-encoding" value="gzip, deflate, br, zstd"/>
+    <header name="pragma" value="no-cache"/>
+    <header name="user-agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0"/>
+    <header name="sec-fetch-dest" value="empty"/>
+    <responseHeaders>HTTP/2.0 200&#xd;
+date: Tue, 01 Oct 2024 21:49:40 GMT&#xd;
+content-type: application/json&#xd;
+content-length: 491&#xd;
+content-md5: VjV6rjxoRiSZbH6jBuxB+A==&#xd;
+last-modified: Fri, 27 Sep 2024 11:12:54 GMT&#xd;
+etag: 0x8DCDEE555A26FCD&#xd;
+x-ms-request-id: 0450c1e2-201e-003c-7bce-1047d1000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-azure-ref: 20241001T214940Z-16d6d947fcd9jvstbmcmpn7z9w0000000am000000000u97b&#xd;
+x-fd-int-roxy-purgeid: 76776038&#xd;
+x-cache: TCP_HIT&#xd;
+accept-ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

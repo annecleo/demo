@@ -21,12 +21,14 @@
         <weighted-embedded-action uid="355ef7c7-421a-4c24-8827-00fa4143cb6b"/>
         <weighted-embedded-action uid="1be73b4f-4a90-4920-b192-8a7aa2ff2d87"/>
         <weighted-embedded-action uid="601cbe94-a1a1-49a6-a38a-317d431f5a23"/>
+        <weighted-embedded-action uid="88ca7f4d-9b5c-4553-83f4-af931e66d683"/>
     </actions-container>
     <end-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements executed before the Virtual User stops.</description>
     </end-container>
+    <extraJsonData><![CDATA[{}]]></extraJsonData>
     <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
         thinktimeFactorValue="100" thinktimePolicy="0"
         thinktimeRangeValue="0" thinktimeValue="5000"/>
