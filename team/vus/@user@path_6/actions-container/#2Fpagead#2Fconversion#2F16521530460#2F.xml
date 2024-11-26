@@ -1,0 +1,153 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/pagead/conversion/16521530460/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/45a2e915-104e-4f85-ae5a-5e073a24909e.zip"
+    slaProfileEnabled="false" thinkTime="2123"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="45a2e915-104e-4f85-ae5a-5e073a24909e">
+    <embedded-action>bec293da-ab18-448f-8968-52b622237c75</embedded-action>
+    <embedded-action>706a6ff2-bde0-4814-94e5-0a3c5081296d</embedded-action>
+    <embedded-action>f057e4c0-9d76-4d8d-9e52-a59547ecd456</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/css; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pagead/conversion/16521530460/"
+    path="/pagead/conversion/16521530460/" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/45a2e915-104e-4f85-ae5a-5e073a24909e.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googleadservices.com" slaProfileEnabled="false"
+    uid="bec293da-ab18-448f-8968-52b622237c75" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_bec293da-ab18-448f-8968-52b622237c75.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="gad_source"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="adview_type"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="adview_query_id"
+        recordRawValue="CMq507TaxYkDFaPQFgUdVAAwVQ" separator="="
+        value="CMq507TaxYkDFaPQFgUdVAAwVQ" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.googleadservices.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+P3P: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"&#xd;
+Timing-Allow-Origin: *&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Content-Type: text/css; charset=UTF-8&#xd;
+Date: Tue, 05 Nov 2024 17:22:50 GMT&#xd;
+Pragma: no-cache&#xd;
+Expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: cafe&#xd;
+Content-Length: 0&#xd;
+X-XSS-Protection: 0&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/og/_/ss/k=og.asy.C3Z1AMB4Z7A.L.W.O/m=adcgm3,ll_fw/excm=/d=1/ed=1/ct=zgms/rs=AA2YrTv1pQRYs1hEoqDCY_LNxgozyOu3og"
+    path="/og/_/ss/k=og.asy.C3Z1AMB4Z7A.L.W.O/m=adcgm3,ll_fw/excm=/d=1/ed=1/ct=zgms/rs=AA2YrTv1pQRYs1hEoqDCY_LNxgozyOu3og"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/45a2e915-104e-4f85-ae5a-5e073a24909e.zip"
+    recordedResponseCode="200" responseSize="5289"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="706a6ff2-bde0-4814-94e5-0a3c5081296d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_706a6ff2-bde0-4814-94e5-0a3c5081296d.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_706a6ff2-bde0-4814-94e5-0a3c5081296d.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.gstatic.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Encoding: gzip&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/one-google-eng&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy: same-origin; report-to="one-google-eng"&#xd;
+Report-To: {"group":"one-google-eng","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/one-google-eng"}]}&#xd;
+Content-Length: 1244&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:34:17 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:34:17 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Wed, 09 Oct 2024 01:34:08 GMT&#xd;
+Content-Type: text/css; charset=UTF-8&#xd;
+Vary: Accept-Encoding, Origin&#xd;
+Age: 413313&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/og/_/js/k=og.asy.en_US.RvPXz33MqYM.2019.O/rt=j/m=_ac,_awd,ada,qads/exm=/d=1/ed=1/rs=AA2YrTvsOsUJR-5yro8TPLQfF9HoBnCHmg"
+    path="/og/_/js/k=og.asy.en_US.RvPXz33MqYM.2019.O/rt=j/m=_ac,_awd,ada,qads/exm=/d=1/ed=1/rs=AA2YrTvsOsUJR-5yro8TPLQfF9HoBnCHmg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/45a2e915-104e-4f85-ae5a-5e073a24909e.zip"
+    recordedResponseCode="200" responseSize="199985"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="f057e4c0-9d76-4d8d-9e52-a59547ecd456" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f057e4c0-9d76-4d8d-9e52-a59547ecd456</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f057e4c0-9d76-4d8d-9e52-a59547ecd456.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.gstatic.com"/>
+    <header name="Priority" value="u=3, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Encoding: gzip&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/one-google-eng&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy: same-origin; report-to="one-google-eng"&#xd;
+Report-To: {"group":"one-google-eng","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/one-google-eng"}]}&#xd;
+Content-Length: 72580&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:13:34 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:13:34 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Mon, 28 Oct 2024 01:31:05 GMT&#xd;
+Content-Type: text/javascript; charset=UTF-8&#xd;
+Vary: Accept-Encoding, Origin&#xd;
+Age: 414557&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

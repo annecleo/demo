@@ -28,7 +28,7 @@
     <responsePageFileDescription>recorded-responses/res_06379f60-ad8f-4336-86f7-e1a1d09272a5.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_06379f60-ad8f-4336-86f7-e1a1d09272a5.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="keyword"
-        recordRawValue="Amazon" separator="=" value="Amazon" valueMode="USE_VALUE"/>
+        recordRawValue="Amazon" separator="=" value="${newValue}" valueMode="USE_VALUE"/>
     <parameter encodeName="true" encodeValue="true"
         name="searchProducts" recordRawValue="Search" separator="="
         value="Search" valueMode="USE_VALUE"/>

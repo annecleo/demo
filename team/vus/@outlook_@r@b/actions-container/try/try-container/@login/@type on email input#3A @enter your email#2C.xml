@@ -26,5 +26,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//*[@placeholder=&quot;Email, phone, or Skype&quot;]"/>
     <custom-action-parameter name="text" type="TEXT" value="a.ecleo@tricentis.com"/>
     <custom-action-parameter name="delay" type="TEXT" value="200"/>
-    <screenshotFileDescription>recorded-screenshots/sc_e0425bd4-e21c-4096-8ca8-1d4d0b6af75f.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@outlook_@r@b/%resources%/recorded-screenshots/sc_e0425bd4-e21c-4096-8ca8-1d4d0b6af75f.jpg</screenshotFileDescription>
 </browser-action>

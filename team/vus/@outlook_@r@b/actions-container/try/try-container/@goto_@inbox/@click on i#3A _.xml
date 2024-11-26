@@ -24,5 +24,5 @@ Possible parameters are:&#xd;
 - ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
     <custom-action-parameter name="selector" type="TEXT" value="internal:label=&quot;Favorites&quot;i >> internal:text=&quot;&quot;i"/>
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//div/div[(count(preceding-sibling::*)+1) = 2]/div[(count(preceding-sibling::*)+1) = 1]/div[(count(preceding-sibling::*)+1) = 1]/div[(count(preceding-sibling::*)+1) = 1]/div[(count(preceding-sibling::*)+1) = 1]/div[(count(preceding-sibling::*)+1) = 1]/i[(count(preceding-sibling::*)+1) = 2]"/>
-    <screenshotFileDescription>recorded-screenshots/sc_f5492d72-90f2-4f43-944f-5f961d74ff66.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@outlook_@r@b/%resources%/recorded-screenshots/sc_f5492d72-90f2-4f43-944f-5f961d74ff66.jpg</screenshotFileDescription>
 </browser-action>

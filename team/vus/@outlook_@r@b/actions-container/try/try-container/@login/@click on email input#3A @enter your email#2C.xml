@@ -26,5 +26,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//*[@aria-label=&quot;Enter your email, phone, or Skype.&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//*[@type=&quot;email&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//*[@placeholder=&quot;Email, phone, or Skype&quot;]"/>
-    <screenshotFileDescription>recorded-screenshots/sc_6b3d4cbf-0068-4ed9-87fe-5a514b5b094b.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@outlook_@r@b/%resources%/recorded-screenshots/sc_6b3d4cbf-0068-4ed9-87fe-5a514b5b094b.jpg</screenshotFileDescription>
 </browser-action>

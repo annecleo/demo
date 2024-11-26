@@ -1,0 +1,4 @@
+<http-server hostname="embed-ssl.wistia.com" port="443" ssl="true"
+    uid="embed-ssl.wistia.com" urlrewriting-argument-name=""
+    urlrewriting-enabled="false" urlrewriting-path-extension="false"
+    urlrewriting-path-not-equals="false" urlrewriting-path-separator=";"/>

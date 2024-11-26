@@ -1,0 +1,76 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/webevents/clickLink"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/8b0f6d60-4d38-4cd5-8611-74e3eb57ffa6.zip"
+    slaProfileEnabled="false" thinkTime="1321"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8b0f6d60-4d38-4cd5-8611-74e3eb57ffa6">
+    <embedded-action>bbf37b16-3f49-4a90-93e2-86cdaa951c5a</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/plain; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/webevents/clickLink"
+    path="/webevents/clickLink" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/8b0f6d60-4d38-4cd5-8611-74e3eb57ffa6.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="070-pyt-570.mktoresp.com" slaProfileEnabled="false"
+    uid="bbf37b16-3f49-4a90-93e2-86cdaa951c5a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_bbf37b16-3f49-4a90-93e2-86cdaa951c5a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_bbf37b16-3f49-4a90-93e2-86cdaa951c5a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="_mchNc"
+        recordRawValue="1730827383638" separator="="
+        value="1730827383638" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchHr"
+        recordRawValue="https%3A%2F%2Fwww.tricentis.com%2Flearn%2Fperformance-testing"
+        separator="="
+        value="https://www.tricentis.com/learn/performance-testing" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchId"
+        recordRawValue="070-PYT-570" separator="=" value="070-PYT-570" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchTk"
+        recordRawValue="_mch-tricentis.com-1730827379260-32137"
+        separator="=" value="_mch-tricentis.com-1730827379260-32137" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchCn"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchHo"
+        recordRawValue="www.tricentis.com" separator="="
+        value="www.tricentis.com" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchPo"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchRu"
+        recordRawValue="%2Flp%2Fneoload-performance-testing-v2"
+        separator="=" value="/lp/neoload-performance-testing-v2" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchPc"
+        recordRawValue="https%3A" separator="=" value="https:" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchVr"
+        recordRawValue="164" separator="=" value="164" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchEcid"
+        recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="070-pyt-570.mktoresp.com"/>
+    <header name="Origin" value="https://www.tricentis.com"/>
+    <header name="Priority" value="u=7, i"/>
+    <header name="Referer" value="https://www.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.20.1&#xd;
+Date: Tue, 05 Nov 2024 17:23:03 GMT&#xd;
+Content-Type: text/plain; charset=UTF-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+X-Request-Id: dd2bdd29-5d83-4f48-b4b5-dd262d3ea65a&#xd;
+Content-Encoding: gzip&#xd;
+Access-Control-Allow-Origin: *</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

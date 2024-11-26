@@ -1,0 +1,57 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/pagead/conversion/16521530460/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_3/%resources%/recorded-artifacts/41b66016-5d2e-4d11-890a-21685ec3db8c.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="41b66016-5d2e-4d11-890a-21685ec3db8c">
+    <embedded-action>18a3f3f5-5dcb-4288-9e44-03b1a27820a0</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/css; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/pagead/conversion/16521530460/"
+    path="/pagead/conversion/16521530460/" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_3/%resources%/recorded-artifacts/41b66016-5d2e-4d11-890a-21685ec3db8c.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googleadservices.com" slaProfileEnabled="false"
+    uid="18a3f3f5-5dcb-4288-9e44-03b1a27820a0" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_18a3f3f5-5dcb-4288-9e44-03b1a27820a0.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="gad_source"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="adview_type"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="adview_query_id"
+        recordRawValue="CNS8wdHZxYkDFV7PTAId8nkPDw" separator="="
+        value="CNS8wdHZxYkDFV7PTAId8nkPDw" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.googleadservices.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+P3P: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"&#xd;
+Timing-Allow-Origin: *&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Content-Type: text/css; charset=UTF-8&#xd;
+Date: Tue, 05 Nov 2024 17:19:22 GMT&#xd;
+Pragma: no-cache&#xd;
+Expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: cafe&#xd;
+Content-Length: 0&#xd;
+X-XSS-Protection: 0&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,669 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/embed/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    slaProfileEnabled="false" thinkTime="103"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6c64ae3a-3740-4c55-a311-1c4a1ddcbf41">
+    <embedded-action>ba0a14cc-16b1-423c-8818-873086c8c390</embedded-action>
+    <embedded-action>a0127a59-06d0-4104-bc2a-a8dfb62b96a2</embedded-action>
+    <embedded-action>0ab14915-b9ec-4abc-95d5-1ab58194eb4f</embedded-action>
+    <embedded-action>a15d4188-f805-4467-a482-0cb1e5655594</embedded-action>
+    <embedded-action>b966c643-0821-44af-9669-e0c819920749</embedded-action>
+    <embedded-action>41e8c278-11b7-4960-8735-6a3a55f4ffee</embedded-action>
+    <embedded-action>fbc66a18-ece6-4f07-b302-fbfb3ec7a797</embedded-action>
+    <embedded-action>371809aa-ff1c-426d-bf91-edb568dae97c</embedded-action>
+    <embedded-action>8f52ac29-f12d-4a8b-ba02-1c9fda73e532</embedded-action>
+    <embedded-action>8008c69d-9a57-4d60-9699-badfe1bddea6</embedded-action>
+    <embedded-action>993a2d88-e23c-4c21-a59b-25c7072cc14b</embedded-action>
+    <embedded-action>69d2d739-71fb-4be5-b63b-93a2361f7ae4</embedded-action>
+    <embedded-action>a67e2127-8d20-4b8d-bfce-58ed19403203</embedded-action>
+    <embedded-action>e2faf498-8515-4cf0-9a5a-ef43a9518cc8</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/embed/" path="/embed/" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="62910"
+    serverUid="www.youtube.com" slaProfileEnabled="false"
+    uid="ba0a14cc-16b1-423c-8818-873086c8c390" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_ba0a14cc-16b1-423c-8818-873086c8c390.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ba0a14cc-16b1-423c-8818-873086c8c390.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="enablejsapi"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rel"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="autoplay"
+        recordRawValue="0" separator="=" value="0" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="playsinline"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="expflag"
+        recordRawValue="embeds_enable_muted_autoplay%3Atrue"
+        separator="=" value="embeds_enable_muted_autoplay:true" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="fs"
+        recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.youtube.com"/>
+    <header name="Priority" value="u=0, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Cache-Control: no-cache, no-store, max-age=0, must-revalidate&#xd;
+Pragma: no-cache&#xd;
+Expires: Mon, 01 Jan 1990 00:00:00 GMT&#xd;
+Date: Tue, 05 Nov 2024 17:22:51 GMT&#xd;
+Strict-Transport-Security: max-age=31536000&#xd;
+Content-Security-Policy: require-trusted-types-for 'script'&#xd;
+Report-To: {"group":"youtube_main","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube_main"}]}&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Permissions-Policy: ch-ua-arch=*, ch-ua-bitness=*, ch-ua-full-version=*, ch-ua-full-version-list=*, ch-ua-model=*, ch-ua-wow64=*, ch-ua-form-factors=*, ch-ua-platform=*, ch-ua-platform-version=*&#xd;
+Origin-Trial: AmhMBR6zCLzDDxpW+HfpP67BqwIknWnyMOXOQGfzYswFmJe+fgaI6XZgAzcxOrzNtP7hEDsOo1jdjFnVr2IdxQ4AAAB4eyJvcmlnaW4iOiJodHRwczovL3lvdXR1YmUuY29tOjQ0MyIsImZlYXR1cmUiOiJXZWJWaWV3WFJlcXVlc3RlZFdpdGhEZXByZWNhdGlvbiIsImV4cGlyeSI6MTc1ODA2NzE5OSwiaXNTdWJkb21haW4iOnRydWV9&#xd;
+P3P: CP="This is not a P3P policy! See http://support.google.com/accounts/answer/151657?hl=en for more info."&#xd;
+Content-Encoding: br&#xd;
+Transfer-Encoding: chunked&#xd;
+Server: ESF&#xd;
+X-XSS-Protection: 0&#xd;
+Set-Cookie: YSC=rML9XcW0sTc; Domain=.youtube.com; Path=/; Secure; HttpOnly; SameSite=none&#xd;
+Set-Cookie: VISITOR_INFO1_LIVE=3MXTbzPoHlU; Domain=.youtube.com; Expires=Sun, 04-May-2025 17:22:51 GMT; Path=/; Secure; HttpOnly; SameSite=none&#xd;
+Set-Cookie: VISITOR_PRIVACY_METADATA=CgJQSBIEGgAgZQ%3D%3D; Domain=.youtube.com; Expires=Sun, 04-May-2025 17:22:51 GMT; Path=/; Secure; HttpOnly; SameSite=none&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kpui/social/fb_32x32.png"
+    path="/kpui/social/fb_32x32.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="a0127a59-06d0-4104-bc2a-a8dfb62b96a2" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_a0127a59-06d0-4104-bc2a-a8dfb62b96a2.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.gstatic.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="static-on-bigtable"&#xd;
+Report-To: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}&#xd;
+Content-Length: 846&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:33:11 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:33:11 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Thu, 04 Apr 2024 14:18:00 GMT&#xd;
+Content-Type: image/png&#xd;
+Age: 413380&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kpui/social/whatsapp_solid_bg_36x36.png"
+    path="/kpui/social/whatsapp_solid_bg_36x36.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="0ab14915-b9ec-4abc-95d5-1ab58194eb4f" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_0ab14915-b9ec-4abc-95d5-1ab58194eb4f.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.gstatic.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="static-on-bigtable"&#xd;
+Report-To: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}&#xd;
+Content-Length: 419&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 21:52:43 GMT&#xd;
+Expires: Fri, 31 Oct 2025 21:52:43 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Thu, 03 Oct 2019 10:15:00 GMT&#xd;
+Content-Type: image/png&#xd;
+Age: 415808&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s/player/4e23410d/www-player.css"
+    path="/s/player/4e23410d/www-player.css" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="393636"
+    serverUid="www.youtube.com" slaProfileEnabled="false"
+    uid="a15d4188-f805-4467-a482-0cb1e5655594" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_a15d4188-f805-4467-a482-0cb1e5655594.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_a15d4188-f805-4467-a482-0cb1e5655594.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.youtube.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://www.youtube.com/"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Encoding: br&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube"&#xd;
+Report-To: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}&#xd;
+Content-Length: 49280&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:10:39 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:10:39 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Wed, 30 Oct 2024 04:17:07 GMT&#xd;
+Content-Type: text/css&#xd;
+Vary: Accept-Encoding, Origin&#xd;
+Age: 414732&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/kpui/social/x_32x32.png"
+    path="/kpui/social/x_32x32.png" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="b966c643-0821-44af-9669-e0c819920749" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b966c643-0821-44af-9669-e0c819920749.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.gstatic.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="static-on-bigtable"&#xd;
+Report-To: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}&#xd;
+Content-Length: 446&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:15:39 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:15:39 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Wed, 11 Oct 2023 22:28:00 GMT&#xd;
+Content-Type: image/png&#xd;
+Age: 414432&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/icons/material/system/1x/email_grey600_24dp.png"
+    path="/images/icons/material/system/1x/email_grey600_24dp.png"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="41e8c278-11b7-4960-8735-6a3a55f4ffee" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_41e8c278-11b7-4960-8735-6a3a55f4ffee.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.gstatic.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="static-on-bigtable"&#xd;
+Report-To: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}&#xd;
+Content-Length: 219&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:27:47 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:27:47 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Thu, 02 Nov 2023 22:48:00 GMT&#xd;
+Content-Type: image/png&#xd;
+Vary: Origin&#xd;
+Age: 413704&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css; charset=UTF-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/pagead/conversion/16521530460/"
+    path="/pagead/conversion/16521530460/" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="www.googleadservices.com" slaProfileEnabled="false"
+    uid="fbc66a18-ece6-4f07-b302-fbfb3ec7a797" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_fbc66a18-ece6-4f07-b302-fbfb3ec7a797.txt</requestContentFileDescription>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="gad_source" recordRawValue="1" separator="=" value="1" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="adview_type" recordRawValue="3" separator="=" value="3" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true"
+        name="adview_gclid"
+        recordRawValue="EAIaIQobChMIyrnTtNrFiQMVo9AWBR1UADBVEAAYASAAEgJsjPD_BwE"
+        separator="="
+        value="EAIaIQobChMIyrnTtNrFiQMVo9AWBR1UADBVEAAYASAAEgJsjPD_BwE" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain;charset=UTF-8"/>
+    <header name="Host" value="www.googleadservices.com"/>
+    <header name="Origin" value="https://www.google.com.ph"/>
+    <header name="Priority" value="u=7, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+P3P: policyref="https://www.googleadservices.com/pagead/p3p.xml", CP="NOI DEV PSA PSD IVA IVD OTP OUR OTR IND OTC"&#xd;
+Timing-Allow-Origin: *&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Content-Type: text/css; charset=UTF-8&#xd;
+Date: Tue, 05 Nov 2024 17:22:51 GMT&#xd;
+Pragma: no-cache&#xd;
+Expires: Fri, 01 Jan 1990 00:00:00 GMT&#xd;
+Cache-Control: no-cache, no-store, must-revalidate&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: cafe&#xd;
+Content-Length: 0&#xd;
+X-XSS-Protection: 0&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/vi/Secpf83-cuM/mqdefault.jpg"
+    path="/vi/Secpf83-cuM/mqdefault.jpg" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="0" serverUid="i.ytimg.com"
+    slaProfileEnabled="false" uid="371809aa-ff1c-426d-bf91-edb568dae97c" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_371809aa-ff1c-426d-bf91-edb568dae97c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="sqp"
+        recordRawValue="-oaymwEFCIcBEEw" separator="="
+        value="-oaymwEFCIcBEEw" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="rs"
+        recordRawValue="AMzJL3nmzU2hzJCtzIux1phnFQfM7HQFHQ"
+        separator="=" value="AMzJL3nmzU2hzJCtzIux1phnFQfM7HQFHQ" valueMode="USE_VALUE"/>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="i.ytimg.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Type: image/jpeg&#xd;
+Vary: Origin&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube"&#xd;
+Report-To: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}&#xd;
+Timing-Allow-Origin: *&#xd;
+Content-Length: 2403&#xd;
+Date: Tue, 05 Nov 2024 17:22:51 GMT&#xd;
+Expires: Tue, 05 Nov 2024 17:27:51 GMT&#xd;
+Cache-Control: public, max-age=300&#xd;
+ETag: "1730785858"&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/svg+xml"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s/i/productlogos/youtube/v9/192px.svg"
+    path="/s/i/productlogos/youtube/v9/192px.svg" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="611"
+    serverUid="fonts.gstatic.com" slaProfileEnabled="false"
+    uid="8f52ac29-f12d-4a8b-ba02-1c9fda73e532" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8f52ac29-f12d-4a8b-ba02-1c9fda73e532.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8f52ac29-f12d-4a8b-ba02-1c9fda73e532.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="fonts.gstatic.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Encoding: gzip&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy: same-origin; report-to="apps-themes"&#xd;
+Report-To: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}&#xd;
+Content-Length: 356&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 10:09:15 GMT&#xd;
+Expires: Fri, 31 Oct 2025 10:09:15 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Age: 458016&#xd;
+Last-Modified: Wed, 20 Apr 2022 13:43:37 GMT&#xd;
+Content-Type: image/svg+xml&#xd;
+Vary: Accept-Encoding&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/s/player/4e23410d/player_ias.vflset/en_US/embed.js"
+    path="/s/player/4e23410d/player_ias.vflset/en_US/embed.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="7607"
+    serverUid="www.youtube.com" slaProfileEnabled="false"
+    uid="8008c69d-9a57-4d60-9699-badfe1bddea6" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_8008c69d-9a57-4d60-9699-badfe1bddea6</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_8008c69d-9a57-4d60-9699-badfe1bddea6.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.youtube.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://www.youtube.com/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Encoding: br&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube"&#xd;
+Report-To: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}&#xd;
+Content-Length: 20807&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:33:11 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:33:11 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Wed, 30 Oct 2024 04:17:07 GMT&#xd;
+Content-Type: text/javascript&#xd;
+Vary: Accept-Encoding, Origin&#xd;
+Age: 413380&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/s/player/4e23410d/www-embed-player.vflset/www-embed-player.js"
+    path="/s/player/4e23410d/www-embed-player.vflset/www-embed-player.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200"
+    refererUid="ba0a14cc-16b1-423c-8818-873086c8c390"
+    responseSize="11755" serverUid="www.youtube.com"
+    slaProfileEnabled="false" uid="993a2d88-e23c-4c21-a59b-25c7072cc14b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_993a2d88-e23c-4c21-a59b-25c7072cc14b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_993a2d88-e23c-4c21-a59b-25c7072cc14b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.youtube.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://www.youtube.com/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Encoding: br&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube"&#xd;
+Report-To: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}&#xd;
+Content-Length: 100466&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:41:38 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:41:38 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Wed, 30 Oct 2024 04:17:07 GMT&#xd;
+Content-Type: text/javascript&#xd;
+Vary: Accept-Encoding, Origin&#xd;
+Age: 412873&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="8"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/s/player/4e23410d/player_ias.vflset/en_US/base.js"
+    path="/s/player/4e23410d/player_ias.vflset/en_US/base.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200"
+    refererUid="ba0a14cc-16b1-423c-8818-873086c8c390"
+    responseSize="11755" serverUid="www.youtube.com"
+    slaProfileEnabled="false" uid="69d2d739-71fb-4be5-b63b-93a2361f7ae4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_69d2d739-71fb-4be5-b63b-93a2361f7ae4</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_69d2d739-71fb-4be5-b63b-93a2361f7ae4.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.youtube.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://www.youtube.com/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Content-Encoding: br&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="youtube"&#xd;
+Report-To: {"group":"youtube","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/youtube"}]}&#xd;
+Content-Length: 627121&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:04:16 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:04:16 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Wed, 30 Oct 2024 04:17:07 GMT&#xd;
+Content-Type: text/javascript&#xd;
+Vary: Accept-Encoding, Origin&#xd;
+Age: 415115&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorContent="" extractorName="player/base"
+        extractorOccurence="9" extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2"
+    path="/s/roboto/v18/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="fonts.gstatic.com" slaProfileEnabled="false"
+    uid="a67e2127-8d20-4b8d-bfce-58ed19403203" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_a67e2127-8d20-4b8d-bfce-58ed19403203.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="fonts.gstatic.com"/>
+    <header name="Priority" value="u=3, i"/>
+    <header name="Referer" value="https://www.youtube.com/"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy: same-origin; report-to="apps-themes"&#xd;
+Report-To: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}&#xd;
+Timing-Allow-Origin: *&#xd;
+Content-Length: 10788&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 10:09:16 GMT&#xd;
+Expires: Fri, 31 Oct 2025 10:09:16 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Age: 458015&#xd;
+Last-Modified: Mon, 16 Oct 2017 17:32:55 GMT&#xd;
+Content-Type: font/woff2&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2"
+    path="/s/roboto/v18/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/6c64ae3a-3740-4c55-a311-1c4a1ddcbf41.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="fonts.gstatic.com" slaProfileEnabled="false"
+    uid="e2faf498-8515-4cf0-9a5a-ef43a9518cc8" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e2faf498-8515-4cf0-9a5a-ef43a9518cc8.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="fonts.gstatic.com"/>
+    <header name="Priority" value="u=3, i"/>
+    <header name="Referer" value="https://www.youtube.com/"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Content-Security-Policy-Report-Only: require-trusted-types-for 'script'; report-uri https://csp.withgoogle.com/csp/apps-themes&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy: same-origin; report-to="apps-themes"&#xd;
+Report-To: {"group":"apps-themes","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/apps-themes"}]}&#xd;
+Timing-Allow-Origin: *&#xd;
+Content-Length: 10748&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 22:32:18 GMT&#xd;
+Expires: Fri, 31 Oct 2025 22:32:18 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Mon, 16 Oct 2017 17:32:51 GMT&#xd;
+Content-Type: font/woff2&#xd;
+Age: 413433&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

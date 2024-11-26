@@ -1,0 +1,54 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/images/icons/material/system/2x/trending_up_grey600_24dp.png"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/2ed54692-24ca-48d1-8897-3d5ab3f3d69c.zip"
+    slaProfileEnabled="false" thinkTime="841"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2ed54692-24ca-48d1-8897-3d5ab3f3d69c">
+    <embedded-action>c4e7db02-8d35-4b99-9123-a050a40b7a63</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/png"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/images/icons/material/system/2x/trending_up_grey600_24dp.png"
+    path="/images/icons/material/system/2x/trending_up_grey600_24dp.png"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/2ed54692-24ca-48d1-8897-3d5ab3f3d69c.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="www.gstatic.com" slaProfileEnabled="false"
+    uid="c4e7db02-8d35-4b99-9123-a050a40b7a63" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_c4e7db02-8d35-4b99-9123-a050a40b7a63.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="www.gstatic.com"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Accept-Ranges: bytes&#xd;
+Cross-Origin-Resource-Policy: cross-origin&#xd;
+Cross-Origin-Opener-Policy-Report-Only: same-origin; report-to="static-on-bigtable"&#xd;
+Report-To: {"group":"static-on-bigtable","max_age":2592000,"endpoints":[{"url":"https://csp.withgoogle.com/csp/report-to/static-on-bigtable"}]}&#xd;
+Content-Length: 246&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server: sffe&#xd;
+X-XSS-Protection: 0&#xd;
+Date: Thu, 31 Oct 2024 21:55:38 GMT&#xd;
+Expires: Fri, 31 Oct 2025 21:55:38 GMT&#xd;
+Cache-Control: public, max-age=31536000&#xd;
+Last-Modified: Tue, 22 Oct 2019 18:15:00 GMT&#xd;
+Content-Type: image/png&#xd;
+Vary: Origin&#xd;
+Age: 415630&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

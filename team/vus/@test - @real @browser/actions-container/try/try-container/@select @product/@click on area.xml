@@ -25,7 +25,8 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="internal:role=link[name=&quot;Dogs&quot;i]"/>
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//map/area[(count(preceding-sibling::*)+1) = 3]"/>
     <custom-action-parameter name="waitForNavigation.url" type="TEXT" value=".*"/>
-    <responsePageFileDescription>recorded-responses/res_e99632d1-ea98-4883-9ec9-167705c5d812</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_e99632d1-ea98-4883-9ec9-167705c5d812.jpg</screenshotFileDescription>
+    <responsePageFileDescription>team/vus/@test - @real @browser/%resources%/recorded-responses/res_e99632d1-ea98-4883-9ec9-167705c5d812</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@test - @real @browser/%resources%/recorded-screenshots/sc_e99632d1-ea98-4883-9ec9-167705c5d812.jpg</screenshotFileDescription>
     <embedded-action>9baac3a4-1b5e-41cd-97e2-2abfa2130373</embedded-action>
 </browser-action>
+<browser-page-action name="" slaProfileEnabled="false" uid="9baac3a4-1b5e-41cd-97e2-2abfa2130373"/>

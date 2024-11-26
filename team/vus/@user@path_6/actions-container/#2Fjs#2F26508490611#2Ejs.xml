@@ -1,0 +1,60 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/js/26508490611.js"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/f99882ad-60b3-4c38-976b-cab4862e1592.zip"
+    slaProfileEnabled="false" thinkTime="581"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f99882ad-60b3-4c38-976b-cab4862e1592">
+    <embedded-action>e073ce4d-baa6-4bd0-9e67-7a43f849b4a9</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/js/26508490611.js" path="/js/26508490611.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/f99882ad-60b3-4c38-976b-cab4862e1592.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="cdn.optimizely.com" slaProfileEnabled="false"
+    uid="e073ce4d-baa6-4bd0-9e67-7a43f849b4a9" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_e073ce4d-baa6-4bd0-9e67-7a43f849b4a9.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="cdn.optimizely.com"/>
+    <header name="If-Modified-Since" value="Thu, 31 Oct 2024 04:02:19 GMT"/>
+    <header name="If-None-Match" value="&quot;e074dce31609fe09caf3905734838681&quot;"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://www.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Date: Tue, 05 Nov 2024 17:23:15 GMT&#xd;
+Connection: keep-alive&#xd;
+x-amz-id-2: n1FzK9cOzP4gq6CbHSmf5tV602J+ITCASlrl6YKJs1FGlNCopVHM7LASYvhyVFjyDaQ8IdMIV64=&#xd;
+x-amz-request-id: 2Z8BG4VHP8QXKA13&#xd;
+x-amz-replication-status: PENDING&#xd;
+Last-Modified: Thu, 31 Oct 2024 04:02:19 GMT&#xd;
+ETag: "e074dce31609fe09caf3905734838681"&#xd;
+x-amz-server-side-encryption: AES256&#xd;
+Cache-Control: max-age=120&#xd;
+x-amz-meta-revision: 1410&#xd;
+x-amz-meta-pci_enabled: False&#xd;
+x-amz-version-id: dgPjZHav8rZA2JdtMsq8OHwkwLvT6YRD&#xd;
+CF-Cache-Status: HIT&#xd;
+Age: 280&#xd;
+Vary: Accept-Encoding&#xd;
+Timing-Allow-Origin: *&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Allow-Methods: GET, HEAD&#xd;
+Access-Control-Allow-Headers: *&#xd;
+Access-Control-Expose-Headers: x-amz-meta-revision&#xd;
+Access-Control-Allow-Credentials: false&#xd;
+Access-Control-Max-Age: 86400&#xd;
+Server: cloudflare&#xd;
+CF-RAY: 8dde87d6ff52ce25-SIN</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,6 @@
+<lg-host browserBasedSupport="false" citrixSupport="false"
+    hostname="byde7194jml:7100" loadWeight="1" sapSupport="false"
+    standalone="false" supportWANEmulation="false"
+    uid="7eef71dd-b912-492d-bc25-8fd92e143704" version="">
+    <!--****** LG NETWORK INTERFACES ******-->
+</lg-host>

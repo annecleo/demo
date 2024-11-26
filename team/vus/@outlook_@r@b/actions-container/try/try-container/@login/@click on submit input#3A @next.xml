@@ -25,5 +25,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="internal:role=button[name=&quot;Next&quot;i]"/>
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//*[@type=&quot;submit&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//div/div[(count(preceding-sibling::*)+1) = 1]/div[(count(preceding-sibling::*)+1) = 1]/input[(count(preceding-sibling::*)+1) = 1]"/>
-    <screenshotFileDescription>recorded-screenshots/sc_26467f00-e1c2-4053-b0f5-d4704405d295.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@outlook_@r@b/%resources%/recorded-screenshots/sc_26467f00-e1c2-4053-b0f5-d4704405d295.jpg</screenshotFileDescription>
 </browser-action>

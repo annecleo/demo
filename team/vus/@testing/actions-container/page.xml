@@ -1,0 +1,30 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="page"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@testing/%resources%/recorded-artifacts/d70f9b16-3ba0-44ec-9c26-3b0d440b86de.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="d70f9b16-3ba0-44ec-9c26-3b0d440b86de">
+    <embedded-action>e7a93552-006a-4efe-baee-f0742a0380d2</embedded-action>
+    <embedded-action>c026866c-dfd7-43c9-8192-30978f723119</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="http_request_" path="/" postType="1"
+    serverUid="070-pyt-570.mktoresp.com" slaProfileEnabled="false"
+    uid="e7a93552-006a-4efe-baee-f0742a0380d2" useKeepAlive="false">
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="" path="/" postType="1"
+    serverUid="070-pyt-570.mktoresp.com" slaProfileEnabled="false"
+    uid="c026866c-dfd7-43c9-8192-30978f723119" useKeepAlive="false">
+    <responseHeaders/>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

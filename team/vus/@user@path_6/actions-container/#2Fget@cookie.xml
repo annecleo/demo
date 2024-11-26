@@ -1,0 +1,192 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false" name="/getCookie"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/e904ad36-b3ca-4373-80c4-ef01b912980d.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e904ad36-b3ca-4373-80c4-ef01b912980d">
+    <embedded-action>b17af20d-f73c-408f-b75a-f0cb75c12a88</embedded-action>
+    <embedded-action>5f9fe1ca-ea6a-42cb-aefc-3c6a97c47da9</embedded-action>
+    <embedded-action>ea878245-8186-4fb7-9db9-354859d08701</embedded-action>
+    <embedded-action>e15a89b0-35eb-441a-84d1-29265c154a9b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/getCookie" path="/getCookie" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/e904ad36-b3ca-4373-80c4-ef01b912980d.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="lps.tricentis.com" slaProfileEnabled="false"
+    uid="b17af20d-f73c-408f-b75a-f0cb75c12a88" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b17af20d-f73c-408f-b75a-f0cb75c12a88.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="_mchId"
+        recordRawValue="070-PYT-570" separator="=" value="070-PYT-570" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mchTd"
+        recordRawValue="tricentis.com" separator="="
+        value="tricentis.com" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="BIGipServersj19web-nginx-app_https=!AnWyWmgzC2lZuwyu/iht9W3PGpXZckizqmc4iBv6a+28iQjL/Fv4ROMRJ4T6vSQ94rWWGfpOfHjWLQ==; __cf_bm=M2wWP455qexvbjUiIF5k8RkBEwb7Q39kQnghF9Cuf3I-1730827377-1.0.1.1-7F5NF9q2gBOb4SElCHKnDDhmGVWzeVv43uyyhsGngQmmhGhqWusBe4wbmIGNfInxnC1koVf.MTYRqWImloTVWA; OptanonAlertBoxClosed=2024-11-05T17:22:57.384Z; OptanonConsent=isGpcEnabled=0&amp;datestamp=Wed+Nov+06+2024+01%3A22%3A57+GMT%2B0800+(Philippine+Standard+Time)&amp;version=202401.1.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1%2CC0005%3A1&amp;AwaitingReconsent=false; optimizelyEndUserId=oeu1730827375532r0.5053756356237025; optimizelyRedirectData=a=26508490611&amp;aId=1730827375531&amp;as=&amp;cN=js&amp;cV=0.214.0&amp;d=21c0c453-37af-44c7-b08f-d016f25942a9&amp;i=oeu1730827375532r0.5053756356237025&amp;iS.google_analytics_4=%7B%7D&amp;isv=2&amp;l=30081230388&amp;lN=Redirection%20test&amp;lP=single_experiment&amp;n=1410&amp;ns=26508490611&amp;p=26508490611&amp;r=&amp;s=62611d8b-aa22-40f2-85bd-0de9352048b6&amp;t=1730827375544&amp;v=30099120099&amp;vN=Variation%20%231&amp;x=30083960129&amp;xN=Redirection%20test"/>
+    <header name="Host" value="lps.tricentis.com"/>
+    <header name="Origin" value="https://www.tricentis.com"/>
+    <header name="Priority" value="u=3, i"/>
+    <header name="Referer" value="https://www.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 05 Nov 2024 17:22:59 GMT&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Content-Length: 0&#xd;
+Connection: keep-alive&#xd;
+Access-Control-Allow-Origin: https://www.tricentis.com&#xd;
+Set-Cookie: _mkto_trk_http=id:070-PYT-570&amp;token:_mch-tricentis.com-1730827379260-32137; expires=Thu, 05 Nov 2026 17:22:59 GMT; domain=tricentis.com; secure; HttpOnly&#xd;
+Vary: Origin, Accept-Encoding&#xd;
+Access-control-allow-credentials: true&#xd;
+Access-Control-Expose-Headers: set-cookie&#xd;
+set-cookie: _mkto_trk=id:070-PYT-570&amp;token:_mch-tricentis.com-1730827379260-32137; expires=Thu, 05 Nov 2026 17:22:59 GMT; domain=tricentis.com; secure&#xd;
+Server: cloudflare&#xd;
+CF-RAY: 8dde87703bb2a993-SIN</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/plain; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/mput" path="/mput" postCharset="iso-8859-1"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/e904ad36-b3ca-4373-80c4-ef01b912980d.zip"
+    recordedResponseCode="200" responseSize="2"
+    serverUid="pipedream.wistia.com" slaProfileEnabled="false"
+    uid="5f9fe1ca-ea6a-42cb-aefc-3c6a97c47da9" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[eyJ0eXBlIjoiY291bnQiLCJrZXkiOiJwbGF5ZXIvcmVzdW1hYmxlLWNsb3NlLXRvLWJlZ2lubmluZyIsInZhbHVlIjoxLCJyZXF1ZXN0X2lkIjowLCJsb2NhdGlvbiI6Imh0dHBzOi8vd3d3LnRyaWNlbnRpcy5jb20iLCJhZ2VudCI6Ik1vemlsbGEvNS4wIChpUGhvbmU7IENQVSBpUGhvbmUgT1MgMThfMSBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTguMSBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSIsImFjY291bnRfa2V5Ijoid2lzdGlhLXByb2R1Y3Rpb25fODQzNzY4IiwiYXQiOjAsInZpZGVvX2lkIjoieG82OXRxa3cyaCIsImVtYmVkX3R5cGUiOiJ2dWxjYW4tdjIiLCJkdXJhdGlvbiI6MzM2LjEyOCwiYXV0b3BsYXkiOmZhbHNlLCJpbl9pZnJhbWUiOmZhbHNlLCJkZXZpY2VfcGl4ZWxfcmF0aW8iOjMsIndpbmRvd193aWR0aCI6NDMwLCJ3aW5kb3dfaGVpZ2h0Ijo3MzksInZpZGVvX3dpZHRoIjozODAsInZpZGVvX2hlaWdodCI6MjA2LCJ2aXNpdG9yX2tleSI6IjE3MzA4MjdfY2E3ZTZhY2QtMzg1Mi00NTMxLTkyMzItYmU5MGZiZGRhMmRkLThlYjFkODkxZS05OTUyY2EwNGRmNzctNTcyNCIsImV2ZW50X2tleSI6IjE3MzA4MjdfZDNjY2VhMjUtNzVjYi00OTA1LWFkYjAtM2Y5MGE2NjU3YjdmLTY3MTNjNWYzOS1kMWZkNmIzYTU3Y2YtNzlmZSIsImV2ZW50X3RpbWVfZGVsdGEiOjMxLCJ2ZXJzaW9uIjo5LCJpbl9mdWxsc2NyZWVuIjpmYWxzZSwiYnVmZmVyZWQiOjAsInBsYXllZCI6MH0KeyJ0eXBlIjoiY291bnQiLCJrZXkiOiJwbGF5ZXIvaW5pdGVtYmVkIiwidmFsdWUiOjEsInJlcXVlc3RfaWQiOjAsImxvY2F0aW9uIjoiaHR0cHM6Ly93d3cudHJpY2VudGlzLmNvbSIsImFnZW50IjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxOF8xIGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4xIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xIiwiYWNjb3VudF9rZXkiOiJ3aXN0aWEtcHJvZHVjdGlvbl84NDM3NjgiLCJhdCI6MCwidmlkZW9faWQiOiJ4bzY5dHFrdzJoIiwiZW1iZWRfdHlwZSI6InZ1bGNhbi12MiIsImR1cmF0aW9uIjozMzYuMTI4LCJhdXRvcGxheSI6ZmFsc2UsImluX2lmcmFtZSI6ZmFsc2UsImRldmljZV9waXhlbF9yYXRpbyI6Mywid2luZG93X3dpZHRoIjo0MzAsIndpbmRvd19oZWlnaHQiOjc2NiwidmlkZW9fd2lkdGgiOjM4MCwidmlkZW9faGVpZ2h0IjoyMDYsInZpc2l0b3Jfa2V5IjoiMTczMDgyN19jYTdlNmFjZC0zODUyLTQ1MzEtOTIzMi1iZTkwZmJkZGEyZGQtOGViMWQ4OTFlLTk5NTJjYTA0ZGY3Ny01NzI0IiwiZXZlbnRfa2V5IjoiMTczMDgyN19kM2NjZWEyNS03NWNiLTQ5MDUtYWRiMC0zZjkwYTY2NTdiN2YtNjcxM2M1ZjM5LWQxZmQ2YjNhNTdjZi03OWZlIiwiZXZlbnRfdGltZV9kZWx0YSI6MjM0LCJ2ZXJzaW9uIjo5LCJpbl9mdWxsc2NyZWVuIjpmYWxzZSwiYnVmZmVyZWQiOjAsInBsYXllZCI6MH0KeyJ0eXBlIjoiY291bnQiLCJrZXkiOiJwbGF5ZXIvaW5pdGVtYmVkLm1vYmlsZSIsInZhbHVlIjoxLCJyZXF1ZXN0X2lkIjowLCJsb2NhdGlvbiI6Imh0dHBzOi8vd3d3LnRyaWNlbnRpcy5jb20iLCJhZ2VudCI6Ik1vemlsbGEvNS4wIChpUGhvbmU7IENQVSBpUGhvbmUgT1MgMThfMSBsaWtlIE1hYyBPUyBYKSBBcHBsZVdlYktpdC82MDUuMS4xNSAoS0hUTUwsIGxpa2UgR2Vja28pIFZlcnNpb24vMTguMSBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSIsImFjY291bnRfa2V5Ijoid2lzdGlhLXByb2R1Y3Rpb25fODQzNzY4IiwiYXQiOjAsInZpZGVvX2lkIjoieG82OXRxa3cyaCIsImVtYmVkX3R5cGUiOiJ2dWxjYW4tdjIiLCJkdXJhdGlvbiI6MzM2LjEyOCwiYXV0b3BsYXkiOmZhbHNlLCJpbl9pZnJhbWUiOmZhbHNlLCJkZXZpY2VfcGl4ZWxfcmF0aW8iOjMsIndpbmRvd193aWR0aCI6NDMwLCJ3aW5kb3dfaGVpZ2h0Ijo3NjYsInZpZGVvX3dpZHRoIjozODAsInZpZGVvX2hlaWdodCI6MjA2LCJ2aXNpdG9yX2tleSI6IjE3MzA4MjdfY2E3ZTZhY2QtMzg1Mi00NTMxLTkyMzItYmU5MGZiZGRhMmRkLThlYjFkODkxZS05OTUyY2EwNGRmNzctNTcyNCIsImV2ZW50X2tleSI6IjE3MzA4MjdfZDNjY2VhMjUtNzVjYi00OTA1LWFkYjAtM2Y5MGE2NjU3YjdmLTY3MTNjNWYzOS1kMWZkNmIzYTU3Y2YtNzlmZSIsImV2ZW50X3RpbWVfZGVsdGEiOjIzNCwidmVyc2lvbiI6OSwiaW5fZnVsbHNjcmVlbiI6ZmFsc2UsImJ1ZmZlcmVkIjowLCJwbGF5ZWQiOjB9CnsidHlwZSI6ImNvdW50Iiwia2V5IjoicGxheWVyL2luaXRlbWJlZC5pcGhvbmUiLCJ2YWx1ZSI6MSwicmVxdWVzdF9pZCI6MCwibG9jYXRpb24iOiJodHRwczovL3d3dy50cmljZW50aXMuY29tIiwiYWdlbnQiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE4LjEgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEiLCJhY2NvdW50X2tleSI6Indpc3RpYS1wcm9kdWN0aW9uXzg0Mzc2OCIsImF0IjowLCJ2aWRlb19pZCI6InhvNjl0cWt3MmgiLCJlbWJlZF90eXBlIjoidnVsY2FuLXYyIiwiZHVyYXRpb24iOjMzNi4xMjgsImF1dG9wbGF5IjpmYWxzZSwiaW5faWZyYW1lIjpmYWxzZSwiZGV2aWNlX3BpeGVsX3JhdGlvIjozLCJ3aW5kb3dfd2lkdGgiOjQzMCwid2luZG93X2hlaWdodCI6NzY2LCJ2aWRlb193aWR0aCI6MzgwLCJ2aWRlb19oZWlnaHQiOjIwNiwidmlzaXRvcl9rZXkiOiIxNzMwODI3X2NhN2U2YWNkLTM4NTItNDUzMS05MjMyLWJlOTBmYmRkYTJkZC04ZWIxZDg5MWUtOTk1MmNhMDRkZjc3LTU3MjQiLCJldmVudF9rZXkiOiIxNzMwODI3X2QzY2NlYTI1LTc1Y2ItNDkwNS1hZGIwLTNmOTBhNjY1N2I3Zi02NzEzYzVmMzktZDFmZDZiM2E1N2NmLTc5ZmUiLCJldmVudF90aW1lX2RlbHRhIjoyMzQsInZlcnNpb24iOjksImluX2Z1bGxzY3JlZW4iOmZhbHNlLCJidWZmZXJlZCI6MCwicGxheWVkIjowfQp7InR5cGUiOiJjb3VudCIsImtleSI6InBsYXllci9pbml0ZW1iZWQubGVnYWN5IiwidmFsdWUiOjEsInJlcXVlc3RfaWQiOjAsImxvY2F0aW9uIjoiaHR0cHM6Ly93d3cudHJpY2VudGlzLmNvbSIsImFnZW50IjoiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxOF8xIGxpa2UgTWFjIE9TIFgpIEFwcGxlV2ViS2l0LzYwNS4xLjE1IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xOC4xIE1vYmlsZS8xNUUxNDggU2FmYXJpLzYwNC4xIiwiYWNjb3VudF9rZXkiOiJ3aXN0aWEtcHJvZHVjdGlvbl84NDM3NjgiLCJhdCI6MCwidmlkZW9faWQiOiJ4bzY5dHFrdzJoIiwiZW1iZWRfdHlwZSI6InZ1bGNhbi12MiIsImR1cmF0aW9uIjozMzYuMTI4LCJhdXRvcGxheSI6ZmFsc2UsImluX2lmcmFtZSI6ZmFsc2UsImRldmljZV9waXhlbF9yYXRpbyI6Mywid2luZG93X3dpZHRoIjo0MzAsIndpbmRvd19oZWlnaHQiOjc2NiwidmlkZW9fd2lkdGgiOjM4MCwidmlkZW9faGVpZ2h0IjoyMDYsInZpc2l0b3Jfa2V5IjoiMTczMDgyN19jYTdlNmFjZC0zODUyLTQ1MzEtOTIzMi1iZTkwZmJkZGEyZGQtOGViMWQ4OTFlLTk5NTJjYTA0ZGY3Ny01NzI0IiwiZXZlbnRfa2V5IjoiMTczMDgyN19kM2NjZWEyNS03NWNiLTQ5MDUtYWRiMC0zZjkwYTY2NTdiN2YtNjcxM2M1ZjM5LWQxZmQ2YjNhNTdjZi03OWZlIiwiZXZlbnRfdGltZV9kZWx0YSI6MjM0LCJ2ZXJzaW9uIjo5LCJpbl9mdWxsc2NyZWVuIjpmYWxzZSwiYnVmZmVyZWQiOjAsInBsYXllZCI6MH0KeyJ0eXBlIjoiY291bnQiLCJrZXkiOiJwbGF5ZXIvYXZhaWxhYmxlLXBsYXllcnMiLCJ2YWx1ZSI6MSwicmVxdWVzdF9pZCI6MCwibG9jYXRpb24iOiJodHRwczovL3d3dy50cmljZW50aXMuY29tIiwiYWdlbnQiOiJNb3ppbGxhLzUuMCAoaVBob25lOyBDUFUgaVBob25lIE9TIDE4XzEgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzE4LjEgTW9iaWxlLzE1RTE0OCBTYWZhcmkvNjA0LjEiLCJhY2NvdW50X2tleSI6Indpc3RpYS1wcm9kdWN0aW9uXzg0Mzc2OCIsImF0IjowLCJ2aWRlb19pZCI6InhvNjl0cWt3MmgiLCJlbWJlZF90eXBlIjoidnVsY2FuLXYyIiwiZHVyYXRpb24iOjMzNi4xMjgsImF1dG9wbGF5IjpmYWxzZSwiaW5faWZyYW1lIjpmYWxzZSwiZGV2aWNlX3BpeGVsX3JhdGlvIjozLCJ3aW5kb3dfd2lkdGgiOjQzMCwid2luZG93X2hlaWdodCI6NzY2LCJ2aWRlb193aWR0aCI6MzgwLCJ2aWRlb19oZWlnaHQiOjIwNiwidmlzaXRvcl9rZXkiOiIxNzMwODI3X2NhN2U2YWNkLTM4NTItNDUzMS05MjMyLWJlOTBmYmRkYTJkZC04ZWIxZDg5MWUtOTk1MmNhMDRkZjc3LTU3MjQiLCJldmVudF9rZXkiOiIxNzMwODI3X2QzY2NlYTI1LTc1Y2ItNDkwNS1hZGIwLTNmOTBhNjY1N2I3Zi02NzEzYzVmMzktZDFmZDZiM2E1N2NmLTc5ZmUiLCJldmVudF90aW1lX2RlbHRhIjoyMzQsInZlcnNpb24iOjksImF2YWlsYWJsZV9wbGF5ZXJzIjpbIm5vdHBsYXlhYmxlIiwicGFzc3dvcmRwcm90ZWN0ZWQiLCJleHRlcm5hbCIsInZ1bGNhbi12MiIsImh0bWw1Il0sImluX2Z1bGxzY3JlZW4iOmZhbHNlLCJidWZmZXJlZCI6MCwicGxheWVkIjowfSR7QXV0b1Bhc3N3b3JkXzJ9]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_5f9fe1ca-ea6a-42cb-aefc-3c6a97c47da9</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5f9fe1ca-ea6a-42cb-aefc-3c6a97c47da9.txt</requestContentFileDescription>
+    <parameter encodeName="false" encodeValue="true"
+        name="{&quot;type&quot;:&quot;count&quot;,&quot;key&quot;:&quot;player/resumable-close-to-beginning&quot;,&quot;value&quot;:1,&quot;request_id&quot;:0,&quot;location&quot;:&quot;https://www.tricentis.com&quot;,&quot;agent&quot;:&quot;Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1&quot;,&quot;account_key&quot;:&quot;wistia-production_843768&quot;,&quot;at&quot;:0,&quot;video_id&quot;:&quot;xo69tqkw2h&quot;,&quot;embed_type&quot;:&quot;vulcan-v2&quot;,&quot;duration&quot;:336.128,&quot;autoplay&quot;:false,&quot;in_iframe&quot;:false,&quot;device_pixel_ratio&quot;:3,&quot;window_width&quot;:430,&quot;window_height&quot;:739,&quot;video_width&quot;:380,&quot;video_height&quot;:206,&quot;visitor_key&quot;:&quot;1730827_ca7e6acd-3852-4531-9232-be90fbdda2dd-8eb1d891e-9952ca04df77-5724&quot;,&quot;event_key&quot;:&quot;1730827_d3ccea25-75cb-4905-adb0-3f90a6657b7f-6713c5f39-d1fd6b3a57cf-79fe&quot;,&quot;event_time_delta&quot;:31,&quot;version&quot;:9,&quot;in_fullscreen&quot;:false,&quot;buffered&quot;:0,&quot;played&quot;:0}&#xa;{&quot;type&quot;:&quot;count&quot;,&quot;key&quot;:&quot;player/initembed&quot;,&quot;value&quot;:1,&quot;request_id&quot;:0,&quot;location&quot;:&quot;https://www.tricentis.com&quot;,&quot;agent&quot;:&quot;Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1&quot;,&quot;account_key&quot;:&quot;wistia-production_843768&quot;,&quot;at&quot;:0,&quot;video_id&quot;:&quot;xo69tqkw2h&quot;,&quot;embed_type&quot;:&quot;vulcan-v2&quot;,&quot;duration&quot;:336.128,&quot;autoplay&quot;:false,&quot;in_iframe&quot;:false,&quot;device_pixel_ratio&quot;:3,&quot;window_width&quot;:430,&quot;window_height&quot;:766,&quot;video_width&quot;:380,&quot;video_height&quot;:206,&quot;visitor_key&quot;:&quot;1730827_ca7e6acd-3852-4531-9232-be90fbdda2dd-8eb1d891e-9952ca04df77-5724&quot;,&quot;event_key&quot;:&quot;1730827_d3ccea25-75cb-4905-adb0-3f90a6657b7f-6713c5f39-d1fd6b3a57cf-79fe&quot;,&quot;event_time_delta&quot;:234,&quot;version&quot;:9,&quot;in_fullscreen&quot;:false,&quot;buffered&quot;:0,&quot;played&quot;:0}&#xa;{&quot;type&quot;:&quot;count&quot;,&quot;key&quot;:&quot;player/initembed.mobile&quot;,&quot;value&quot;:1,&quot;request_id&quot;:0,&quot;location&quot;:&quot;https://www.tricentis.com&quot;,&quot;agent&quot;:&quot;Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1&quot;,&quot;account_key&quot;:&quot;wistia-production_843768&quot;,&quot;at&quot;:0,&quot;video_id&quot;:&quot;xo69tqkw2h&quot;,&quot;embed_type&quot;:&quot;vulcan-v2&quot;,&quot;duration&quot;:336.128,&quot;autoplay&quot;:false,&quot;in_iframe&quot;:false,&quot;device_pixel_ratio&quot;:3,&quot;window_width&quot;:430,&quot;window_height&quot;:766,&quot;video_width&quot;:380,&quot;video_height&quot;:206,&quot;visitor_key&quot;:&quot;1730827_ca7e6acd-3852-4531-9232-be90fbdda2dd-8eb1d891e-9952ca04df77-5724&quot;,&quot;event_key&quot;:&quot;1730827_d3ccea25-75cb-4905-adb0-3f90a6657b7f-6713c5f39-d1fd6b3a57cf-79fe&quot;,&quot;event_time_delta&quot;:234,&quot;version&quot;:9,&quot;in_fullscreen&quot;:false,&quot;buffered&quot;:0,&quot;played&quot;:0}&#xa;{&quot;type&quot;:&quot;count&quot;,&quot;key&quot;:&quot;player/initembed.iphone&quot;,&quot;value&quot;:1,&quot;request_id&quot;:0,&quot;location&quot;:&quot;https://www.tricentis.com&quot;,&quot;agent&quot;:&quot;Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1&quot;,&quot;account_key&quot;:&quot;wistia-production_843768&quot;,&quot;at&quot;:0,&quot;video_id&quot;:&quot;xo69tqkw2h&quot;,&quot;embed_type&quot;:&quot;vulcan-v2&quot;,&quot;duration&quot;:336.128,&quot;autoplay&quot;:false,&quot;in_iframe&quot;:false,&quot;device_pixel_ratio&quot;:3,&quot;window_width&quot;:430,&quot;window_height&quot;:766,&quot;video_width&quot;:380,&quot;video_height&quot;:206,&quot;visitor_key&quot;:&quot;1730827_ca7e6acd-3852-4531-9232-be90fbdda2dd-8eb1d891e-9952ca04df77-5724&quot;,&quot;event_key&quot;:&quot;1730827_d3ccea25-75cb-4905-adb0-3f90a6657b7f-6713c5f39-d1fd6b3a57cf-79fe&quot;,&quot;event_time_delta&quot;:234,&quot;version&quot;:9,&quot;in_fullscreen&quot;:false,&quot;buffered&quot;:0,&quot;played&quot;:0}&#xa;{&quot;type&quot;:&quot;count&quot;,&quot;key&quot;:&quot;player/initembed.legacy&quot;,&quot;value&quot;:1,&quot;request_id&quot;:0,&quot;location&quot;:&quot;https://www.tricentis.com&quot;,&quot;agent&quot;:&quot;Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1&quot;,&quot;account_key&quot;:&quot;wistia-production_843768&quot;,&quot;at&quot;:0,&quot;video_id&quot;:&quot;xo69tqkw2h&quot;,&quot;embed_type&quot;:&quot;vulcan-v2&quot;,&quot;duration&quot;:336.128,&quot;autoplay&quot;:false,&quot;in_iframe&quot;:false,&quot;device_pixel_ratio&quot;:3,&quot;window_width&quot;:430,&quot;window_height&quot;:766,&quot;video_width&quot;:380,&quot;video_height&quot;:206,&quot;visitor_key&quot;:&quot;1730827_ca7e6acd-3852-4531-9232-be90fbdda2dd-8eb1d891e-9952ca04df77-5724&quot;,&quot;event_key&quot;:&quot;1730827_d3ccea25-75cb-4905-adb0-3f90a6657b7f-6713c5f39-d1fd6b3a57cf-79fe&quot;,&quot;event_time_delta&quot;:234,&quot;version&quot;:9,&quot;in_fullscreen&quot;:false,&quot;buffered&quot;:0,&quot;played&quot;:0}&#xa;{&quot;type&quot;:&quot;count&quot;,&quot;key&quot;:&quot;player/available-players&quot;,&quot;value&quot;:1,&quot;request_id&quot;:0,&quot;location&quot;:&quot;https://www.tricentis.com&quot;,&quot;agent&quot;:&quot;Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1&quot;,&quot;account_key&quot;:&quot;wistia-production_843768&quot;,&quot;at&quot;:0,&quot;video_id&quot;:&quot;xo69tqkw2h&quot;,&quot;embed_type&quot;:&quot;vulcan-v2&quot;,&quot;duration&quot;:336.128,&quot;autoplay&quot;:false,&quot;in_iframe&quot;:false,&quot;device_pixel_ratio&quot;:3,&quot;window_width&quot;:430,&quot;window_height&quot;:766,&quot;video_width&quot;:380,&quot;video_height&quot;:206,&quot;visitor_key&quot;:&quot;1730827_ca7e6acd-3852-4531-9232-be90fbdda2dd-8eb1d891e-9952ca04df77-5724&quot;,&quot;event_key&quot;:&quot;1730827_d3ccea25-75cb-4905-adb0-3f90a6657b7f-6713c5f39-d1fd6b3a57cf-79fe&quot;,&quot;event_time_delta&quot;:234,&quot;version&quot;:9,&quot;available_players&quot;:[&quot;notplayable&quot;,&quot;passwordprotected&quot;,&quot;external&quot;,&quot;vulcan-v2&quot;,&quot;html5&quot;],&quot;in_fullscreen&quot;:false,&quot;buffered&quot;:0,&quot;played&quot;:0}"
+        recordRawValue="${AutoPassword_2}" separator=""
+        value="${AutoPassword_2}" valueMode="USE_VALUE"/>
+    <urlPostParameter encodeName="true" encodeValue="true" name="topic"
+        recordRawValue="metrics" separator="=" value="metrics" valueMode="USE_VALUE"/>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Host" value="pipedream.wistia.com"/>
+    <header name="Origin" value="https://www.tricentis.com"/>
+    <header name="Priority" value="u=3, i"/>
+    <header name="Referer" value="https://www.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: text/plain; charset=utf-8&#xd;
+Content-Length: 2&#xd;
+Connection: keep-alive&#xd;
+Date: Tue, 05 Nov 2024 17:22:59 GMT&#xd;
+server: envoy&#xd;
+access-control-allow-methods: POST, OPTIONS&#xd;
+access-control-allow-origin: *&#xd;
+x-envoy-upstream-service-time: 1&#xd;
+X-Cache: Miss from cloudfront&#xd;
+Via: 1.1 6b299fba3097edc418d31635f9878a64.cloudfront.net (CloudFront)&#xd;
+X-Amz-Cf-Pop: MNL52-P1&#xd;
+X-Amz-Cf-Id: DzfZcjFkR3SADIr_Lhqs3cueoLCbZHfdDpcO_9bm1I3me4Em0U0tkw==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/x" path="/x" postType="4"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/e904ad36-b3ca-4373-80c4-ef01b912980d.zip"
+    recordedResponseCode="204" responseSize="0"
+    serverUid="distillery.wistia.com" slaProfileEnabled="false"
+    uid="ea878245-8186-4fb7-9db9-354859d08701" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_ea878245-8186-4fb7-9db9-354859d08701.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="text/plain"/>
+    <header name="Host" value="distillery.wistia.com"/>
+    <header name="Origin" value="https://www.tricentis.com"/>
+    <header name="Priority" value="u=3, i"/>
+    <header name="Referer" value="https://www.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 204 No Content&#xd;
+Connection: keep-alive&#xd;
+Date: Tue, 05 Nov 2024 17:22:59 GMT&#xd;
+x-envoy-upstream-service-time: 1&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: max-age=0, private, must-revalidate&#xd;
+server: envoy&#xd;
+X-Cache: Miss from cloudfront&#xd;
+Via: 1.1 f4a0124fc1a4d3b29bd3964c5b0f9c32.cloudfront.net (CloudFront)&#xd;
+X-Amz-Cf-Pop: MNL52-P2&#xd;
+X-Amz-Cf-Id: Mye3Tq5dc0XDhFZw4qfADHTubeb-NMWXNvl7Ve742rWMMcIAk9GY-g==</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <textPostContent><![CDATA[eyJhY2NvdW50X2tleSI6Indpc3RpYS1wcm9kdWN0aW9uXzg0Mzc2OCIsImV2ZW50X2RldGFpbHMiOlt7ImtleSI6ImluaXRpYWxpemVkIiwidmFsdWUiOiIwLjAiLCJ0aW1lRGVsdGEiOjAsInVuaXF1ZVBsYXllZFRpbWUiOjAsInVuaXF1ZVBsYXllZFJhdGlvIjowLCJsYXN0QWNjb3VudEluc3RhbmNlIjoibm9uZSIsImxhc3RNZWRpYUluc3RhbmNlIjoibm9uZSIsImlzVW5pcXVlIjp0cnVlfV0sInBhZ2VfdGl0bGUiOiJOZW9Mb2FkIFBlZm9ybWFuY2UgVGVzdGluZyBGcmVlIFRyaWFsIC0gVHJpY2VudGlzIiwiYnJvd3Nlcl9sYW5ndWFnZSI6ImVuLVVTIiwiZm9yZWlnbl9kYXRhIjpudWxsLCJtZWRpYV9kdXJhdGlvbiI6MzM2LjEyOCwibWVkaWFfaWQiOiJ3aXN0aWEtcHJvZHVjdGlvbl85MjQxNjgxNiIsIm1lZGlhX3R5cGUiOiJWaWRlbyIsInJlZmVycmVyIjoiaHR0cHM6Ly93d3cudHJpY2VudGlzLmNvbS9scC9uZW9sb2FkLXBlcmZvcm1hbmNlLXRlc3RpbmctdjIiLCJyZWZlcnJlcl91cmwiOiJodHRwczovL3d3dy50cmljZW50aXMuY29tL2xwL25lb2xvYWQtcGVyZm9ybWFuY2UtbG9hZC10ZXN0aW5nLXBwYz91dG1fc291cmNlPWdvb2dsZSZ1dG1fbWVkaXVtPXBhaWRzZWFyY2gmdXRtX2NhbXBhaWduPU5lb0xvYWRfU2VhcmNoX0JyYW5kX0hpZ2hfQVBBQ19FTiZ1dG1fdGVybT1uZW9sb2FkJmdhZF9zb3VyY2U9MSZnYnJhaWQ9MEFBQUFBRHRyaEw4amIwOV9sb0JHRW5ORXlXZ3RWVGNEUyIsInJlc3VtYWJsZV9rZXkiOiIxNzMwODI3X2QzY2NlYTI1LTc1Y2ItNDkwNS1hZGIwLTNmOTBhNjY1N2I3Zi02NzEzYzVmMzktZDFmZDZiM2E1N2NmLTc5ZmUiLCJzZXNzaW9uX2lkIjoiMTczMDgyN19jYTdlNmFjZC0zODUyLTQ1MzEtOTIzMi1iZTkwZmJkZGEyZGQtOGViMWQ4OTFlLTk5NTJjYTA0ZGY3Ny01NzI0IiwidXRtX3BhcmFtcyI6eyJjYW1wYWlnbiI6bnVsbCwibWVkaXVtIjpudWxsLCJzb3VyY2UiOm51bGx9LCJ2aXNpdG9yX3ZlcnNpb24iOjAsImV2ZW50X3ZlcnNpb24iOiIxLjAuMCIsInBsYXllcl90eXBlIjoibW9kZXJuIiwiZW5hYmxlZF9lbWJlZF9vcHRpb25zIjp7InR1cm5zdGlsZV9lbmFibGVkIjpmYWxzZSwiYW5ub3RhdGlvbl9saW5rX2VuYWJsZWQiOnRydWUsImNhbGxfdG9fYWN0aW9uX2VuYWJsZWQiOnRydWUsImV2ZW50YnJpdGVfZW5hYmxlZCI6ZmFsc2UsImh1YnNwb3RfZm9ybV9lbmFibGVkIjpmYWxzZSwibWFya2V0b19mb3JtX2VuYWJsZWQiOmZhbHNlLCJhdXRvX3BsYXlfZW5hYmxlZCI6ZmFsc2UsImxvb3BpbmdfZW5hYmxlZCI6ZmFsc2V9LCJ2aXNpYmlsaXR5X21ldHJpY3MiOnsic2NyZWVuX3Njcm9sbHMiOjMuNTUzMDc0NzgzNjgzNTYwMywicmF0aW9fb2Zfc2NyZWVuIjowLjI1NDYzNTM1MjI4Njc3MzgsInNjcmVlbl93aWR0aCI6NDE0LCJzY3JlZW5faGVpZ2h0Ijo4OTZ9LCJldmVudF9rZXkiOiIxNzMwODI3X2QzY2NlYTI1LTc1Y2ItNDkwNS1hZGIwLTNmOTBhNjY1N2I3Zi02NzEzYzVmMzktZDFmZDZiM2E1N2NmLTc5ZmUiLCJzZWNvbmRzX3dhdGNoZWQiOjAsInByb2plY3RfaWQiOjc1MjQ5Njd9]]></textPostContent>
+</http-action>
+<http-action actionType="1" contentType="application/vnd.apple.mpegurl"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/deliveries/b01becaa2ec13c13c8c4a436cd5c7d0111afea27.m3u8"
+    path="/deliveries/b01becaa2ec13c13c8c4a436cd5c7d0111afea27.m3u8"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/e904ad36-b3ca-4373-80c4-ef01b912980d.zip"
+    recordedResponseCode="200" responseSize="10108"
+    serverUid="embed-cloudfront.wistia.com" slaProfileEnabled="false"
+    uid="e15a89b0-35eb-441a-84d1-29265c154a9b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_e15a89b0-35eb-441a-84d1-29265c154a9b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_e15a89b0-35eb-441a-84d1-29265c154a9b.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="embed-cloudfront.wistia.com"/>
+    <header name="Origin" value="https://www.tricentis.com"/>
+    <header name="Priority" value="u=3, i"/>
+    <header name="Referer" value="https://www.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="video"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <header name="X-Playback-Session-Id" value="CBA6BA4C-BABF-43EE-B089-AD0D68D89769"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Content-Type: application/vnd.apple.mpegurl&#xd;
+Content-Length: 10108&#xd;
+Connection: keep-alive&#xd;
+Server: envoy&#xd;
+Last-Modified: Mon, 05 Nov 2018 10:11:00 GMT&#xd;
+edge-cache-tag: b01becaa2ec13c13c8c4a436cd5c7d0111afea27-hls-segment&#xd;
+surrogate-key: b01becaa2ec13c13c8c4a436cd5c7d0111afea27-hls-segment&#xd;
+Accept-Ranges: bytes&#xd;
+x-envoy-upstream-service-time: 256&#xd;
+Date: Mon, 04 Nov 2024 02:17:22 GMT&#xd;
+Expires: Tue, 04 Nov 2025 02:17:22 GMT&#xd;
+Cache-Control: max-age=31536000&#xd;
+X-Cache: Hit from cloudfront&#xd;
+Via: 1.1 92cdfc0bad3c64cc372dc9b56628aa34.cloudfront.net (CloudFront)&#xd;
+X-Amz-Cf-Pop: MNL52-P3&#xd;
+X-Amz-Cf-Id: SU8Lxz4a344Cg3Db2iB1mpBsMyv5Rwo3_zOsN9aV119zpNIwWVQp_w==&#xd;
+Age: 140737&#xd;
+x-cdn: cloudfront&#xd;
+Access-Control-Allow-Origin: *&#xd;
+Access-Control-Expose-Headers: Server,range,Content-Length,Content-Range,x-cdn</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

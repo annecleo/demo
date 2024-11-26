@@ -11,8 +11,10 @@
 </http-page>
 <http-action actionType="1"
     contentType="application/vnd.ms-cab-compressed"
-    extractorInjectPathPolicy="2" extractorPathPolicy="1"
-    followRedirects="false" generatedByClient="false"
+    eTag="&quot;746787a3f0d91:0&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 26 Sep 2023 18:01:51 GMT"
     linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET"

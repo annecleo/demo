@@ -1,0 +1,243 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/Data-Transfer-Page-20.html" playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/f7e69b36-18ef-42a2-af68-e4f79f8e6462.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="f7e69b36-18ef-42a2-af68-e4f79f8e6462">
+    <embedded-action>9f74f5e6-d9e9-44e8-824a-47075896f92c</embedded-action>
+    <embedded-action>f5e7c4a9-2bd0-4278-b33a-98e97b1a9cea</embedded-action>
+    <embedded-action>c3a2223d-06d1-44b9-8b98-1e8e7aec3058</embedded-action>
+    <embedded-action>9335a48f-f0ed-4154-84dd-01c74a7878e5</embedded-action>
+    <embedded-action>d71eb94a-995b-4ffd-ba2e-6ef527bda136</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/Data-Transfer-Page-20.html"
+    path="/Data-Transfer-Page-20.html" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/f7e69b36-18ef-42a2-af68-e4f79f8e6462.zip"
+    recordedResponseCode="200" responseSize="3517"
+    serverUid="lps.tricentis.com" slaProfileEnabled="false"
+    uid="9f74f5e6-d9e9-44e8-824a-47075896f92c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9f74f5e6-d9e9-44e8-824a-47075896f92c.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9f74f5e6-d9e9-44e8-824a-47075896f92c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name=""
+        recordRawValue="" separator="" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="_mkt_trk"
+        recordRawValue="undefined" separator="=" value="undefined" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="__cf_bm=M2wWP455qexvbjUiIF5k8RkBEwb7Q39kQnghF9Cuf3I-1730827377-1.0.1.1-7F5NF9q2gBOb4SElCHKnDDhmGVWzeVv43uyyhsGngQmmhGhqWusBe4wbmIGNfInxnC1koVf.MTYRqWImloTVWA; OptanonAlertBoxClosed=2024-11-05T17:22:57.384Z; OptanonConsent=isGpcEnabled=0&amp;datestamp=Wed+Nov+06+2024+01%3A22%3A57+GMT%2B0800+(Philippine+Standard+Time)&amp;version=202401.1.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1%2CC0005%3A1&amp;AwaitingReconsent=false; optimizelyEndUserId=oeu1730827375532r0.5053756356237025; optimizelyRedirectData=a=26508490611&amp;aId=1730827375531&amp;as=&amp;cN=js&amp;cV=0.214.0&amp;d=21c0c453-37af-44c7-b08f-d016f25942a9&amp;i=oeu1730827375532r0.5053756356237025&amp;iS.google_analytics_4=%7B%7D&amp;isv=2&amp;l=30081230388&amp;lN=Redirection%20test&amp;lP=single_experiment&amp;n=1410&amp;ns=26508490611&amp;p=26508490611&amp;r=&amp;s=62611d8b-aa22-40f2-85bd-0de9352048b6&amp;t=1730827375544&amp;v=30099120099&amp;vN=Variation%20%231&amp;x=30083960129&amp;xN=Redirection%20test"/>
+    <header name="Host" value="lps.tricentis.com"/>
+    <header name="Priority" value="u=0, i"/>
+    <header name="Referer" value="https://www.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="iframe"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 05 Nov 2024 17:22:59 GMT&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Cache-Control: stale-while-revalidate=60, max-age=300, public&#xd;
+P3p: CP="CAO CURa ADMa DEVa TAIa OUR IND UNI COM NAV INT"&#xd;
+X-Asset-Type: LP&#xd;
+Vary: *,Accept-Encoding&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-Cache-Status: EXPIRED&#xd;
+X-MKTO-Nginx-Cache: true&#xd;
+Set-Cookie: BIGipServersj19web-nginx-app_https=!AnWyWmgzC2lZuwyu/iht9W3PGpXZckizqmc4iBv6a+28iQjL/Fv4ROMRJ4T6vSQ94rWWGfpOfHjWLQ==; Path=/; Version=1; Secure; Httponly&#xd;
+CF-Cache-Status: DYNAMIC&#xd;
+Server: cloudflare&#xd;
+CF-RAY: 8dde876d2adb6597-SIN&#xd;
+Content-Encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/a3591ba5e949a37083cc6f5a4191e903.min.js"
+    path="/a3591ba5e949a37083cc6f5a4191e903.min.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/f7e69b36-18ef-42a2-af68-e4f79f8e6462.zip"
+    recordedResponseCode="200" responseSize="2748"
+    serverUid="js.sentry-cdn.com" slaProfileEnabled="false"
+    uid="f5e7c4a9-2bd0-4278-b33a-98e97b1a9cea" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_f5e7c4a9-2bd0-4278-b33a-98e97b1a9cea</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_f5e7c4a9-2bd0-4278-b33a-98e97b1a9cea.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="js.sentry-cdn.com"/>
+    <header name="Origin" value="https://www.tricentis.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://www.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Connection: keep-alive&#xd;
+Content-Length: 1331&#xd;
+content-type: text/javascript&#xd;
+access-control-allow-origin: *&#xd;
+cache-control: public, max-age=3600, s-maxage=60, stale-while-revalidate=315360000, stale-if-error=315360000&#xd;
+x-frame-options: deny&#xd;
+x-content-type-options: nosniff&#xd;
+x-xss-protection: 1; mode=block&#xd;
+content-security-policy: base-uri 'none'; connect-src 'self' *.algolia.net *.algolianet.com *.algolia.io sentry.io *.sentry.io s1.sentry-cdn.com o1.ingest.sentry.io api2.amplitude.com app.pendo.io data.pendo.io reload.getsentry.net t687h3m0nh65.statuspage.io sentry.zendesk.com ekr.zdassets.com maps.googleapis.com; frame-src app.pendo.io demo.arcade.software js.stripe.com sentry.io; default-src 'none'; frame-ancestors 'self' *.sentry.io; object-src 'none'; font-src * data:; style-src * 'unsafe-inline'; script-src 'self' 'unsafe-inline' 'report-sample' s1.sentry-cdn.com js.sentry-cdn.com browser.sentry-cdn.com statuspage-production.s3.amazonaws.com static.zdassets.com aui-cdn.atlassian.com connect-cdn.atl-paas.net js.stripe.com 'strict-dynamic' cdn.pendo.io data.pendo.io pendo-io-static.storage.googleapis.com pendo-static-5634074999128064.storage.googleapis.com; img-src * blob: data:; worker-src blob:; media-src *; report-uri https://o1.ingest.sentry.io/api/54785/security/?sentry_key=f724a8a027db45f5b21507e7142ff78e&amp;sentry_release=113112402894fa41de51e3800d7be01af993c1d3&#xd;
+x-envoy-attempt-count: 1&#xd;
+x-envoy-upstream-service-time: 14&#xd;
+Content-Encoding: gzip&#xd;
+Accept-Ranges: bytes&#xd;
+Date: Tue, 05 Nov 2024 17:22:58 GMT&#xd;
+Age: 25&#xd;
+X-Served-By: getsentry-web-default-common-production-665f9c85c7-dc9g7, cache-chi-klot8100079-CHI, cache-mnl9725-MNL&#xd;
+Vary: Accept-Encoding&#xd;
+Timing-Allow-Origin: *&#xd;
+Strict-Transport-Security: max-age=31536000; includeSubDomains</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/x-javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/js/stripmkttok.js" path="/js/stripmkttok.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/f7e69b36-18ef-42a2-af68-e4f79f8e6462.zip"
+    recordedResponseCode="200"
+    refererUid="9f74f5e6-d9e9-44e8-824a-47075896f92c"
+    responseSize="1538" serverUid="lps.tricentis.com"
+    slaProfileEnabled="false" uid="c3a2223d-06d1-44b9-8b98-1e8e7aec3058" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_c3a2223d-06d1-44b9-8b98-1e8e7aec3058</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_c3a2223d-06d1-44b9-8b98-1e8e7aec3058.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="BIGipServersj19web-nginx-app_https=!AnWyWmgzC2lZuwyu/iht9W3PGpXZckizqmc4iBv6a+28iQjL/Fv4ROMRJ4T6vSQ94rWWGfpOfHjWLQ==; __cf_bm=M2wWP455qexvbjUiIF5k8RkBEwb7Q39kQnghF9Cuf3I-1730827377-1.0.1.1-7F5NF9q2gBOb4SElCHKnDDhmGVWzeVv43uyyhsGngQmmhGhqWusBe4wbmIGNfInxnC1koVf.MTYRqWImloTVWA; OptanonAlertBoxClosed=2024-11-05T17:22:57.384Z; OptanonConsent=isGpcEnabled=0&amp;datestamp=Wed+Nov+06+2024+01%3A22%3A57+GMT%2B0800+(Philippine+Standard+Time)&amp;version=202401.1.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1%2CC0005%3A1&amp;AwaitingReconsent=false; optimizelyEndUserId=oeu1730827375532r0.5053756356237025; optimizelyRedirectData=a=26508490611&amp;aId=1730827375531&amp;as=&amp;cN=js&amp;cV=0.214.0&amp;d=21c0c453-37af-44c7-b08f-d016f25942a9&amp;i=oeu1730827375532r0.5053756356237025&amp;iS.google_analytics_4=%7B%7D&amp;isv=2&amp;l=30081230388&amp;lN=Redirection%20test&amp;lP=single_experiment&amp;n=1410&amp;ns=26508490611&amp;p=26508490611&amp;r=&amp;s=62611d8b-aa22-40f2-85bd-0de9352048b6&amp;t=1730827375544&amp;v=30099120099&amp;vN=Variation%20%231&amp;x=30083960129&amp;xN=Redirection%20test"/>
+    <header name="Host" value="lps.tricentis.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://lps.tricentis.com/Data-Transfer-Page-20.html?&amp;_mkt_trk=undefined"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 05 Nov 2024 17:22:59 GMT&#xd;
+Content-Type: application/x-javascript&#xd;
+Content-Length: 678&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Tue, 01 Oct 2024 21:10:28 GMT&#xd;
+ETag: "13c057b-602-62370c030d900"&#xd;
+Vary: Accept-Encoding&#xd;
+Content-Encoding: gzip&#xd;
+X-Content-Type-Options: nosniff&#xd;
+CF-Cache-Status: HIT&#xd;
+Expires: Tue, 05 Nov 2024 21:22:59 GMT&#xd;
+Cache-Control: public, max-age=14400&#xd;
+Accept-Ranges: bytes&#xd;
+Server: cloudflare&#xd;
+CF-RAY: 8dde87702cfe2f16-SIN</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="5"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/formsPlus.min.js" path="/formsPlus.min.js"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/f7e69b36-18ef-42a2-af68-e4f79f8e6462.zip"
+    recordedResponseCode="200"
+    refererUid="9f74f5e6-d9e9-44e8-824a-47075896f92c"
+    responseSize="42045" serverUid="media.tricentis.com"
+    slaProfileEnabled="false" uid="9335a48f-f0ed-4154-84dd-01c74a7878e5" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9335a48f-f0ed-4154-84dd-01c74a7878e5</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9335a48f-f0ed-4154-84dd-01c74a7878e5.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="_mkto_trk=id:070-PYT-570&amp;token:_mch-tricentis.com-1730827379260-32137; _mkto_trk_http=id:070-PYT-570&amp;token:_mch-tricentis.com-1730827379260-32137; OptanonAlertBoxClosed=2024-11-05T17:22:57.384Z; OptanonConsent=isGpcEnabled=0&amp;datestamp=Wed+Nov+06+2024+01%3A22%3A57+GMT%2B0800+(Philippine+Standard+Time)&amp;version=202401.1.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1%2CC0005%3A1&amp;AwaitingReconsent=false; optimizelyEndUserId=oeu1730827375532r0.5053756356237025; optimizelyRedirectData=a=26508490611&amp;aId=1730827375531&amp;as=&amp;cN=js&amp;cV=0.214.0&amp;d=21c0c453-37af-44c7-b08f-d016f25942a9&amp;i=oeu1730827375532r0.5053756356237025&amp;iS.google_analytics_4=%7B%7D&amp;isv=2&amp;l=30081230388&amp;lN=Redirection%20test&amp;lP=single_experiment&amp;n=1410&amp;ns=26508490611&amp;p=26508490611&amp;r=&amp;s=62611d8b-aa22-40f2-85bd-0de9352048b6&amp;t=1730827375544&amp;v=30099120099&amp;vN=Variation%20%231&amp;x=30083960129&amp;xN=Redirection%20test"/>
+    <header name="Host" value="media.tricentis.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://lps.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 05 Nov 2024 17:22:59 GMT&#xd;
+Content-Type: text/javascript&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Vary: Accept-Encoding&#xd;
+Last-Modified: Fri, 13 Sep 2024 13:37:29 GMT&#xd;
+x-ms-request-id: 88d52fcd-401e-0081-7d24-2d4330000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-azure-ref: 20241105T172259Z-18557d4f7b88c9h4hC1SGEngw0000000042000000000d7du&#xd;
+x-fd-int-roxy-purgeid: 0&#xd;
+X-Cache: TCP_HIT&#xd;
+Content-Encoding: br</responseHeaders>
+    <record-html-infos extractorContent=""
+        extractorId="teknklSimpleDTO-1.0.4" extractorOccurence="1"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="text/javascript"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/SimpleDTO.js" path="/SimpleDTO.js" postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/f7e69b36-18ef-42a2-af68-e4f79f8e6462.zip"
+    recordedResponseCode="200"
+    refererUid="9f74f5e6-d9e9-44e8-824a-47075896f92c"
+    responseSize="2830" serverUid="media.tricentis.com"
+    slaProfileEnabled="false" uid="d71eb94a-995b-4ffd-ba2e-6ef527bda136" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d71eb94a-995b-4ffd-ba2e-6ef527bda136</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d71eb94a-995b-4ffd-ba2e-6ef527bda136.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="_mkto_trk=id:070-PYT-570&amp;token:_mch-tricentis.com-1730827379260-32137; _mkto_trk_http=id:070-PYT-570&amp;token:_mch-tricentis.com-1730827379260-32137; OptanonAlertBoxClosed=2024-11-05T17:22:57.384Z; OptanonConsent=isGpcEnabled=0&amp;datestamp=Wed+Nov+06+2024+01%3A22%3A57+GMT%2B0800+(Philippine+Standard+Time)&amp;version=202401.1.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1%2CC0005%3A1&amp;AwaitingReconsent=false; optimizelyEndUserId=oeu1730827375532r0.5053756356237025; optimizelyRedirectData=a=26508490611&amp;aId=1730827375531&amp;as=&amp;cN=js&amp;cV=0.214.0&amp;d=21c0c453-37af-44c7-b08f-d016f25942a9&amp;i=oeu1730827375532r0.5053756356237025&amp;iS.google_analytics_4=%7B%7D&amp;isv=2&amp;l=30081230388&amp;lN=Redirection%20test&amp;lP=single_experiment&amp;n=1410&amp;ns=26508490611&amp;p=26508490611&amp;r=&amp;s=62611d8b-aa22-40f2-85bd-0de9352048b6&amp;t=1730827375544&amp;v=30099120099&amp;vN=Variation%20%231&amp;x=30083960129&amp;xN=Redirection%20test"/>
+    <header name="Host" value="media.tricentis.com"/>
+    <header name="Priority" value="u=1, i"/>
+    <header name="Referer" value="https://lps.tricentis.com/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 05 Nov 2024 17:22:59 GMT&#xd;
+Content-Type: text/javascript&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+Vary: Accept-Encoding&#xd;
+Last-Modified: Fri, 13 Sep 2024 13:37:29 GMT&#xd;
+x-ms-request-id: 1d6cb196-401e-0028-7d53-2d8242000000&#xd;
+x-ms-version: 2009-09-19&#xd;
+x-ms-lease-status: unlocked&#xd;
+x-ms-blob-type: BlockBlob&#xd;
+x-azure-ref: 20241105T172259Z-er1b6dc89fdjhnwdhC1SG176n800000002e0000000004s65&#xd;
+x-fd-int-roxy-purgeid: 0&#xd;
+X-Cache-Info: L1_T2&#xd;
+X-Cache: TCP_HIT&#xd;
+Content-Encoding: br</responseHeaders>
+    <record-html-infos extractorContent=""
+        extractorId="teknklSimpleDTO-1.0.4" extractorOccurence="2"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>

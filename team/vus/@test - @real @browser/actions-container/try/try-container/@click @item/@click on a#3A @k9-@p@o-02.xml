@@ -26,7 +26,8 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//a[normalize-space(.)=&quot;K9-PO-02&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="xpath=//tbody/tr[(count(preceding-sibling::*)+1) = 3]/td[(count(preceding-sibling::*)+1) = 1]/a[(count(preceding-sibling::*)+1) = 1]"/>
     <custom-action-parameter name="waitForNavigation.url" type="TEXT" value=".*"/>
-    <responsePageFileDescription>recorded-responses/res_f2a4da08-9423-4ed1-9d5f-b8d2755d93cf</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_f2a4da08-9423-4ed1-9d5f-b8d2755d93cf.jpg</screenshotFileDescription>
+    <responsePageFileDescription>team/vus/@test - @real @browser/%resources%/recorded-responses/res_f2a4da08-9423-4ed1-9d5f-b8d2755d93cf</responsePageFileDescription>
+    <screenshotFileDescription>team/vus/@test - @real @browser/%resources%/recorded-screenshots/sc_f2a4da08-9423-4ed1-9d5f-b8d2755d93cf.jpg</screenshotFileDescription>
     <embedded-action>6592152a-95ab-409a-a9df-2dd893512359</embedded-action>
 </browser-action>
+<browser-page-action name="" slaProfileEnabled="false" uid="6592152a-95ab-409a-a9df-2dd893512359"/>

@@ -1,13 +1,19 @@
 <lg-host browserBasedSupport="true" citrixSupport="false"
     hostname="localhost:7100" loadWeight="1" sapSupport="false"
     standalone="false" supportWANEmulation="false"
-    uid="f3fe9714-588f-45b8-8b66-b57a4c337f2a" version="2024.2.1;build=20240821-55">
+    uid="f3fe9714-588f-45b8-8b66-b57a4c337f2a" version="2024.3.0;build=20241031-38">
     <!--****** LG NETWORK INTERFACES ******-->
     <lg-networkiface description="Intel(R) Wi-Fi 6E AX211 160MHz"
-        enabled="false" isLoopBack="false" name="wlan1">
+        enabled="true" isLoopBack="false" name="wlan1">
         <!--****** LG ADDRESSES ******-->
         <lg-address enabled="false" hostname="aural-39x4c24">
-            <ip value="10.50.120.190"/>
+            <ip value="192.168.1.89"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2001:4451:244:4d00:2360:20cf:cf8b:9d5c">
+            <ip value="2001:4451:244:4d00:2360:20cf:cf8b:9d5c"/>
+        </lg-address>
+        <lg-address enabled="false" hostname="2001:4451:244:4d00:e573:cee0:ba3a:4575">
+            <ip value="2001:4451:244:4d00:e573:cee0:ba3a:4575"/>
         </lg-address>
         <lg-address enabled="false" hostname="fe80:0:0:0:4223:f1df:c16a:e553%wlan1">
             <ip value="fe80:0:0:0:4223:f1df:c16a:e553%wlan1"/>
@@ -44,9 +50,9 @@
     </lg-networkiface>
     <lg-networkiface
         description="Microsoft Wi-Fi Direct Virtual Adapter"
-        enabled="false" isLoopBack="false" name="wlan2">
+        enabled="true" isLoopBack="false" name="wlan2">
         <!--****** LG ADDRESSES ******-->
-        <lg-address enabled="false" hostname="fe80:0:0:0:770f:75b7:b243:8c0c%wlan2">
+        <lg-address enabled="true" hostname="fe80:0:0:0:770f:75b7:b243:8c0c%wlan2">
             <ip value="fe80:0:0:0:770f:75b7:b243:8c0c%wlan2"/>
         </lg-address>
         <!--****** END LG ADDRESSES ******-->

@@ -1,0 +1,46 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/_next/static/media/tricentis-white-carets.8dee12c9.svg"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/9d29aa8c-0f2e-408d-8e89-a71b0b3afd02.zip"
+    slaProfileEnabled="false" thinkTime="1143"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="9d29aa8c-0f2e-408d-8e89-a71b0b3afd02">
+    <embedded-action>df563ee2-38a9-41d4-9c67-203a7f0e0436</embedded-action>
+</http-page>
+<http-action actionType="1" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false" linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/_next/static/media/tricentis-white-carets.8dee12c9.svg"
+    path="/_next/static/media/tricentis-white-carets.8dee12c9.svg"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/9d29aa8c-0f2e-408d-8e89-a71b0b3afd02.zip"
+    recordedResponseCode="304" responseSize="0"
+    serverUid="www.tricentis.com" slaProfileEnabled="false"
+    uid="df563ee2-38a9-41d4-9c67-203a7f0e0436" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_df563ee2-38a9-41d4-9c67-203a7f0e0436.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/avif,image/jxl,image/heic,image/heic-sequence,video/*;q=0.8,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="OptanonAlertBoxClosed=2024-11-05T17:23:09.502Z; OptanonConsent=isGpcEnabled=0&amp;datestamp=Wed+Nov+06+2024+01%3A23%3A09+GMT%2B0800+(Philippine+Standard+Time)&amp;version=202401.1.0&amp;browserGpcFlag=0&amp;isIABGlobal=false&amp;hosts=&amp;landingPath=NotLandingPage&amp;groups=C0001%3A1%2CC0002%3A1%2CC0004%3A1%2CC0003%3A1%2CC0005%3A1&amp;AwaitingReconsent=false&amp;geolocation=PH%3B; _mkto_trk=id:070-PYT-570&amp;token:_mch-tricentis.com-1730827379260-32137; optimizelyEndUserId=oeu1730827375532r0.5053756356237025; _mkto_trk_http=id:070-PYT-570&amp;token:_mch-tricentis.com-1730827379260-32137"/>
+    <header name="Host" value="www.tricentis.com"/>
+    <header name="If-None-Match" value="&quot;b53b47f36ec3ad8811bdd1677d9605fa-ssl&quot;"/>
+    <header name="Priority" value="u=5, i"/>
+    <header name="Referer" value="https://www.tricentis.com/learn/load-testing"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 304 Not Modified&#xd;
+Cache-Control: public,max-age=0,must-revalidate&#xd;
+Cache-Status: "Netlify Edge"; hit&#xd;
+Date: Tue, 05 Nov 2024 17:23:12 GMT&#xd;
+Etag: "b53b47f36ec3ad8811bdd1677d9605fa-ssl"&#xd;
+Server: Netlify&#xd;
+Strict-Transport-Security: max-age=31536000&#xd;
+X-Nf-Request-Id: 01JBYNM5W288W4BVAHFDWTVXVD</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

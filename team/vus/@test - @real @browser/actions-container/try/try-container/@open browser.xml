@@ -31,5 +31,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="locale" type="TEXT" value="en-US"/>
     <custom-action-parameter name="timezone" type="TEXT" value="Asia/Shanghai"/>
     <custom-action-parameter name="userAgent" type="TEXT" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"/>
-    <responsePageFileDescription>recorded-responses/res_c22eeab1-b61a-4f49-9fa5-0c288218ba9c</responsePageFileDescription>
+    <responsePageFileDescription>team/vus/@test - @real @browser/%resources%/recorded-responses/res_c22eeab1-b61a-4f49-9fa5-0c288218ba9c</responsePageFileDescription>
 </browser-action>

@@ -1,0 +1,58 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/%24rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/81cfa7cd-d1b2-49e5-8a6d-7f93d9526cb4.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="81cfa7cd-d1b2-49e5-8a6d-7f93d9526cb4">
+    <embedded-action>24ec67d4-d738-409d-89c2-a55f8fff5486</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="OPTIONS"
+    name="/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData"
+    path="/$rpc/google.internal.onegoogle.asyncdata.v1.AsyncDataService/GetAsyncData"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@user@path_6/%resources%/recorded-artifacts/81cfa7cd-d1b2-49e5-8a6d-7f93d9526cb4.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="ogads-pa.googleapis.com" slaProfileEnabled="false"
+    uid="24ec67d4-d738-409d-89c2-a55f8fff5486" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_24ec67d4-d738-409d-89c2-a55f8fff5486.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Access-Control-Request-Headers" value="content-type,x-goog-api-key,x-user-agent"/>
+    <header name="Access-Control-Request-Method" value="POST"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="ogads-pa.googleapis.com"/>
+    <header name="Origin" value="https://www.google.com.ph"/>
+    <header name="Priority" value="u=3, i"/>
+    <header name="Referer" value="https://www.google.com.ph/"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="cross-site"/>
+    <header name="User-Agent" value="Mozilla/5.0 (iPhone; CPU iPhone OS 18_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Mobile/15E148 Safari/604.1"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Access-Control-Allow-Origin: https://www.google.com.ph&#xd;
+Vary: origin&#xd;
+Vary: referer&#xd;
+Vary: x-origin&#xd;
+Access-Control-Allow-Credentials: true&#xd;
+Access-Control-Allow-Methods: DELETE,GET,HEAD,OPTIONS,PATCH,POST,PUT&#xd;
+Access-Control-Allow-Headers: content-type,x-goog-api-key,x-user-agent&#xd;
+Access-Control-Max-Age: 3600&#xd;
+Date: Tue, 05 Nov 2024 17:22:54 GMT&#xd;
+Content-Type: text/html&#xd;
+Server: ESF&#xd;
+Content-Length: 0&#xd;
+X-XSS-Protection: 0&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+X-Content-Type-Options: nosniff&#xd;
+Server-Timing: gfet4t7; dur=29&#xd;
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

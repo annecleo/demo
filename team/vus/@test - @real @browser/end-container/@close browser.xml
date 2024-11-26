@@ -10,5 +10,5 @@ Possible parameters are:&#xd;
 - shouldCloseOnlyContext (optional): true or false to close only RealBrowser context and reuse previous browser for current VU. RealBrowser context is cheap to create/destroy. Default value is "false".</description>
     <custom-action-parameter name="shouldCloseOnlyContext" type="TEXT" value="false"/>
     <custom-action-parameter name="ignoreErrors" type="TEXT" value="true"/>
-    <responsePageFileDescription>recorded-responses/res_426088da-ea9f-484c-ac70-0b5979b10792</responsePageFileDescription>
+    <responsePageFileDescription>team/vus/@test - @real @browser/%resources%/recorded-responses/res_426088da-ea9f-484c-ac70-0b5979b10792</responsePageFileDescription>
 </browser-action>

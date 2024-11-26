@@ -13,5 +13,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="resourceType" type="TEXT" value="image"/>
     <custom-action-parameter name="resourceType" type="TEXT" value="stylesheet"/>
     <custom-action-parameter name="resourceType" type="TEXT" value="document"/>
-    <responsePageFileDescription>recorded-responses/res_7d4ab668-f72d-4e43-8664-469394921c1f</responsePageFileDescription>
+    <responsePageFileDescription>team/vus/@test - @real @browser/%resources%/recorded-responses/res_7d4ab668-f72d-4e43-8664-469394921c1f</responsePageFileDescription>
 </browser-action>
