@@ -21,5 +21,5 @@
     </end-container>
     <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
         thinktimeFactorValue="100" thinktimePolicy="0"
-        thinktimeRangeValue="0" thinktimeValue="5000"/>
+        thinktimeRangeValue="0" thinktimeValue="50000"/>
 </virtual-user>
