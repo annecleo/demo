@@ -1,0 +1,16 @@
+# Project description file
+
+project.name=SampleTest
+project.version=8.10
+project.original.version=8.10
+product.name=NeoLoad
+product.original.name=NeoLoad
+ssh.trustUnknownHosts.MONITORS=false
+monitor.tls.insecure=false
+product.original.version=2024.3.0
+project.is-open-test-settings-after-upload=false
+project.id=110fc47e-f866-4abc-9d4d-ff190fd923a8
+project.config.path=team
+project.config.storage=XML_MULTI
+team.server.enabled=true
+team.server.project=/annecleo/demo.git
