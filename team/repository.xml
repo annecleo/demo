@@ -1,0 +1,159 @@
+<!--****** MONITORED HOSTS ******-->
+<monitored-host-system host-name="" load-generator="false" proxy-id="" uid="NeoLoad">
+    <embedded-action>a95a801c-be27-40f8-9fd0-54347cf766bf</embedded-action>
+</monitored-host-system>
+<!--****** END MONITORED HOSTS ******-->
+<!--****** MONITOR CONNECTIONS ******-->
+<connection-system interval="1000" name="NeoLoad" server-port="0" uid="a95a801c-be27-40f8-9fd0-54347cf766bf">
+    <monitor-category name="Default" short-display-name="Default">
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="UserLoad" sampling="0" unit=""/>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="throughput" sampling="0" unit="Mb/s"/>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="Alerts" sampling="0" unit=""/>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="CriticalAlerts" sampling="0" unit=""/>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="WarningAlerts" sampling="0" unit=""/>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="cpu" sampling="0"
+            threshold="58b9764c-b6b2-48c2-9960-d7eb0f8e531b" unit="%"/>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="memory" sampling="0"
+            threshold="c92f81a0-cbf4-4efe-b501-23223881c390" unit="%"/>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="memoryos" sampling="0"
+            threshold="f1c91e2f-dcd8-4d13-94f6-412a084e021f" unit="%"/>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="threadcount" sampling="0" unit=""/>
+        <monitor-category name="Load Generator Connections" short-display-name="Load Generator Connections">
+            <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+                format="NUMBER" name="connectedlg" sampling="0" unit=""/>
+            <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+                format="NUMBER" name="totallgdisconnections"
+                sampling="0"
+                threshold="1515984b-efcd-4043-9b4e-007a2f143ac1" unit=""/>
+            <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+                format="NUMBER" name="totallgreconnections" sampling="0" unit=""/>
+        </monitor-category>
+        <monitor-category name="Network" short-display-name="Network">
+            <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+                format="NUMBER" name="otcp.NeoLoad" sampling="0" unit=""/>
+            <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+                format="NUMBER" name="tcp.NeoLoad" sampling="0" unit=""/>
+            <monitor-category
+                name="wlan1 (Intel(R) Wi-Fi 6E AX211 160MHz)" short-display-name="wlan1 (Intel(R) Wi-Fi 6E AX211 160MHz)">
+                <monitor-wrapped-statistic callTime="ON_BENCH"
+                    computing="0" format="NUMBER"
+                    name="ibytesperinterface~NeoLoad~wlan1" sampling="0" unit="Mb/s"/>
+                <monitor-wrapped-statistic callTime="ON_BENCH"
+                    computing="0" format="NUMBER"
+                    name="obytesperinterface~NeoLoad~wlan1" sampling="0" unit="Mb/s"/>
+            </monitor-category>
+            <monitor-category
+                name="eth2 (Realtek PCIe GbE Family Controller)" short-display-name="eth2 (Realtek PCIe GbE Family Controller)">
+                <monitor-wrapped-statistic callTime="ON_BENCH"
+                    computing="0" format="NUMBER"
+                    name="ibytesperinterface~NeoLoad~eth2" sampling="0" unit="Mb/s"/>
+                <monitor-wrapped-statistic callTime="ON_BENCH"
+                    computing="0" format="NUMBER"
+                    name="obytesperinterface~NeoLoad~eth2" sampling="0" unit="Mb/s"/>
+            </monitor-category>
+            <monitor-category
+                name="wlan2 (Microsoft Wi-Fi Direct Virtual Adapter)" short-display-name="wlan2 (Microsoft Wi-Fi Direct Virtual Adapter)">
+                <monitor-wrapped-statistic callTime="ON_BENCH"
+                    computing="0" format="NUMBER"
+                    name="ibytesperinterface~NeoLoad~wlan2" sampling="0" unit="Mb/s"/>
+                <monitor-wrapped-statistic callTime="ON_BENCH"
+                    computing="0" format="NUMBER"
+                    name="obytesperinterface~NeoLoad~wlan2" sampling="0" unit="Mb/s"/>
+            </monitor-category>
+        </monitor-category>
+        <monitor-category name="NeoLoad Web" short-display-name="NeoLoad Web">
+            <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+                format="NUMBER" name="nlwebdownload" sampling="0" unit=""/>
+            <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+                format="NUMBER" name="nlwebupload" sampling="0" unit=""/>
+        </monitor-category>
+        <monitor-wrapped-statistic callTime="ON_BENCH" computing="0"
+            format="NUMBER" name="SapUserLoad" sampling="0" unit=""/>
+    </monitor-category>
+    <threshold enabled="true" uid="58b9764c-b6b2-48c2-9960-d7eb0f8e531b">
+        <threshold-condition durationKind="SECONDS" durationNumber="15"
+            operator="GREATER_THAN" severity="LOW" valueMax="Infinity" valueMin="80.0">
+            <threshold-comment language="en">
+                <threshold-content>Controller CPU high.</threshold-content>
+            </threshold-comment>
+            <threshold-comment language="fr">
+                <threshold-content>CPU du Contrôleur surchargé.</threshold-content>
+            </threshold-comment>
+        </threshold-condition>
+        <threshold-condition durationKind="SECONDS" durationNumber="15"
+            operator="GREATER_THAN" severity="HIGH" valueMax="Infinity" valueMin="90.0">
+            <threshold-comment language="en">
+                <threshold-content>Controller CPU high.</threshold-content>
+            </threshold-comment>
+            <threshold-comment language="fr">
+                <threshold-content>CPU du Contrôleur surchargé.</threshold-content>
+            </threshold-comment>
+        </threshold-condition>
+    </threshold>
+    <threshold enabled="true" uid="c92f81a0-cbf4-4efe-b501-23223881c390">
+        <threshold-condition durationKind="SECONDS" durationNumber="15"
+            operator="GREATER_THAN" severity="LOW" valueMax="Infinity" valueMin="80.0">
+            <threshold-comment language="en">
+                <threshold-content>Too high amount of JVM memory used</threshold-content>
+            </threshold-comment>
+            <threshold-comment language="fr">
+                <threshold-content>Quantité de mémoire de la JVM  en cours d'utilisation élevée</threshold-content>
+            </threshold-comment>
+        </threshold-condition>
+        <threshold-condition durationKind="SECONDS" durationNumber="15"
+            operator="GREATER_THAN" severity="HIGH" valueMax="Infinity" valueMin="90.0">
+            <threshold-comment language="en">
+                <threshold-content>Too high amount of JVM memory used</threshold-content>
+            </threshold-comment>
+            <threshold-comment language="fr">
+                <threshold-content>Quantité de mémoire de la JVM  en cours d'utilisation élevée</threshold-content>
+            </threshold-comment>
+        </threshold-condition>
+    </threshold>
+    <threshold enabled="true" uid="f1c91e2f-dcd8-4d13-94f6-412a084e021f">
+        <threshold-condition durationKind="SECONDS" durationNumber="15"
+            operator="GREATER_THAN" severity="LOW" valueMax="Infinity" valueMin="80.0">
+            <threshold-comment language="en">
+                <threshold-content>Too high amount of OS memory used</threshold-content>
+            </threshold-comment>
+            <threshold-comment language="fr">
+                <threshold-content>Quantité de mémoire de l'OS  en cours d'utilisation élevée</threshold-content>
+            </threshold-comment>
+        </threshold-condition>
+        <threshold-condition durationKind="SECONDS" durationNumber="15"
+            operator="GREATER_THAN" severity="HIGH" valueMax="Infinity" valueMin="90.0">
+            <threshold-comment language="en">
+                <threshold-content>Too high amount of OS memory used</threshold-content>
+            </threshold-comment>
+            <threshold-comment language="fr">
+                <threshold-content>Quantité de mémoire de l'OS  en cours d'utilisation élevée</threshold-content>
+            </threshold-comment>
+        </threshold-condition>
+    </threshold>
+    <threshold enabled="true" uid="1515984b-efcd-4043-9b4e-007a2f143ac1">
+        <threshold-condition durationKind="NB_OF_TIMES"
+            durationNumber="1" operator="GREATER_THAN" severity="LOW"
+            valueMax="Infinity" valueMin="1.0">
+            <threshold-comment language="en">
+                <threshold-content>Load Generator Diconnected &gt;=1</threshold-content>
+            </threshold-comment>
+            <threshold-comment language="fr">
+                <threshold-content>Injecteur  déconnecté &gt;= 1</threshold-content>
+            </threshold-comment>
+        </threshold-condition>
+    </threshold>
+</connection-system>
+<!--****** END MONITOR CONNECTIONS ******-->
+<!--****** DASHBOARDS  ******-->
+<!--****** END DASHBOARDS  ******-->
+<!--****** RESULTS GRAPH DESC TEMPLATES ******-->
+<charts-templates-description name="template.customs"/>
